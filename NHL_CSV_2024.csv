@@ -1,0 +1,1313 @@
+game_date,visitor_team,visitor_goals,home_team,home_goals,attendance,game_lenght,game_decided
+2024-04-18,Chicago Blackhawks,4,Pittsburgh Penguins,2,"18,411",2:34,
+2024-04-18,Nashville Predators,3,Tampa Bay Lightning,5,"19,092",2:33,
+2024-04-18,Seattle Kraken,1,Vegas Golden Knights,4,"18,724",2:22,
+2024-04-18,Chicago Blackhawks,1,Boston Bruins,3,"17,850",2:29,
+2024-04-18,Ottawa Senators,3,Carolina Hurricanes,5,"18,893",2:33,
+2024-04-18,Winnipeg Jets,3,Calgary Flames,5,"17,414",2:32,
+2024-04-18,Colorado Avalanche,5,Los Angeles Kings,2,"18,145",2:37,
+2024-04-18,Montreal Canadiens,5,Toronto Maple Leafs,6,"18,948",2:46,SO
+2024-04-18,Edmonton Oilers,1,Vancouver Canucks,8,"18,706",2:33,
+2024-04-18,New York Rangers,5,Buffalo Sabres,1,"19,070",2:26,
+2024-04-18,Philadelphia Flyers,4,Columbus Blue Jackets,2,"18,614",2:26,
+2024-04-18,St. Louis Blues,1,Dallas Stars,2,"18,532",2:40,SO
+2024-04-18,Florida Panthers,0,Minnesota Wild,2,"18,976",2:37,
+2024-04-18,Detroit Red Wings,3,New Jersey Devils,4,"16,514",2:29,
+2024-04-18,Seattle Kraken,0,Nashville Predators,3,"17,629",2:21,
+2024-04-18,Vegas Golden Knights,4,San Jose Sharks,1,"17,435",2:28,
+2024-04-18,Arizona Coyotes,4,New Jersey Devils,3,"16,514",2:43,SO
+2024-04-18,Pittsburgh Penguins,4,Washington Capitals,0,"18,573",2:34,
+2024-04-18,Nashville Predators,2,Boston Bruins,3,"17,850",2:33,
+2024-04-18,New York Rangers,3,Columbus Blue Jackets,5,"16,520",2:34,
+2024-04-18,Tampa Bay Lightning,4,Detroit Red Wings,6,"19,515",2:28,
+2024-04-18,Vancouver Canucks,4,Edmonton Oilers,3,"18,347",2:30,
+2024-04-18,Carolina Hurricanes,6,Los Angeles Kings,5,"17,517",2:57,SO
+2024-04-18,Chicago Blackhawks,2,Montreal Canadiens,3,"21,105",2:26,
+2024-04-18,Buffalo Sabres,2,New York Islanders,3,"17,255",2:29,
+2024-04-18,Philadelphia Flyers,2,Ottawa Senators,5,"20,011",2:30,
+2024-04-18,Calgary Flames,2,Pittsburgh Penguins,5,"17,635",2:30,
+2024-04-18,Colorado Avalanche,2,San Jose Sharks,1,"17,435",2:46,SO
+2024-04-18,Seattle Kraken,1,St. Louis Blues,2,"18,096",2:33,SO
+2024-04-18,Minnesota Wild,4,Toronto Maple Leafs,7,"18,903",2:36,
+2024-04-18,Anaheim Ducks,1,Vegas Golden Knights,4,"18,033",2:35,
+2024-04-18,Florida Panthers,4,Winnipeg Jets,6,"13,410",2:32,
+2024-04-18,Carolina Hurricanes,3,Anaheim Ducks,6,"17,278",2:32,
+2024-04-18,Tampa Bay Lightning,2,Ottawa Senators,5,"15,584",2:27,
+2024-04-18,Detroit Red Wings,4,Columbus Blue Jackets,0,"14,959",2:25,
+2024-04-18,Florida Panthers,4,New Jersey Devils,3,"15,023",2:30,
+2024-04-18,Arizona Coyotes,1,New York Rangers,2,"18,006",2:29,
+2024-04-18,Chicago Blackhawks,4,Toronto Maple Leafs,1,"19,101",2:37,
+2024-04-18,Calgary Flames,2,Washington Capitals,3,"16,489",2:43,SO
+2024-04-18,Tampa Bay Lightning,2,Buffalo Sabres,3,"12,598",2:27,OT
+2024-04-18,Minnesota Wild,5,Montreal Canadiens,2,"21,105",2:36,
+2024-04-18,Edmonton Oilers,6,Nashville Predators,1,"17,216",2:27,
+2024-04-18,Arizona Coyotes,0,New York Islanders,1,"14,456",2:22,
+2024-04-18,Vancouver Canucks,0,Philadelphia Flyers,2,"18,883",2:28,
+2024-04-18,Colorado Avalanche,4,Seattle Kraken,1,"17,151",2:35,
+2024-04-18,Carolina Hurricanes,6,San Jose Sharks,3,"10,378",2:33,
+2024-04-18,Dallas Stars,2,Vegas Golden Knights,3,"17,612",2:47,SO
+2024-04-18,Los Angeles Kings,5,Winnipeg Jets,1,"11,226",2:24,
+2024-04-18,Pittsburgh Penguins,3,Detroit Red Wings,6,"18,895",2:31,
+2024-04-18,Washington Capitals,1,Ottawa Senators,6,"15,021",2:31,
+2024-04-18,Dallas Stars,3,Anaheim Ducks,2,"14,274",2:23,
+2024-04-18,Calgary Flames,4,Buffalo Sabres,3,"13,025",2:34,
+2024-04-18,Chicago Blackhawks,0,Colorado Avalanche,4,"18,140",2:24,
+2024-04-18,Toronto Maple Leafs,1,Florida Panthers,3,"19,288",2:30,
+2024-04-18,Los Angeles Kings,7,Minnesota Wild,3,"18,689",2:35,
+2024-04-18,Nashville Predators,4,New York Rangers,1,"18,006",2:24,
+2024-04-18,Edmonton Oilers,1,Philadelphia Flyers,4,"17,590",2:29,
+2024-04-18,Carolina Hurricanes,4,Seattle Kraken,7,"17,151",2:36,
+2024-04-18,Boston Bruins,3,San Jose Sharks,1,"12,501",2:30,
+2024-04-18,Arizona Coyotes,6,St. Louis Blues,2,"18,096",2:35,
+2024-04-18,Vancouver Canucks,3,Tampa Bay Lightning,4,"19,092",2:32,
+2024-04-18,Vegas Golden Knights,5,Winnipeg Jets,3,"11,521",2:18,
+2024-04-18,Calgary Flames,1,Columbus Blue Jackets,3,"16,276",2:25,
+2024-04-18,New Jersey Devils,5,New York Islanders,4,"17,255",2:33,OT
+2024-04-18,Anaheim Ducks,1,Arizona Coyotes,2,"4,600",2:30,
+2024-04-18,New York Islanders,1,Buffalo Sabres,3,"16,179",2:27,
+2024-04-18,Vegas Golden Knights,5,Chicago Blackhawks,3,"19,867",2:27,
+2024-04-18,Carolina Hurricanes,4,Colorado Avalanche,6,"18,131",2:32,
+2024-04-18,Philadelphia Flyers,4,Dallas Stars,5,"18,532",2:34,OT
+2024-04-18,Winnipeg Jets,3,Edmonton Oilers,2,"18,347",2:40,OT
+2024-04-18,Vancouver Canucks,5,Florida Panthers,3,"16,991",2:24,
+2024-04-18,Boston Bruins,4,Los Angeles Kings,2,"18,145",2:44,
+2024-04-18,Columbus Blue Jackets,5,Minnesota Wild,4,"18,479",2:39,OT
+2024-04-18,Washington Capitals,2,Montreal Canadiens,3,"21,105",2:31,OT
+2024-04-18,San Jose Sharks,1,Nashville Predators,5,"17,222",2:28,
+2024-04-18,Detroit Red Wings,5,Ottawa Senators,2,"18,834",2:31,
+2024-04-18,New York Rangers,4,Seattle Kraken,1,"17,151",2:38,
+2024-04-18,Pittsburgh Penguins,2,St. Louis Blues,4,"18,096",2:21,
+2024-04-18,Toronto Maple Leafs,4,Tampa Bay Lightning,3,"19,092",2:35,OT
+2024-04-18,Boston Bruins,3,Anaheim Ducks,1,"14,264",2:26,
+2024-04-18,Calgary Flames,2,Detroit Red Wings,6,"17,626",2:26,
+2024-04-18,Montreal Canadiens,3,Buffalo Sabres,1,"13,507",2:22,
+2024-04-18,Anaheim Ducks,3,Columbus Blue Jackets,2,"16,432",2:28,OT
+2024-04-18,New York Rangers,3,Calgary Flames,1,"16,800",2:25,
+2024-04-18,Boston Bruins,3,Chicago Blackhawks,0,"19,370",2:36,
+2024-04-18,Seattle Kraken,5,Detroit Red Wings,4,"16,894",2:40,OT
+2024-04-18,San Jose Sharks,1,Florida Panthers,3,"16,142",2:24,
+2024-04-18,Arizona Coyotes,3,Los Angeles Kings,6,"17,668",2:42,
+2024-04-18,Edmonton Oilers,4,Minnesota Wild,7,"17,064",2:30,
+2024-04-18,New Jersey Devils,5,Montreal Canadiens,2,"21,105",2:32,
+2024-04-18,Vancouver Canucks,3,Nashville Predators,2,"17,159",2:17,
+2024-04-18,Colorado Avalanche,7,New York Islanders,4,"14,856",2:31,
+2024-04-18,Buffalo Sabres,6,Ottawa Senators,4,"14,278",2:38,
+2024-04-18,Dallas Stars,4,Pittsburgh Penguins,1,"17,209",2:29,
+2024-04-18,Carolina Hurricanes,0,Tampa Bay Lightning,3,"19,092",2:27,
+2024-04-18,Philadelphia Flyers,2,Vegas Golden Knights,3,"17,717",2:31,
+2024-04-18,St. Louis Blues,2,Winnipeg Jets,4,"11,136",2:21,
+2024-04-18,Toronto Maple Leafs,4,Washington Capitals,1,"16,641",2:20,
+2024-04-18,Washington Capitals,6,New Jersey Devils,4,"16,117",2:23,
+2024-04-18,Anaheim Ducks,4,Boston Bruins,3,"17,850",2:44,OT
+2024-04-18,Seattle Kraken,2,Carolina Hurricanes,3,"18,780",2:38,OT
+2024-04-18,St. Louis Blues,3,Calgary Flames,0,"16,897",2:26,
+2024-04-18,Toronto Maple Leafs,4,Dallas Stars,1,"18,532",2:21,
+2024-04-18,Winnipeg Jets,4,Detroit Red Wings,1,"17,857",2:25,
+2024-04-18,New York Rangers,3,Edmonton Oilers,0,"17,939",2:26,
+2024-04-18,Columbus Blue Jackets,3,Montreal Canadiens,4,"21,105",2:35,OT
+2024-04-18,Ottawa Senators,2,New York Islanders,3,"14,911",2:37,
+2024-04-18,Minnesota Wild,2,Philadelphia Flyers,6,"17,144",2:30,
+2024-04-18,Colorado Avalanche,0,Pittsburgh Penguins,4,"17,154",2:26,
+2024-04-18,San Jose Sharks,0,Tampa Bay Lightning,6,"19,092",2:23,
+2024-04-18,Los Angeles Kings,5,Arizona Coyotes,4,"4,600",2:37,
+2024-04-18,San Jose Sharks,0,Carolina Hurricanes,3,"18,700",2:37,
+2024-04-18,Buffalo Sabres,4,New Jersey Devils,5,"16,514",2:30,
+2024-04-18,St. Louis Blues,0,Vancouver Canucks,5,"18,548",2:23,
+2024-04-18,Chicago Blackhawks,4,Vegas Golden Knights,3,"18,338",2:27,OT
+2024-04-18,Minnesota Wild,2,Washington Capitals,3,"16,602",2:45,SO
+2024-04-18,Detroit Red Wings,1,Boston Bruins,4,"17,850",2:25,
+2024-04-18,New York Islanders,2,Columbus Blue Jackets,0,"15,424",2:13,
+2024-04-18,Seattle Kraken,2,Florida Panthers,3,"16,780",2:33,
+2024-04-18,Vegas Golden Knights,4,Los Angeles Kings,3,"18,145",2:38,SO
+2024-04-18,Winnipeg Jets,3,Montreal Canadiens,4,"21,105",2:41,SO
+2024-04-18,Toronto Maple Leafs,2,Nashville Predators,3,"17,537",2:31,OT
+2024-04-18,Anaheim Ducks,7,Philadelphia Flyers,4,"18,275",2:33,
+2024-04-18,Ottawa Senators,5,Pittsburgh Penguins,2,"17,631",2:29,
+2024-04-18,New York Rangers,4,Vancouver Canucks,3,"18,483",2:31,OT
+2024-04-18,Colorado Avalanche,0,Buffalo Sabres,4,"15,717",2:25,
+2024-04-18,Calgary Flames,2,Edmonton Oilers,5,"55,411",2:37,
+2024-04-18,Minnesota Wild,3,New Jersey Devils,4,"16,514",2:25,
+2024-04-18,San Jose Sharks,1,Washington Capitals,3,"15,856",2:26,
+2024-04-18,Chicago Blackhawks,1,Arizona Coyotes,8,"4,600",2:31,
+2024-04-18,Florida Panthers,2,Boston Bruins,3,"17,850",2:36,OT
+2024-04-18,Columbus Blue Jackets,3,Dallas Stars,5,"18,532",2:22,
+2024-04-18,Detroit Red Wings,4,New York Islanders,3,"15,407",2:35,OT
+2024-04-18,Carolina Hurricanes,3,Philadelphia Flyers,2,"15,569",2:27,
+2024-04-18,Anaheim Ducks,4,Pittsburgh Penguins,3,"16,903",2:34,
+2024-04-18,Seattle Kraken,4,Tampa Bay Lightning,3,"19,092",2:30,OT
+2024-04-18,Montreal Canadiens,2,Vegas Golden Knights,3,"17,791",2:43,SO
+2024-04-18,New York Rangers,3,Winnipeg Jets,2,"11,898",2:29,OT
+2024-04-18,Los Angeles Kings,4,Toronto Maple Leafs,1,"18,531",2:20,
+2024-04-18,Nashville Predators,2,Vancouver Canucks,5,"18,413",2:23,
+2024-04-18,Arizona Coyotes,3,Anaheim Ducks,4,"14,894",2:37,OT
+2024-04-18,Dallas Stars,4,Calgary Flames,3,"16,786",2:32,
+2024-04-18,St. Louis Blues,1,Colorado Avalanche,4,"18,091",2:31,
+2024-04-18,Buffalo Sabres,5,Philadelphia Flyers,2,"17,279",2:30,
+2024-04-18,Montreal Canadiens,2,Arizona Coyotes,3,"4,600",2:33,
+2024-04-18,Toronto Maple Leafs,2,Boston Bruins,3,"17,850",2:36,SO
+2024-04-18,Tampa Bay Lightning,2,Columbus Blue Jackets,4,"14,276",2:32,
+2024-04-18,Florida Panthers,2,Detroit Red Wings,0,"17,233",2:27,
+2024-04-18,Dallas Stars,4,Edmonton Oilers,3,"17,290",2:32,
+2024-04-18,New Jersey Devils,5,Minnesota Wild,3,"18,399",2:24,
+2024-04-18,Carolina Hurricanes,1,New York Rangers,2,"18,006",2:31,
+2024-04-18,Los Angeles Kings,3,Ottawa Senators,2,"16,216",2:24,
+2024-04-18,Nashville Predators,2,Seattle Kraken,4,"17,151",2:24,
+2024-04-18,Vancouver Canucks,10,San Jose Sharks,1,"10,719",2:32,
+2024-04-18,Winnipeg Jets,2,Vegas Golden Knights,5,"17,878",2:27,
+2024-04-18,New York Islanders,3,Washington Capitals,0,"16,209",2:23,
+2024-04-18,Philadelphia Flyers,5,Buffalo Sabres,1,"16,612",2:12,
+2024-04-18,New Jersey Devils,1,St. Louis Blues,4,"18,096",2:24,
+2024-04-18,Winnipeg Jets,5,Arizona Coyotes,3,"4,600",2:19,
+2024-04-18,Florida Panthers,2,Chicago Blackhawks,5,"18,666",2:22,
+2024-04-18,Boston Bruins,4,Detroit Red Wings,5,"18,676",2:40,
+2024-04-18,Nashville Predators,5,Edmonton Oilers,2,"18,354",2:28,
+2024-04-18,New York Rangers,4,Minnesota Wild,5,"18,678",2:38,SO
+2024-04-18,Carolina Hurricanes,4,New York Islanders,3,"17,255",2:31,OT
+2024-04-18,Tampa Bay Lightning,6,Ottawa Senators,4,"17,387",2:36,
+2024-04-18,Los Angeles Kings,5,Philadelphia Flyers,0,"18,304",2:24,
+2024-04-18,Calgary Flames,6,Seattle Kraken,3,"17,151",2:19,
+2024-04-18,Pittsburgh Penguins,10,San Jose Sharks,2,"17,435",2:28,
+2024-04-18,Montreal Canadiens,3,St. Louis Blues,6,"18,096",2:29,
+2024-04-18,Buffalo Sabres,6,Toronto Maple Leafs,4,"18,902",2:28,
+2024-04-18,Dallas Stars,0,Vancouver Canucks,2,"18,895",2:25,
+2024-04-18,Colorado Avalanche,0,Vegas Golden Knights,7,"18,512",2:40,
+2024-04-18,Columbus Blue Jackets,1,Washington Capitals,2,"18,573",2:30,
+2024-04-18,Vegas Golden Knights,2,Anaheim Ducks,4,"15,720",2:22,
+2024-04-18,New Jersey Devils,4,Chicago Blackhawks,2,"18,388",2:31,
+2024-04-18,Boston Bruins,3,Dallas Stars,2,"18,532",2:37,
+2024-04-18,Columbus Blue Jackets,4,Florida Panthers,5,"17,103",2:27,OT
+2024-04-18,Tampa Bay Lightning,5,Toronto Maple Leafs,6,"18,445",2:30,OT
+2024-04-18,Edmonton Oilers,2,Vancouver Canucks,6,"18,857",2:44,
+2024-04-18,Pittsburgh Penguins,2,Anaheim Ducks,0,"16,043",2:32,
+2024-04-18,Seattle Kraken,3,Arizona Coyotes,4,"4,600",2:40,SO
+2024-04-18,Buffalo Sabres,2,Carolina Hurricanes,3,"18,700",2:25,OT
+2024-04-18,Nashville Predators,2,Calgary Flames,4,"16,975",2:29,
+2024-04-18,New Jersey Devils,3,Colorado Avalanche,6,"18,087",2:38,
+2024-04-18,Tampa Bay Lightning,5,Montreal Canadiens,3,"21,105",2:32,
+2024-04-18,Minnesota Wild,4,New York Islanders,2,"13,527",2:30,
+2024-04-18,Detroit Red Wings,3,New York Rangers,5,"18,006",2:25,
+2024-04-18,Philadelphia Flyers,1,San Jose Sharks,2,"10,074",2:31,
+2024-04-18,Winnipeg Jets,5,St. Louis Blues,2,"18,096",2:24,
+2024-04-18,Ottawa Senators,6,Toronto Maple Leafs,3,"18,372",2:20,
+2024-04-18,Los Angeles Kings,4,Vegas Golden Knights,1,"18,330",2:27,
+2024-04-18,Florida Panthers,4,Washington Capitals,3,"16,104",2:30,OT
+2024-04-18,New York Islanders,2,Boston Bruins,5,"17,850",2:24,
+2024-04-18,Dallas Stars,5,Columbus Blue Jackets,2,"15,253",2:25,
+2024-04-18,Seattle Kraken,4,Colorado Avalanche,3,"18,124",2:29,
+2024-04-18,Montreal Canadiens,3,Detroit Red Wings,2,"18,504",2:40,OT
+2024-04-18,Pittsburgh Penguins,4,Los Angeles Kings,3,"18,145",2:31,OT
+2024-04-18,Minnesota Wild,1,New York Rangers,4,"18,006",2:23,
+2024-04-18,Vancouver Canucks,5,Ottawa Senators,2,"16,653",2:22,
+2024-04-18,Edmonton Oilers,2,San Jose Sharks,3,"12,206",2:26,
+2024-04-18,Arizona Coyotes,1,St. Louis Blues,2,"18,096",2:36,
+2024-04-18,Chicago Blackhawks,5,Tampa Bay Lightning,3,"19,092",2:32,
+2024-04-18,Nashville Predators,3,Winnipeg Jets,6,"12,199",2:30,
+2024-04-18,Philadelphia Flyers,6,Anaheim Ducks,3,"15,550",2:32,
+2024-04-18,Minnesota Wild,2,Buffalo Sabres,3,"17,031",2:26,
+2024-04-18,Carolina Hurricanes,2,Florida Panthers,5,"17,845",2:33,
+2024-04-18,Washington Capitals,4,New Jersey Devils,2,"16,514",2:26,
+2024-04-18,Calgary Flames,4,Toronto Maple Leafs,5,"18,939",2:38,SO
+2024-04-18,San Jose Sharks,0,Vegas Golden Knights,5,"18,423",2:27,
+2024-04-18,St. Louis Blues,8,Colorado Avalanche,2,"18,132",2:34,
+2024-04-18,Columbus Blue Jackets,4,Detroit Red Wings,5,"19,156",2:27,
+2024-04-18,Philadelphia Flyers,4,Los Angeles Kings,2,"18,145",2:25,
+2024-04-18,Boston Bruins,2,Montreal Canadiens,3,"21,105",2:28,OT
+2024-04-18,Arizona Coyotes,7,Nashville Predators,5,"17,303",2:24,
+2024-04-18,Washington Capitals,4,New York Islanders,1,"16,519",2:20,
+2024-04-18,Calgary Flames,1,Ottawa Senators,4,"18,874",2:26,
+2024-04-18,Buffalo Sabres,0,Pittsburgh Penguins,4,"18,429",2:16,
+2024-04-18,Edmonton Oilers,4,Seattle Kraken,1,"17,151",2:31,
+2024-04-18,Carolina Hurricanes,4,Tampa Bay Lightning,0,"19,092",2:28,
+2024-04-18,Vancouver Canucks,2,Toronto Maple Leafs,5,"19,107",2:26,
+2024-04-18,Dallas Stars,3,Winnipeg Jets,2,"12,420",2:28,
+2024-04-18,San Jose Sharks,1,Anaheim Ducks,4,"16,471",2:29,
+2024-04-18,Chicago Blackhawks,3,Florida Panthers,4,"19,359",2:26,
+2024-04-18,Dallas Stars,8,Minnesota Wild,3,"18,509",2:33,
+2024-04-18,Vancouver Canucks,5,Montreal Canadiens,2,"21,105",2:19,
+2024-04-18,Columbus Blue Jackets,3,New York Rangers,4,"18,006",2:55,SO
+2024-04-18,New York Islanders,1,Edmonton Oilers,4,"17,881",2:40,
+2024-04-18,Colorado Avalanche,5,Seattle Kraken,1,"17,151",2:37,
+2024-04-18,Boston Bruins,5,Buffalo Sabres,2,"14,840",2:21,
+2024-04-18,Pittsburgh Penguins,5,Columbus Blue Jackets,3,"16,596",2:23,
+2024-04-18,Arizona Coyotes,3,Dallas Stars,4,"18,532",2:31,OT
+2024-04-18,Calgary Flames,2,Montreal Canadiens,1,"21,105",2:29,
+2024-04-18,Anaheim Ducks,3,Nashville Predators,2,"17,159",2:30,
+2024-04-18,Florida Panthers,5,San Jose Sharks,3,"10,108",2:35,
+2024-04-18,Tampa Bay Lightning,0,St. Louis Blues,5,"17,621",2:25,
+2024-04-18,New Jersey Devils,3,Winnipeg Jets,6,"11,717",2:29,
+2024-04-18,Vegas Golden Knights,0,Washington Capitals,3,"16,598",2:34,
+2024-04-18,Philadelphia Flyers,3,Carolina Hurricanes,1,"18,700",2:32,
+2024-04-18,Anaheim Ducks,2,Colorado Avalanche,8,"18,029",2:32,
+2024-04-18,Seattle Kraken,3,Edmonton Oilers,4,"18,347",2:40,OT
+2024-04-18,New York Islanders,3,Vancouver Canucks,4,"18,972",2:42,OT
+2024-04-18,Arizona Coyotes,3,Columbus Blue Jackets,2,"15,909",2:28,
+2024-04-18,Vancouver Canucks,2,Calgary Flames,5,"17,501",2:33,
+2024-04-18,Tampa Bay Lightning,4,Chicago Blackhawks,2,"18,691",2:34,
+2024-04-18,Florida Panthers,1,Los Angeles Kings,2,"17,243",2:29,
+2024-04-18,Vegas Golden Knights,6,Montreal Canadiens,5,"21,105",2:39,
+2024-04-18,Detroit Red Wings,4,Ottawa Senators,5,"12,487",2:48,OT
+2024-04-18,New Jersey Devils,5,Pittsburgh Penguins,2,"18,321",2:24,
+2024-04-18,New York Islanders,3,Seattle Kraken,4,"17,151",2:46,SO
+2024-04-18,St. Louis Blues,1,San Jose Sharks,5,"10,452",2:31,
+2024-04-18,Florida Panthers,2,Anaheim Ducks,1,"14,932",2:42,
+2024-04-18,Toronto Maple Leafs,3,Detroit Red Wings,2,"13,510",2:40,
+2024-04-18,Buffalo Sabres,2,Winnipeg Jets,3,"11,340",2:21,
+2024-04-18,Montreal Canadiens,2,Boston Bruins,5,"17,850",2:29,
+2024-04-18,Pittsburgh Penguins,2,Carolina Hurricanes,4,"18,700",2:32,
+2024-04-18,New York Islanders,5,Calgary Flames,4,"17,167",2:36,SO
+2024-04-18,Colorado Avalanche,6,Dallas Stars,3,"18,532",2:28,
+2024-04-18,St. Louis Blues,1,Los Angeles Kings,5,"18,145",2:18,
+2024-04-18,New York Rangers,5,New Jersey Devils,3,"17,086",2:32,
+2024-04-18,Chicago Blackhawks,2,Nashville Predators,4,"17,397",2:27,
+2024-04-18,Minnesota Wild,1,Ottawa Senators,2,"13,213",2:38,SO
+2024-04-18,Vegas Golden Knights,3,Philadelphia Flyers,4,"18,113",2:35,OT
+2024-04-18,Edmonton Oilers,4,Tampa Bay Lightning,6,"19,092",2:33,
+2024-04-18,Seattle Kraken,4,Vancouver Canucks,3,"18,857",2:28,
+2024-04-18,Arizona Coyotes,2,Winnipeg Jets,5,"12,103",2:29,
+2024-04-18,Columbus Blue Jackets,3,Washington Capitals,4,"18,573",2:37,
+2024-04-18,St. Louis Blues,3,Anaheim Ducks,1,"15,243",2:24,
+2024-04-18,Buffalo Sabres,3,Chicago Blackhawks,2,"19,027",2:21,
+2024-04-18,Toronto Maple Leafs,4,Minnesota Wild,3,"13,356",2:38,OT
+2024-04-18,Columbus Blue Jackets,2,Philadelphia Flyers,5,"17,416",2:36,
+2024-04-18,Vegas Golden Knights,0,Pittsburgh Penguins,3,"18,120",2:30,
+2024-04-18,Los Angeles Kings,4,Arizona Coyotes,1,"4,600",2:27,
+2024-04-18,New York Rangers,3,Dallas Stars,6,"18,532",2:33,
+2024-04-18,Edmonton Oilers,3,Florida Panthers,5,"19,628",2:43,
+2024-04-18,Colorado Avalanche,3,Nashville Predators,4,"17,159",2:22,
+2024-04-18,Calgary Flames,4,Seattle Kraken,3,"17,151",2:33,OT
+2024-04-18,Boston Bruins,4,Tampa Bay Lightning,5,"19,092",2:42,OT
+2024-04-18,San Jose Sharks,1,Vancouver Canucks,3,"18,718",2:26,
+2024-04-18,Montreal Canadiens,4,Anaheim Ducks,3,"15,168",2:31,
+2024-04-18,St. Louis Blues,6,Arizona Coyotes,5,"4,600",2:33,
+2024-04-18,Edmonton Oilers,3,Carolina Hurricanes,6,"18,805",2:34,
+2024-04-18,Chicago Blackhawks,3,Columbus Blue Jackets,7,"18,158",2:21,
+2024-04-18,Vancouver Canucks,2,Colorado Avalanche,5,"18,133",2:32,
+2024-04-18,Vegas Golden Knights,2,Dallas Stars,1,"18,532",2:31,OT
+2024-04-18,New Jersey Devils,0,Detroit Red Wings,4,"19,515",2:17,
+2024-04-18,Boston Bruins,3,Florida Panthers,1,"19,327",2:28,
+2024-04-18,Calgary Flames,2,Nashville Predators,4,"17,252",2:38,
+2024-04-18,Philadelphia Flyers,2,New York Islanders,3,"17,255",2:30,
+2024-04-18,New York Rangers,1,Pittsburgh Penguins,0,"18,250",2:31,
+2024-04-18,San Jose Sharks,1,Seattle Kraken,7,"17,151",2:25,
+2024-04-18,Winnipeg Jets,3,Tampa Bay Lightning,2,"19,092",2:24,OT
+2024-04-18,Buffalo Sabres,3,Washington Capitals,4,"18,573",2:29,OT
+2024-04-18,Los Angeles Kings,5,Anaheim Ducks,2,"17,205",2:33,
+2024-04-18,Detroit Red Wings,5,Boston Bruins,2,"17,850",2:35,
+2024-04-18,Pittsburgh Penguins,2,Buffalo Sabres,3,"19,070",2:29,
+2024-04-18,Tampa Bay Lightning,8,Carolina Hurricanes,2,"18,802",2:34,
+2024-04-18,Toronto Maple Leafs,3,Chicago Blackhawks,4,"20,238",2:32,OT
+2024-04-18,Calgary Flames,7,Dallas Stars,4,"18,532",2:20,
+2024-04-18,Winnipeg Jets,3,Florida Panthers,0,"18,801",2:30,
+2024-04-18,Colorado Avalanche,3,Minnesota Wild,2,"19,057",2:23,
+2024-04-18,Columbus Blue Jackets,2,New Jersey Devils,1,"16,514",2:22,
+2024-04-18,New York Islanders,5,Ottawa Senators,3,"17,693",2:30,
+2024-04-18,New York Rangers,3,Philadelphia Flyers,1,"19,032",2:31,
+2024-04-18,Vancouver Canucks,5,Seattle Kraken,1,"17,151",2:31,
+2024-04-18,Montreal Canadiens,3,San Jose Sharks,2,"16,897",2:35,SO
+2024-04-18,Nashville Predators,8,St. Louis Blues,3,"18,096",2:26,
+2024-04-18,Edmonton Oilers,5,Washington Capitals,0,"18,573",2:31,
+2024-04-18,Calgary Flames,1,Colorado Avalanche,3,"18,139",2:30,
+2024-04-18,Montreal Canadiens,0,Los Angeles Kings,4,"18,145",2:24,
+2024-04-18,Buffalo Sabres,2,New Jersey Devils,7,"16,514",2:24,
+2024-04-18,Philadelphia Flyers,1,New York Islanders,0,"17,255",2:41,SO
+2024-04-18,Boston Bruins,4,New York Rangers,7,"18,006",2:41,
+2024-04-18,Toronto Maple Leafs,2,Pittsburgh Penguins,3,"18,229",2:27,
+2024-04-18,Vancouver Canucks,3,San Jose Sharks,4,"15,538",2:36,
+2024-04-18,Arizona Coyotes,2,Vegas Golden Knights,0,"18,591",2:26,
+2024-04-18,Columbus Blue Jackets,2,Carolina Hurricanes,3,"18,700",2:22,
+2024-04-18,St. Louis Blues,4,Chicago Blackhawks,2,"18,223",2:23,
+2024-04-18,Minnesota Wild,1,Detroit Red Wings,4,"18,833",2:31,
+2024-04-18,Anaheim Ducks,2,Edmonton Oilers,8,"17,781",2:28,
+2024-04-18,Winnipeg Jets,2,Nashville Predators,3,"17,159",2:33,
+2024-04-18,Boston Bruins,2,Columbus Blue Jackets,5,"14,357",2:30,
+2024-04-18,Vegas Golden Knights,1,Calgary Flames,2,"17,031",2:34,OT
+2024-04-18,Tampa Bay Lightning,1,Colorado Avalanche,4,"18,009",2:34,
+2024-04-18,Buffalo Sabres,5,New York Rangers,1,"18,006",2:21,
+2024-04-18,Florida Panthers,5,Ottawa Senators,0,"15,594",2:44,
+2024-04-18,Washington Capitals,1,San Jose Sharks,2,"10,759",2:31,
+2024-04-18,Tampa Bay Lightning,1,Arizona Coyotes,3,"4,600",2:20,
+2024-04-18,Seattle Kraken,3,Chicago Blackhawks,4,"17,070",2:34,
+2024-04-18,Vegas Golden Knights,4,Edmonton Oilers,5,"18,098",2:37,SO
+2024-04-18,St. Louis Blues,1,Minnesota Wild,3,"17,563",2:23,
+2024-04-18,New York Islanders,4,New Jersey Devils,5,"16,091",2:26,
+2024-04-18,Pittsburgh Penguins,2,Nashville Predators,3,"17,159",2:27,OT
+2024-04-18,Carolina Hurricanes,4,Philadelphia Flyers,1,"17,885",2:26,
+2024-04-18,Florida Panthers,1,Toronto Maple Leafs,2,"18,508",2:46,SO
+2024-04-18,Anaheim Ducks,1,Vancouver Canucks,3,"18,639",2:21,
+2024-04-18,Dallas Stars,2,Winnipeg Jets,0,"11,439",2:21,
+2024-04-18,Montreal Canadiens,4,Columbus Blue Jackets,2,"14,316",2:12,
+2024-04-18,Washington Capitals,2,Los Angeles Kings,1,"18,145",2:23,
+2024-04-18,Detroit Red Wings,2,New York Rangers,3,"18,006",2:34,
+2024-04-18,Washington Capitals,5,Anaheim Ducks,4,"14,336",2:35,
+2024-04-18,Colorado Avalanche,3,Arizona Coyotes,4,"4,600",2:30,OT
+2024-04-18,San Jose Sharks,0,Boston Bruins,3,"17,850",2:32,
+2024-04-18,New York Islanders,5,Carolina Hurricanes,4,"18,700",2:43,OT
+2024-04-18,Dallas Stars,3,Calgary Flames,4,"16,941",2:29,OT
+2024-04-18,Chicago Blackhawks,1,Detroit Red Wings,5,"19,515",2:21,
+2024-04-18,Florida Panthers,5,Montreal Canadiens,1,"21,105",2:31,
+2024-04-18,Minnesota Wild,6,Nashville Predators,1,"17,159",2:38,
+2024-04-18,New Jersey Devils,4,Philadelphia Flyers,3,"17,748",2:40,OT
+2024-04-18,Buffalo Sabres,4,St. Louis Blues,6,"18,096",2:27,
+2024-04-18,Pittsburgh Penguins,4,Tampa Bay Lightning,2,"19,092",2:19,
+2024-04-18,Seattle Kraken,3,Toronto Maple Leafs,4,"18,366",2:38,SO
+2024-04-18,Vegas Golden Knights,4,Vancouver Canucks,1,"18,856",2:19,
+2024-04-18,Edmonton Oilers,3,Winnipeg Jets,1,"13,611",2:26,
+2024-04-18,Ottawa Senators,2,Columbus Blue Jackets,4,"15,552",2:27,
+2024-04-18,San Jose Sharks,6,New Jersey Devils,3,"16,528",2:30,
+2024-04-18,Colorado Avalanche,3,Anaheim Ducks,4,"14,712",2:45,SO
+2024-04-18,St. Louis Blues,1,Arizona Coyotes,4,"4,600",2:35,
+2024-04-18,Buffalo Sabres,2,Carolina Hurricanes,6,"18,797",2:27,
+2024-04-18,Vancouver Canucks,4,Calgary Flames,3,"19,079",2:29,
+2024-04-18,Tampa Bay Lightning,1,Dallas Stars,8,"18,532",2:30,
+2024-04-18,New York Islanders,4,Florida Panthers,3,"18,721",2:28,
+2024-04-18,Detroit Red Wings,5,Montreal Canadiens,4,"21,105",2:34,OT
+2024-04-18,New York Rangers,4,Nashville Predators,3,"17,341",2:34,
+2024-04-18,Seattle Kraken,0,Ottawa Senators,2,"18,159",2:28,
+2024-04-18,Philadelphia Flyers,4,Pittsburgh Penguins,3,"18,303",2:41,SO
+2024-04-18,Boston Bruins,4,Toronto Maple Leafs,3,"18,959",2:40,OT
+2024-04-18,Washington Capitals,1,Vegas Golden Knights,4,"18,140",2:25,
+2024-04-18,Chicago Blackhawks,1,Winnipeg Jets,3,"14,189",2:19,
+2024-04-18,Columbus Blue Jackets,1,Boston Bruins,3,"17,850",2:20,
+2024-04-18,Nashville Predators,2,Buffalo Sabres,1,"14,644",2:25,
+2024-04-18,Colorado Avalanche,1,Los Angeles Kings,4,"18,145",2:24,
+2024-04-18,Chicago Blackhawks,1,Minnesota Wild,4,"19,301",2:21,
+2024-04-18,San Jose Sharks,5,New York Rangers,6,"18,006",2:31,
+2024-04-18,Washington Capitals,0,Arizona Coyotes,6,"4,600",2:27,
+2024-04-18,Seattle Kraken,2,Montreal Canadiens,4,"20,915",2:22,
+2024-04-18,Pittsburgh Penguins,1,Philadelphia Flyers,2,"18,084",2:26,OT
+2024-04-18,Dallas Stars,0,Tampa Bay Lightning,4,"19,092",2:19,
+2024-04-18,St. Louis Blues,2,Vegas Golden Knights,1,"17,826",2:26,OT
+2024-04-18,Carolina Hurricanes,1,Winnipeg Jets,2,"11,468",2:22,
+2024-04-18,Detroit Red Wings,5,Buffalo Sabres,3,"14,800",2:28,
+2024-04-18,Los Angeles Kings,4,Columbus Blue Jackets,3,"15,088",2:28,OT
+2024-04-18,Minnesota Wild,5,Calgary Flames,2,"16,661",2:33,
+2024-04-18,Nashville Predators,4,Chicago Blackhawks,3,"16,521",2:26,SO
+2024-04-18,Anaheim Ducks,2,Colorado Avalanche,3,"18,021",2:28,
+2024-04-18,San Jose Sharks,5,New York Islanders,4,"14,244",2:36,OT
+2024-04-18,New York Rangers,2,Ottawa Senators,6,"17,362",2:28,
+2024-04-18,New Jersey Devils,6,Vancouver Canucks,5,"18,983",2:30,
+2024-04-18,Carolina Hurricanes,1,Edmonton Oilers,6,"18,347",2:31,
+2024-04-18,Dallas Stars,4,Florida Panthers,5,"18,376",2:32,
+2024-04-18,Vegas Golden Knights,6,St. Louis Blues,3,"18,096",2:35,
+2024-04-18,Pittsburgh Penguins,1,Tampa Bay Lightning,3,"19,092",2:26,
+2024-04-18,Philadelphia Flyers,4,Arizona Coyotes,1,"4,600",2:19,
+2024-04-18,Buffalo Sabres,3,Boston Bruins,1,"17,850",2:24,
+2024-04-18,Carolina Hurricanes,2,Calgary Flames,3,"16,983",2:34,
+2024-04-18,Anaheim Ducks,0,Chicago Blackhawks,1,"17,424",2:20,
+2024-04-18,Winnipeg Jets,4,Colorado Avalanche,2,"18,008",2:20,
+2024-04-18,San Jose Sharks,6,Detroit Red Wings,5,"19,515",2:29,OT
+2024-04-18,Los Angeles Kings,4,Montreal Canadiens,0,"21,105",2:27,
+2024-04-18,Tampa Bay Lightning,1,Nashville Predators,5,"17,159",2:28,
+2024-04-18,Columbus Blue Jackets,3,New York Islanders,7,"13,510",2:29,
+2024-04-18,Toronto Maple Leafs,4,Ottawa Senators,3,"19,309",2:22,
+2024-04-18,New Jersey Devils,2,Seattle Kraken,1,"17,151",2:23,
+2024-04-18,Minnesota Wild,0,Vancouver Canucks,2,"18,667",2:41,
+2024-04-18,Dallas Stars,5,Washington Capitals,4,"15,850",2:38,SO
+2024-04-18,St. Louis Blues,2,Columbus Blue Jackets,5,"15,713",2:31,
+2024-04-18,Minnesota Wild,3,Edmonton Oilers,4,"18,173",2:26,
+2024-04-18,Pittsburgh Penguins,1,Florida Panthers,3,"18,640",2:18,
+2024-04-18,Arizona Coyotes,3,Boston Bruins,5,"17,850",2:33,
+2024-04-18,Montreal Canadiens,3,Buffalo Sabres,2,"17,123",2:43,SO
+2024-04-18,New Jersey Devils,4,Calgary Flames,2,"17,597",2:25,
+2024-04-18,St. Louis Blues,1,Chicago Blackhawks,3,"18,892",2:24,
+2024-04-18,Philadelphia Flyers,5,Colorado Avalanche,2,"18,119",2:27,
+2024-04-18,Vegas Golden Knights,6,Dallas Stars,1,"18,532",2:17,
+2024-04-18,Ottawa Senators,5,Detroit Red Wings,1,"19,515",2:45,
+2024-04-18,Los Angeles Kings,2,New York Islanders,3,"17,255",2:36,OT
+2024-04-18,Tampa Bay Lightning,4,Seattle Kraken,3,"17,151",2:32,OT
+2024-04-18,Nashville Predators,0,Toronto Maple Leafs,4,"18,611",2:23,
+2024-04-18,Carolina Hurricanes,3,Vancouver Canucks,4,"18,586",2:31,
+2024-04-18,New York Rangers,0,Washington Capitals,4,"18,573",2:29,
+2024-04-18,Winnipeg Jets,4,Anaheim Ducks,2,"13,626",2:28,
+2024-04-18,Florida Panthers,5,Columbus Blue Jackets,2,"16,269",2:29,
+2024-04-18,Washington Capitals,4,Chicago Blackhawks,2,"18,258",2:25,
+2024-04-18,New Jersey Devils,1,Edmonton Oilers,4,"18,347",2:31,
+2024-04-18,Nashville Predators,2,Montreal Canadiens,1,"20,864",2:32,
+2024-04-18,Los Angeles Kings,1,New York Rangers,4,"18,006",2:32,
+2024-04-18,Minnesota Wild,3,Seattle Kraken,0,"17,151",2:29,
+2024-04-18,San Jose Sharks,4,Vegas Golden Knights,5,"17,849",2:40,SO
+2024-04-18,Arizona Coyotes,2,Buffalo Sabres,5,"14,083",2:24,
+2024-04-18,Calgary Flames,5,Colorado Avalanche,6,"17,967",2:37,
+2024-04-18,Detroit Red Wings,3,Dallas Stars,6,"18,532",2:28,
+2024-04-18,Toronto Maple Leafs,3,New York Islanders,4,"17,255",2:28,OT
+2024-04-18,Chicago Blackhawks,1,Edmonton Oilers,4,"18,347",2:23,
+2024-04-18,Philadelphia Flyers,2,Nashville Predators,3,"17,159",2:27,OT
+2024-04-18,Toronto Maple Leafs,7,New York Rangers,3,"18,006",2:26,
+2024-04-18,Carolina Hurricanes,4,Ottawa Senators,1,"16,877",2:27,
+2024-04-18,Arizona Coyotes,2,Pittsburgh Penguins,4,"17,068",2:29,
+2024-04-18,Florida Panthers,0,Seattle Kraken,4,"17,151",2:28,
+2024-04-18,Winnipeg Jets,1,San Jose Sharks,2,"13,142",2:27,
+2024-04-18,Detroit Red Wings,6,St. Louis Blues,4,"18,096",2:36,
+2024-04-18,Tampa Bay Lightning,1,Vancouver Canucks,4,"18,771",2:22,
+2024-04-18,Calgary Flames,4,Vegas Golden Knights,5,"17,814",2:30,OT
+2024-04-18,Buffalo Sabres,1,Colorado Avalanche,5,"18,034",2:32,
+2024-04-18,Winnipeg Jets,5,Los Angeles Kings,2,"18,145",2:23,
+2024-04-18,Pittsburgh Penguins,4,Montreal Canadiens,3,"21,105",2:50,SO
+2024-04-18,Boston Bruins,1,New Jersey Devils,2,"16,514",2:33,OT
+2024-04-18,Anaheim Ducks,3,New York Islanders,4,"14,207",2:34,
+2024-04-18,Carolina Hurricanes,2,Detroit Red Wings,1,"19,515",2:24,
+2024-04-18,Tampa Bay Lightning,7,Edmonton Oilers,4,"18,060",2:35,
+2024-04-18,Calgary Flames,2,Minnesota Wild,3,"18,167",2:44,SO
+2024-04-18,Washington Capitals,3,Philadelphia Flyers,4,"18,557",2:43,SO
+2024-04-18,Chicago Blackhawks,1,Seattle Kraken,7,"17,151",2:19,
+2024-04-18,Ottawa Senators,2,St. Louis Blues,4,"18,096",2:24,
+2024-04-18,Columbus Blue Jackets,6,Toronto Maple Leafs,5,"18,338",2:39,OT
+2024-04-18,Florida Panthers,0,Vancouver Canucks,4,"18,873",2:19,
+2024-04-18,San Jose Sharks,0,Arizona Coyotes,1,"4,600",2:33,
+2024-04-18,Nashville Predators,6,Carolina Hurricanes,5,"18,770",2:32,OT
+2024-04-18,Ottawa Senators,4,Dallas Stars,5,"18,532",2:32,
+2024-04-18,Boston Bruins,5,New York Islanders,4,"17,255",2:54,SO
+2024-04-18,Anaheim Ducks,1,New York Rangers,5,"18,006",2:34,
+2024-04-18,Buffalo Sabres,5,Vegas Golden Knights,2,"18,008",2:27,
+2024-04-18,Buffalo Sabres,0,Arizona Coyotes,2,"4,600",2:11,
+2024-04-18,New York Rangers,2,Boston Bruins,1,"17,850",2:35,OT
+2024-04-18,New Jersey Devils,6,Columbus Blue Jackets,3,"18,172",2:24,
+2024-04-18,Tampa Bay Lightning,2,Calgary Flames,4,"16,801",2:27,
+2024-04-18,Florida Panthers,5,Edmonton Oilers,1,"18,347",2:34,
+2024-04-18,Vancouver Canucks,1,Minnesota Wild,2,"18,519",2:39,SO
+2024-04-18,New York Islanders,3,Montreal Canadiens,5,"21,105",2:23,
+2024-04-18,Washington Capitals,1,Nashville Predators,3,"17,267",2:20,
+2024-04-18,Detroit Red Wings,0,Philadelphia Flyers,1,"18,341",2:31,
+2024-04-18,Los Angeles Kings,3,Seattle Kraken,2,"17,151",2:42,SO
+2024-04-18,Dallas Stars,3,St. Louis Blues,4,"18,096",2:32,OT
+2024-04-18,Pittsburgh Penguins,0,Toronto Maple Leafs,7,"18,921",2:30,
+2024-04-18,Colorado Avalanche,2,Winnipeg Jets,6,"13,515",2:20,
+2024-04-18,Washington Capitals,2,Carolina Hurricanes,1,"18,700",2:44,SO
+2024-04-18,Vancouver Canucks,4,Chicago Blackhawks,3,"19,302",2:19,
+2024-04-18,San Jose Sharks,2,Colorado Avalanche,6,"18,093",2:29,
+2024-04-18,Anaheim Ducks,5,New Jersey Devils,1,"16,514",2:25,
+2024-04-18,Ottawa Senators,3,Vegas Golden Knights,6,"17,892",2:30,
+2024-04-18,Florida Panthers,1,Calgary Flames,3,"16,813",2:27,
+2024-04-18,Seattle Kraken,3,Dallas Stars,4,"18,532",2:32,OT
+2024-04-18,Anaheim Ducks,4,Detroit Red Wings,3,"19,515",2:33,
+2024-04-18,Minnesota Wild,3,Pittsburgh Penguins,4,"18,200",2:32,
+2024-04-18,Montreal Canadiens,3,Winnipeg Jets,2,"13,363",2:29,OT
+2024-04-18,Ottawa Senators,3,Arizona Coyotes,4,"4,600",2:30,
+2024-04-18,Minnesota Wild,4,Boston Bruins,3,"17,850",2:36,OT
+2024-04-18,Columbus Blue Jackets,9,Buffalo Sabres,4,"14,888",2:25,
+2024-04-18,Vegas Golden Knights,3,Carolina Hurricanes,6,"18,848",2:32,
+2024-04-18,Colorado Avalanche,2,Chicago Blackhawks,3,"19,719",2:24,
+2024-04-18,Philadelphia Flyers,3,New Jersey Devils,2,"16,514",2:26,OT
+2024-04-18,Vancouver Canucks,5,Nashville Predators,2,"17,159",2:22,
+2024-04-18,Edmonton Oilers,1,New York Islanders,3,"16,523",2:17,
+2024-04-18,Los Angeles Kings,4,San Jose Sharks,1,"11,593",2:23,
+2024-04-18,St. Louis Blues,1,Tampa Bay Lightning,6,"19,092",2:22,
+2024-04-18,New York Rangers,5,Toronto Maple Leafs,2,"19,264",2:22,
+2024-04-18,Seattle Kraken,2,Los Angeles Kings,1,"18,145",2:28,
+2024-04-18,Detroit Red Wings,2,Winnipeg Jets,5,"12,571",2:26,
+2024-04-18,New York Islanders,2,Washington Capitals,3,"18,573",2:24,OT
+2024-04-18,Calgary Flames,3,Anaheim Ducks,0,"16,102",2:25,
+2024-04-18,Toronto Maple Leafs,3,Buffalo Sabres,9,"19,070",2:22,
+2024-04-18,Washington Capitals,3,Columbus Blue Jackets,2,"18,172",2:32,OT
+2024-04-18,Ottawa Senators,4,Colorado Avalanche,6,"18,107",2:39,
+2024-04-18,Vancouver Canucks,3,Dallas Stars,4,"18,532",2:32,OT
+2024-04-18,St. Louis Blues,4,Florida Panthers,1,"18,753",2:29,
+2024-04-18,Montreal Canadiens,3,Minnesota Wild,4,"18,387",2:38,OT
+2024-04-18,Edmonton Oilers,6,New Jersey Devils,3,"16,514",2:26,
+2024-04-18,Nashville Predators,4,Philadelphia Flyers,2,"19,313",2:33,
+2024-04-18,Carolina Hurricanes,1,Pittsburgh Penguins,2,"18,267",2:37,SO
+2024-04-18,Arizona Coyotes,5,San Jose Sharks,2,"17,435",2:26,
+2024-04-18,Vegas Golden Knights,4,Tampa Bay Lightning,5,"19,092",2:35,
+2024-04-18,Montreal Canadiens,5,Chicago Blackhawks,2,"20,340",2:25,
+2024-04-18,Philadelphia Flyers,6,Detroit Red Wings,7,"19,515",2:50,SO
+2024-04-18,Edmonton Oilers,4,New York Rangers,3,"18,006",2:29,
+2024-04-18,Boston Bruins,1,Winnipeg Jets,5,"14,405",2:34,
+2024-04-18,Seattle Kraken,3,Anaheim Ducks,2,"14,608",2:28,
+2024-04-18,New York Islanders,5,Carolina Hurricanes,4,"18,921",2:31,
+2024-04-18,Toronto Maple Leafs,4,Columbus Blue Jackets,1,"17,806",2:24,
+2024-04-18,Arizona Coyotes,1,Colorado Avalanche,4,"18,117",2:21,
+2024-04-18,Vegas Golden Knights,2,Florida Panthers,4,"19,364",2:37,
+2024-04-18,Calgary Flames,3,Los Angeles Kings,5,"18,145",2:35,
+2024-04-18,Boston Bruins,2,Minnesota Wild,3,"19,183",2:33,
+2024-04-18,Detroit Red Wings,2,New Jersey Devils,3,"16,514",2:31,
+2024-04-18,Dallas Stars,3,Nashville Predators,2,"17,159",2:28,
+2024-04-18,Buffalo Sabres,3,New York Rangers,4,"18,006",2:36,OT
+2024-04-18,Pittsburgh Penguins,4,Ottawa Senators,5,"19,286",2:34,OT
+2024-04-18,Chicago Blackhawks,5,St. Louis Blues,7,"18,096",2:27,
+2024-04-18,San Jose Sharks,4,Vancouver Canucks,7,"18,875",2:32,
+2024-04-18,Tampa Bay Lightning,2,Washington Capitals,1,"18,573",2:37,SO
+2024-04-18,Vegas Golden Knights,2,Anaheim Ducks,5,"15,109",2:19,
+2024-04-18,Colorado Avalanche,4,Arizona Coyotes,5,"4,600",2:30,OT
+2024-04-18,Boston Bruins,4,Buffalo Sabres,1,"19,070",2:31,
+2024-04-18,Seattle Kraken,2,Calgary Flames,1,"18,881",2:23,
+2024-04-18,Winnipeg Jets,1,Chicago Blackhawks,2,"20,540",2:27,OT
+2024-04-18,San Jose Sharks,1,Los Angeles Kings,5,"18,145",2:25,
+2024-04-18,Detroit Red Wings,3,Minnesota Wild,6,"19,105",2:23,
+2024-04-18,Columbus Blue Jackets,3,New Jersey Devils,4,"16,514",2:30,OT
+2024-04-18,Carolina Hurricanes,5,Nashville Predators,2,"17,846",2:32,
+2024-04-18,Pittsburgh Penguins,7,New York Islanders,0,"17,255",2:30,
+2024-04-18,Washington Capitals,1,New York Rangers,5,"18,006",2:19,
+2024-04-18,Dallas Stars,1,St. Louis Blues,2,"18,096",2:24,
+2024-04-18,Florida Panthers,3,Tampa Bay Lightning,2,"19,092",2:28,
+2024-04-18,Ottawa Senators,4,Toronto Maple Leafs,2,"19,261",2:30,
+2024-04-18,Montreal Canadiens,3,Carolina Hurricanes,5,"18,969",2:38,
+2024-04-18,Edmonton Oilers,5,San Jose Sharks,0,"17,435",2:20,
+2024-04-18,Philadelphia Flyers,4,Vancouver Canucks,1,"18,986",2:27,
+2024-04-18,Los Angeles Kings,2,Vegas Golden Knights,3,"18,595",2:28,
+2024-04-18,Arizona Coyotes,2,Anaheim Ducks,0,"16,052",2:35,
+2024-04-18,Toronto Maple Leafs,5,Columbus Blue Jackets,6,"18,516",2:37,OT
+2024-04-18,Chicago Blackhawks,4,Dallas Stars,5,"18,532",2:33,OT
+2024-04-18,Nashville Predators,4,Detroit Red Wings,5,"19,515",2:36,OT
+2024-04-18,New York Rangers,3,Florida Panthers,4,"19,723",2:34,
+2024-04-18,Washington Capitals,1,New York Islanders,5,"17,255",2:23,
+2024-04-18,New Jersey Devils,6,Ottawa Senators,2,"20,022",2:22,
+2024-04-18,Philadelphia Flyers,1,Seattle Kraken,2,"17,151",2:26,OT
+2024-04-18,Colorado Avalanche,2,St. Louis Blues,1,"18,096",2:23,
+2024-04-18,New Jersey Devils,2,Boston Bruins,5,"17,850",2:27,
+2024-04-18,Columbus Blue Jackets,2,Buffalo Sabres,3,"19,070",2:21,OT
+2024-04-18,Montreal Canadiens,1,Florida Panthers,4,"19,663",2:24,
+2024-04-18,Edmonton Oilers,3,Los Angeles Kings,2,"18,145",2:39,SO
+2024-04-18,St. Louis Blues,2,Pittsburgh Penguins,4,"18,321",2:27,
+2024-04-18,New York Rangers,5,Tampa Bay Lightning,1,"19,092",2:35,
+2024-04-18,Carolina Hurricanes,3,Toronto Maple Leafs,2,"18,974",2:31,
+2024-04-18,Minnesota Wild,2,Winnipeg Jets,4,"15,225",2:25,
+2024-04-18,Nashville Predators,3,Washington Capitals,2,"18,573",2:45,SO
+2024-04-18,Edmonton Oilers,7,Anaheim Ducks,2,"16,041",2:25,
+2024-04-18,Philadelphia Flyers,3,Calgary Flames,4,"18,723",2:28,
+2024-04-18,San Jose Sharks,1,Colorado Avalanche,3,"18,140",2:38,
+2024-04-18,Chicago Blackhawks,1,Dallas Stars,8,"18,532",2:25,
+2024-04-18,Boston Bruins,5,Detroit Red Wings,3,"19,515",2:37,
+2024-04-18,Winnipeg Jets,3,Minnesota Wild,2,"19,129",2:28,
+2024-04-18,Buffalo Sabres,1,Ottawa Senators,5,"19,421",2:31,
+2024-04-18,New York Islanders,1,Pittsburgh Penguins,3,"18,216",2:37,
+2024-04-18,Montreal Canadiens,3,Tampa Bay Lightning,4,"19,092",2:33,
+2024-04-18,Vegas Golden Knights,0,Seattle Kraken,3,"47,313",2:35,
+2024-04-18,Florida Panthers,4,Arizona Coyotes,1,"4,600",2:35,
+2024-04-18,Boston Bruins,4,Columbus Blue Jackets,1,"18,262",2:27,
+2024-04-18,New York Islanders,4,Colorado Avalanche,5,"18,121",2:31,OT
+2024-04-18,Montreal Canadiens,4,Dallas Stars,3,"18,532",2:24,
+2024-04-18,Philadelphia Flyers,2,Edmonton Oilers,5,"18,347",2:19,
+2024-04-18,Toronto Maple Leafs,3,Los Angeles Kings,0,"18,145",2:33,
+2024-04-18,Calgary Flames,3,Minnesota Wild,1,"18,456",2:21,
+2024-04-18,Chicago Blackhawks,0,Nashville Predators,3,"17,363",2:23,
+2024-04-18,Carolina Hurricanes,6,New York Rangers,1,"18,006",2:28,
+2024-04-18,Washington Capitals,4,Pittsburgh Penguins,3,"18,190",2:33,
+2024-04-18,Detroit Red Wings,5,San Jose Sharks,3,"12,195",2:34,
+2024-04-18,Ottawa Senators,3,Vancouver Canucks,6,"18,810",2:22,
+2024-04-18,Tampa Bay Lightning,2,Winnipeg Jets,4,"14,157",2:20,
+2024-04-18,Toronto Maple Leafs,2,Anaheim Ducks,1,"16,135",2:42,OT
+2024-04-18,New Jersey Devils,6,Washington Capitals,3,"17,156",2:34,
+2024-04-18,New York Islanders,5,Arizona Coyotes,1,"4,600",2:21,
+2024-04-18,Pittsburgh Penguins,6,Boston Bruins,5,"17,850",2:35,
+2024-04-18,Colorado Avalanche,5,Dallas Stars,4,"18,532",2:38,OT
+2024-04-18,Detroit Red Wings,4,Los Angeles Kings,3,"18,145",2:34,SO
+2024-04-18,Tampa Bay Lightning,4,Minnesota Wild,1,"18,689",2:25,
+2024-04-18,Buffalo Sabres,6,Montreal Canadiens,1,"21,105",2:35,
+2024-04-18,Calgary Flames,6,Nashville Predators,3,"17,203",2:37,
+2024-04-18,Chicago Blackhawks,1,New York Rangers,4,"18,006",2:22,
+2024-04-18,Columbus Blue Jackets,3,Philadelphia Flyers,2,"17,510",2:39,SO
+2024-04-18,Ottawa Senators,1,Seattle Kraken,4,"17,151",2:20,
+2024-04-18,Winnipeg Jets,2,San Jose Sharks,1,"10,521",2:16,
+2024-04-18,Vancouver Canucks,1,St. Louis Blues,2,"18,096",2:23,
+2024-04-18,Florida Panthers,4,Vegas Golden Knights,1,"18,044",2:38,
+2024-04-18,Winnipeg Jets,3,Anaheim Ducks,1,"13,883",2:24,
+2024-04-18,Chicago Blackhawks,2,New Jersey Devils,4,"16,514",2:32,
+2024-04-18,Carolina Hurricanes,6,Washington Capitals,2,"18,573",2:32,
+2024-04-18,Tampa Bay Lightning,3,Boston Bruins,7,"17,850",2:28,
+2024-04-18,St. Louis Blues,2,Carolina Hurricanes,1,"18,903",2:36,SO
+2024-04-18,Minnesota Wild,4,Columbus Blue Jackets,3,"18,771",2:41,OT
+2024-04-18,Florida Panthers,8,Colorado Avalanche,4,"18,132",2:32,
+2024-04-18,Nashville Predators,4,Dallas Stars,3,"18,532",2:30,
+2024-04-18,Ottawa Senators,1,Edmonton Oilers,3,"18,347",2:27,
+2024-04-18,New York Rangers,3,Montreal Canadiens,4,"21,105",2:34,SO
+2024-04-18,Vancouver Canucks,6,New Jersey Devils,4,"16,157",2:36,
+2024-04-18,Calgary Flames,2,Philadelphia Flyers,3,"19,715",2:37,
+2024-04-18,Buffalo Sabres,3,Pittsburgh Penguins,1,"18,256",2:30,
+2024-04-18,Toronto Maple Leafs,4,San Jose Sharks,1,"17,435",2:24,
+2024-04-18,New York Islanders,2,Vegas Golden Knights,5,"18,312",2:33,
+2024-04-18,Detroit Red Wings,3,Anaheim Ducks,2,"17,174",2:29,
+2024-04-18,Winnipeg Jets,6,Arizona Coyotes,2,"4,600",2:29,
+2024-04-18,Calgary Flames,3,Chicago Blackhawks,4,"19,907",2:33,
+2024-04-18,Los Angeles Kings,3,Washington Capitals,4,"18,573",2:26,
+2024-04-18,Boston Bruins,3,Colorado Avalanche,4,"18,050",2:56,SO
+2024-04-18,Dallas Stars,4,Minnesota Wild,0,"18,087",2:33,
+2024-04-18,Vancouver Canucks,6,New York Rangers,3,"18,006",2:28,
+2024-04-18,Pittsburgh Penguins,4,Philadelphia Flyers,1,"18,279",2:36,
+2024-04-18,Boston Bruins,3,Arizona Coyotes,4,"4,600",2:48,OT
+2024-04-18,Seattle Kraken,5,Buffalo Sabres,2,"14,628",2:19,
+2024-04-18,Ottawa Senators,3,Calgary Flames,6,"17,219",2:30,
+2024-04-18,Edmonton Oilers,2,Chicago Blackhawks,1,"19,756",2:30,
+2024-04-18,Anaheim Ducks,5,Nashville Predators,3,"17,159",2:33,
+2024-04-18,Vancouver Canucks,5,New York Islanders,2,"15,690",2:20,
+2024-04-18,Florida Panthers,5,St. Louis Blues,1,"18,096",2:25,
+2024-04-18,Los Angeles Kings,2,Tampa Bay Lightning,3,"19,092",2:30,OT
+2024-04-18,San Jose Sharks,1,Toronto Maple Leafs,7,"18,364",2:28,
+2024-04-18,Columbus Blue Jackets,0,Winnipeg Jets,5,"12,512",2:23,
+2024-04-18,Vegas Golden Knights,0,Colorado Avalanche,3,"18,039",2:24,
+2024-04-18,Minnesota Wild,2,Dallas Stars,7,"18,532",2:31,
+2024-04-18,Montreal Canadiens,2,Philadelphia Flyers,3,"18,238",2:38,SO
+2024-04-18,Calgary Flames,6,Arizona Coyotes,2,"4,600",2:23,
+2024-04-18,Ottawa Senators,3,Buffalo Sabres,5,"16,083",2:25,
+2024-04-18,Anaheim Ducks,3,Carolina Hurricanes,6,"18,748",2:34,
+2024-04-18,Edmonton Oilers,3,Detroit Red Wings,2,"19,515",2:32,OT
+2024-04-18,Los Angeles Kings,2,Florida Panthers,3,"18,616",2:43,OT
+2024-04-18,San Jose Sharks,3,Montreal Canadiens,2,"21,105",2:30,
+2024-04-18,Toronto Maple Leafs,3,New York Islanders,4,"17,255",2:25,OT
+2024-04-18,Vancouver Canucks,4,Pittsburgh Penguins,3,"18,190",2:32,OT
+2024-04-18,New York Rangers,2,St. Louis Blues,5,"18,096",2:20,
+2024-04-18,New Jersey Devils,3,Tampa Bay Lightning,4,"19,092",2:34,OT
+2024-04-18,Boston Bruins,1,Vegas Golden Knights,2,"18,209",2:30,OT
+2024-04-18,Chicago Blackhawks,1,Winnipeg Jets,2,"15,225",2:16,
+2024-04-18,Seattle Kraken,4,Washington Capitals,1,"17,935",2:22,
+2024-04-18,Nashville Predators,6,Dallas Stars,3,"18,532",2:29,
+2024-04-18,Philadelphia Flyers,4,Minnesota Wild,3,"18,473",2:35,OT
+2024-04-18,Vancouver Canucks,1,Buffalo Sabres,0,"17,662",2:35,
+2024-04-18,Pittsburgh Penguins,2,Carolina Hurricanes,3,"18,932",2:34,OT
+2024-04-18,Seattle Kraken,7,Columbus Blue Jackets,4,"18,588",2:28,
+2024-04-18,Dallas Stars,3,Chicago Blackhawks,1,"18,889",2:27,
+2024-04-18,Los Angeles Kings,3,Detroit Red Wings,5,"19,515",2:35,
+2024-04-18,New Jersey Devils,4,Florida Panthers,1,"19,526",2:23,
+2024-04-18,Arizona Coyotes,6,Minnesota Wild,0,"18,812",2:32,
+2024-04-18,Edmonton Oilers,2,Montreal Canadiens,1,"21,105",2:37,OT
+2024-04-18,New York Islanders,1,Nashville Predators,3,"17,474",2:23,
+2024-04-18,San Jose Sharks,4,Ottawa Senators,5,"18,764",2:23,
+2024-04-18,Boston Bruins,4,St. Louis Blues,3,"18,096",2:31,OT
+2024-04-18,Anaheim Ducks,1,Tampa Bay Lightning,5,"19,092",2:28,
+2024-04-18,Colorado Avalanche,5,Toronto Maple Leafs,3,"19,298",2:22,
+2024-04-18,Calgary Flames,3,Vegas Golden Knights,1,"17,858",2:27,
+2024-04-18,Philadelphia Flyers,2,Winnipeg Jets,0,"14,540",2:25,
+2024-04-18,New York Rangers,2,Washington Capitals,3,"18,573",2:35,
+2024-04-18,Washington Capitals,1,New York Rangers,2,"18,006",2:29,
+2024-04-18,Detroit Red Wings,4,Toronto Maple Leafs,2,"18,772",2:24,
+2024-04-18,New Jersey Devils,0,Boston Bruins,3,"17,850",2:33,
+2024-04-18,San Jose Sharks,0,Buffalo Sabres,3,"16,186",2:25,
+2024-04-18,Los Angeles Kings,5,Carolina Hurricanes,2,"18,825",2:28,
+2024-04-18,Vancouver Canucks,3,Columbus Blue Jackets,4,"17,622",2:31,SO
+2024-04-18,Anaheim Ducks,5,Florida Panthers,4,"17,885",2:34,OT
+2024-04-18,New York Islanders,0,Minnesota Wild,5,"18,231",2:31,
+2024-04-18,Colorado Avalanche,3,Montreal Canadiens,4,"21,205",2:36,
+2024-04-18,Seattle Kraken,0,Pittsburgh Penguins,3,"18,202",2:23,
+2024-04-18,Philadelphia Flyers,4,St. Louis Blues,2,"18,096",2:20,
+2024-04-18,Nashville Predators,1,Vegas Golden Knights,4,"17,719",2:27,
+2024-04-18,Arizona Coyotes,2,Calgary Flames,3,"17,407",2:31,OT
+2024-04-18,San Jose Sharks,1,Chicago Blackhawks,2,"16,401",2:44,SO
+2024-04-18,Los Angeles Kings,1,Dallas Stars,5,"18,532",2:23,
+2024-04-18,Toronto Maple Leafs,2,Edmonton Oilers,4,"18,347",2:25,
+2024-04-18,Seattle Kraken,2,New York Rangers,5,"18,006",2:19,
+2024-04-18,Colorado Avalanche,7,Ottawa Senators,4,"16,242",2:38,
+2024-04-18,New York Islanders,2,Winnipeg Jets,4,"12,600",2:31,
+2024-04-18,Anaheim Ducks,0,Washington Capitals,2,"15,961",2:21,
+2024-04-18,Detroit Red Wings,3,Florida Panthers,2,"17,958",2:31,OT
+2024-04-18,Montreal Canadiens,3,New Jersey Devils,2,"16,022",2:19,
+2024-04-18,Colorado Avalanche,2,Boston Bruins,5,"17,850",2:34,
+2024-04-18,Chicago Blackhawks,0,Buffalo Sabres,3,"15,465",2:13,
+2024-04-18,Toronto Maple Leafs,4,Calgary Flames,3,"18,714",2:38,
+2024-04-18,Seattle Kraken,2,Edmonton Oilers,4,"18,347",2:33,
+2024-04-18,Nashville Predators,2,Los Angeles Kings,1,"18,145",2:29,
+2024-04-18,Montreal Canadiens,2,Ottawa Senators,6,"19,286",2:32,
+2024-04-18,Dallas Stars,1,Philadelphia Flyers,5,"18,024",2:27,
+2024-04-18,Minnesota Wild,3,Tampa Bay Lightning,7,"19,092",2:29,
+2024-04-18,Arizona Coyotes,1,Vancouver Canucks,2,"19,005",2:30,
+2024-04-18,New York Rangers,1,Vegas Golden Knights,5,"18,149",2:25,
+2024-04-18,St. Louis Blues,2,Washington Capitals,5,"17,909",2:27,
+2024-04-18,Detroit Red Wings,2,Carolina Hurricanes,4,"18,841",2:27,
+2024-04-18,New Jersey Devils,4,Columbus Blue Jackets,1,"18,630",2:25,
+2024-04-18,New York Islanders,3,Chicago Blackhawks,4,"18,463",2:30,OT
+2024-04-18,Minnesota Wild,6,Florida Panthers,4,"19,595",2:39,
+2024-04-18,Nashville Predators,2,Arizona Coyotes,3,"4,600",2:31,
+2024-04-18,Montreal Canadiens,4,Boston Bruins,9,"17,850",2:32,
+2024-04-18,Tampa Bay Lightning,3,Buffalo Sabres,1,"18,246",2:16,
+2024-04-18,Edmonton Oilers,3,Calgary Flames,1,"19,289",2:25,
+2024-04-18,New York Rangers,1,Los Angeles Kings,2,"18,292",2:28,
+2024-04-18,Dallas Stars,6,New Jersey Devils,2,"16,514",2:33,
+2024-04-18,Winnipeg Jets,2,Ottawa Senators,1,"19,388",2:28,OT
+2024-04-18,Colorado Avalanche,7,Philadelphia Flyers,4,"19,078",2:30,
+2024-04-18,Anaheim Ducks,3,San Jose Sharks,5,"17,435",2:30,
+2024-04-18,Washington Capitals,0,St. Louis Blues,3,"18,096",2:25,
+2024-04-18,Toronto Maple Leafs,4,Vancouver Canucks,6,"18,865",2:33,
+2024-04-18,Pittsburgh Penguins,2,Vegas Golden Knights,3,"18,319",2:29,
+2024-04-18,New York Rangers,5,Anaheim Ducks,2,"16,197",2:32,
+2024-04-18,Minnesota Wild,5,Carolina Hurricanes,2,"18,749",2:29,
+2024-04-18,Tampa Bay Lightning,1,Detroit Red Wings,2,"19,515",2:29,
+2024-04-18,Dallas Stars,2,New York Islanders,3,"17,255",2:28,OT
+2024-04-18,Ottawa Senators,5,Philadelphia Flyers,3,"18,930",2:38,
+2024-04-18,Toronto Maple Leafs,3,Seattle Kraken,1,"17,151",2:24,
+2024-04-18,Pittsburgh Penguins,2,Arizona Coyotes,5,"4,600",2:32,
+2024-04-18,Winnipeg Jets,1,Boston Bruins,4,"17,850",2:26,
+2024-04-18,San Jose Sharks,4,Los Angeles Kings,3,"18,145",2:35,SO
+2024-04-18,Vegas Golden Knights,5,New Jersey Devils,6,"16,514",2:33,OT
+2024-04-18,Florida Panthers,4,Nashville Predators,1,"17,159",2:30,
+2024-04-18,Chicago Blackhawks,0,Vancouver Canucks,2,"18,714",2:12,
+2024-04-18,Buffalo Sabres,2,Anaheim Ducks,4,"16,302",2:27,
+2024-04-18,St. Louis Blues,4,Calgary Flames,3,"16,813",2:24,
+2024-04-18,Dallas Stars,5,Detroit Red Wings,4,"18,923",2:27,
+2024-04-18,Columbus Blue Jackets,1,Edmonton Oilers,4,"18,347",2:22,
+2024-04-18,Washington Capitals,3,Minnesota Wild,5,"18,437",2:29,
+2024-04-18,Ottawa Senators,4,Montreal Canadiens,1,"21,105",2:23,
+2024-04-18,Vegas Golden Knights,3,New York Islanders,2,"16,077",2:24,
+2024-04-18,Tampa Bay Lightning,6,Philadelphia Flyers,3,"17,937",2:28,
+2024-04-18,New York Rangers,2,San Jose Sharks,3,"12,892",2:29,OT
+2024-04-18,Carolina Hurricanes,3,Boston Bruins,2,"17,850",2:28,
+2024-04-18,Washington Capitals,2,Colorado Avalanche,6,"18,136",2:36,
+2024-04-18,Arizona Coyotes,2,Florida Panthers,6,"17,020",2:39,
+2024-04-18,Buffalo Sabres,5,Los Angeles Kings,3,"18,145",2:24,
+2024-04-18,Chicago Blackhawks,2,Seattle Kraken,6,"17,151",2:29,
+2024-04-18,Winnipeg Jets,0,Toronto Maple Leafs,1,"18,972",2:31,OT
+2024-04-18,St. Louis Blues,4,Vancouver Canucks,3,"19,003",2:26,OT
+2024-04-18,New Jersey Devils,2,Carolina Hurricanes,3,"18,792",2:29,
+2024-04-18,Columbus Blue Jackets,5,Calgary Flames,2,"16,689",2:29,
+2024-04-18,Anaheim Ducks,3,Dallas Stars,4,"18,532",2:26,OT
+2024-04-18,Philadelphia Flyers,0,Detroit Red Wings,3,"19,515",2:29,
+2024-04-18,Chicago Blackhawks,0,Edmonton Oilers,3,"18,347",2:23,
+2024-04-18,Nashville Predators,3,Minnesota Wild,2,"18,254",2:35,
+2024-04-18,New York Islanders,3,Montreal Canadiens,4,"21,105",2:34,
+2024-04-18,Boston Bruins,3,Ottawa Senators,2,"18,722",2:37,OT
+2024-04-18,Arizona Coyotes,3,Tampa Bay Lightning,6,"19,092",2:20,
+2024-04-18,Los Angeles Kings,1,Colorado Avalanche,5,"18,131",2:26,
+2024-04-18,Vegas Golden Knights,5,New York Rangers,2,"18,006",2:33,
+2024-04-18,Florida Panthers,3,Pittsburgh Penguins,2,"18,188",2:50,SO
+2024-04-18,St. Louis Blues,4,Seattle Kraken,3,"17,151",2:27,OT
+2024-04-18,Arizona Coyotes,1,Carolina Hurricanes,3,"18,718",2:30,
+2024-04-18,Chicago Blackhawks,0,Calgary Flames,1,"18,279",2:21,
+2024-04-18,Washington Capitals,4,Dallas Stars,5,"18,532",2:36,OT
+2024-04-18,Vegas Golden Knights,2,Detroit Red Wings,5,"19,515",2:23,
+2024-04-18,Nashville Predators,1,Edmonton Oilers,4,"18,347",2:21,
+2024-04-18,Anaheim Ducks,3,Minnesota Wild,2,"19,053",2:31,
+2024-04-18,Florida Panthers,3,New York Islanders,2,"17,255",2:35,OT
+2024-04-18,New York Rangers,7,Ottawa Senators,2,"19,262",2:29,
+2024-04-18,Boston Bruins,6,Philadelphia Flyers,2,"19,276",2:29,
+2024-04-18,Montreal Canadiens,2,Pittsburgh Penguins,3,"18,377",2:28,OT
+2024-04-18,Buffalo Sabres,5,San Jose Sharks,2,"17,435",2:33,
+2024-04-18,New Jersey Devils,3,Tampa Bay Lightning,6,"19,092",2:26,
+2024-04-18,Columbus Blue Jackets,4,Vancouver Canucks,5,"19,002",2:44,OT
+2024-04-18,Toronto Maple Leafs,4,Winnipeg Jets,2,"15,225",2:24,
+2024-04-18,Columbus Blue Jackets,2,Seattle Kraken,4,"17,151",2:28,
+2024-04-18,Los Angeles Kings,3,St. Louis Blues,4,"18,096",2:25,OT
+2024-04-18,Nashville Predators,3,Ottawa Senators,4,"16,284",2:38,OT
+2024-04-18,Seattle Kraken,0,San Jose Sharks,2,"10,988",2:20,
+2024-04-18,Columbus Blue Jackets,1,St. Louis Blues,0,"18,096",2:20,
+2024-04-18,San Jose Sharks,2,Anaheim Ducks,3,"15,654",2:34,OT
+2024-04-18,Ottawa Senators,3,Detroit Red Wings,2,"19,515",2:26,OT
+2024-04-18,Los Angeles Kings,4,Nashville Predators,2,"17,453",2:23,
+2024-04-18,Colorado Avalanche,1,New York Rangers,2,"18,006",2:23,OT
+2024-04-18,New York Islanders,3,Toronto Maple Leafs,2,"18,365",2:26,
+2024-04-18,Calgary Flames,4,Boston Bruins,1,"17,850",2:31,
+2024-04-18,Dallas Stars,2,Buffalo Sabres,1,"13,221",2:36,
+2024-04-18,Vancouver Canucks,3,Carolina Hurricanes,2,"18,700",2:22,
+2024-04-18,Philadelphia Flyers,2,Florida Panthers,1,"17,340",2:22,
+2024-04-18,Colorado Avalanche,3,New Jersey Devils,5,"16,326",2:36,
+2024-04-18,Winnipeg Jets,0,Pittsburgh Penguins,3,"17,086",2:24,
+2024-04-18,Edmonton Oilers,1,Vegas Golden Knights,3,"18,433",2:26,
+2024-04-18,Montreal Canadiens,5,Washington Capitals,2,"16,959",2:29,
+2024-04-18,Minnesota Wild,2,Chicago Blackhawks,1,"17,230",2:31,
+2024-04-18,Tampa Bay Lightning,1,New York Rangers,3,"17,208",2:24,
+2024-04-18,Dallas Stars,4,Toronto Maple Leafs,5,"18,517",2:31,
+2024-04-18,Vegas Golden Knights,3,Arizona Coyotes,2,"4,600",2:25,
+2024-04-18,Vancouver Canucks,0,Boston Bruins,4,"17,850",2:26,
+2024-04-18,Colorado Avalanche,2,Carolina Hurricanes,5,"18,720",2:37,
+2024-04-18,Washington Capitals,2,Florida Panthers,4,"17,645",2:29,
+2024-04-18,Calgary Flames,5,New Jersey Devils,3,"16,374",2:30,
+2024-04-18,Tampa Bay Lightning,2,New York Islanders,6,"17,255",2:19,
+2024-04-18,Winnipeg Jets,1,Philadelphia Flyers,4,"18,049",2:24,
+2024-04-18,Edmonton Oilers,5,Anaheim Ducks,3,"17,489",2:25,
+2024-04-18,New York Rangers,4,Chicago Blackhawks,3,"19,995",2:30,OT
+2024-04-18,Pittsburgh Penguins,2,Minnesota Wild,3,"19,329",2:43,
+2024-04-18,Washington Capitals,3,Boston Bruins,0,"17,850",2:25,
+2024-04-18,St. Louis Blues,3,Buffalo Sabres,1,"16,726",2:28,
+2024-04-18,New Jersey Devils,0,Carolina Hurricanes,1,"18,997",2:31,OT
+2024-04-18,Tampa Bay Lightning,4,Columbus Blue Jackets,2,"18,876",2:32,
+2024-04-18,Vancouver Canucks,3,Detroit Red Wings,4,"19,515",2:35,OT
+2024-04-18,Colorado Avalanche,0,Florida Panthers,4,"19,304",2:23,
+2024-04-18,Edmonton Oilers,0,Los Angeles Kings,4,"18,145",2:34,
+2024-04-18,Dallas Stars,3,Montreal Canadiens,2,"21,105",2:29,
+2024-04-18,Arizona Coyotes,4,Nashville Predators,5,"17,507",2:36,OT
+2024-04-18,Calgary Flames,5,New York Islanders,2,"17,255",2:32,
+2024-04-18,Toronto Maple Leafs,3,Ottawa Senators,5,"19,679",2:25,
+2024-04-18,Seattle Kraken,2,Philadelphia Flyers,3,"18,926",2:35,
+2024-04-18,Pittsburgh Penguins,1,Winnipeg Jets,2,"15,225",2:14,
+2024-04-18,St. Louis Blues,7,Montreal Canadiens,2,"21,105",2:36,
+2024-04-18,Vancouver Canucks,3,Washington Capitals,2,"18,573",2:27,OT
+2024-04-18,Seattle Kraken,1,New Jersey Devils,3,"14,511",2:23,
+2024-04-18,Calgary Flames,0,New York Rangers,2,"18,006",2:22,
+2024-04-18,Arizona Coyotes,3,Philadelphia Flyers,5,"18,094",2:37,
+2024-04-18,Minnesota Wild,5,Vegas Golden Knights,3,"18,207",2:33,
+2024-04-18,Tampa Bay Lightning,3,Boston Bruins,2,"17,850",2:48,SO
+2024-04-18,Los Angeles Kings,0,Buffalo Sabres,7,"13,292",2:16,
+2024-04-18,Vancouver Canucks,4,Chicago Blackhawks,2,"16,452",2:22,
+2024-04-18,Carolina Hurricanes,2,Dallas Stars,4,"18,532",2:28,
+2024-04-18,Detroit Red Wings,4,Edmonton Oilers,8,"18,347",2:27,
+2024-04-18,Anaheim Ducks,0,Montreal Canadiens,5,"21,105",2:26,
+2024-04-18,New Jersey Devils,4,Nashville Predators,2,"17,159",2:27,
+2024-04-18,Seattle Kraken,2,New York Islanders,1,"17,255",2:35,SO
+2024-04-18,Columbus Blue Jackets,3,Ottawa Senators,6,"15,203",2:34,
+2024-04-18,St. Louis Blues,1,Toronto Maple Leafs,4,"18,307",2:20,
+2024-04-18,Colorado Avalanche,6,Washington Capitals,3,"17,878",2:38,
+2024-04-18,Minnesota Wild,3,Arizona Coyotes,1,"4,600",2:41,
+2024-04-18,Florida Panthers,5,Pittsburgh Penguins,2,"17,967",2:30,
+2024-04-18,San Jose Sharks,0,Winnipeg Jets,1,"13,786",2:20,
+2024-04-18,Seattle Kraken,4,Boston Bruins,1,"17,850",2:22,
+2024-04-18,Florida Panthers,4,Buffalo Sabres,0,"14,277",2:24,
+2024-04-18,San Jose Sharks,6,Calgary Flames,3,"16,852",2:37,
+2024-04-18,Pittsburgh Penguins,4,Chicago Blackhawks,1,"19,423",2:19,
+2024-04-18,Los Angeles Kings,2,New Jersey Devils,1,"16,105",2:23,
+2024-04-18,Dallas Stars,9,Nashville Predators,2,"17,159",2:30,
+2024-04-18,Montreal Canadiens,4,New York Rangers,7,"18,006",2:45,
+2024-04-18,Anaheim Ducks,5,Ottawa Senators,1,"16,297",2:23,
+2024-04-18,Edmonton Oilers,3,St. Louis Blues,6,"18,096",2:30,
+2024-04-18,Colorado Avalanche,3,Tampa Bay Lightning,6,"19,092",2:45,
+2024-04-18,Philadelphia Flyers,3,Toronto Maple Leafs,4,"18,646",2:33,OT
+2024-04-18,Detroit Red Wings,1,Vancouver Canucks,4,"18,947",2:25,
+2024-04-18,Carolina Hurricanes,5,Arizona Coyotes,1,"4,600",2:27,
+2024-04-18,Los Angeles Kings,5,Boston Bruins,4,"17,850",2:48,OT
+2024-04-18,Detroit Red Wings,5,Calgary Flames,0,"17,854",2:40,
+2024-04-18,Ottawa Senators,2,Chicago Blackhawks,3,"18,888",2:28,
+2024-04-18,Edmonton Oilers,4,Dallas Stars,3,"18,532",2:32,OT
+2024-04-18,Buffalo Sabres,3,Minnesota Wild,2,"19,276",2:33,OT
+2024-04-18,Washington Capitals,4,Montreal Canadiens,3,"21,105",2:31,
+2024-04-18,Philadelphia Flyers,3,New Jersey Devils,6,"70,328",2:47,
+2024-04-18,Columbus Blue Jackets,4,San Jose Sharks,3,"17,435",2:33,
+2024-04-18,Nashville Predators,5,St. Louis Blues,2,"18,096",2:25,
+2024-04-18,Florida Panthers,9,Tampa Bay Lightning,2,"19,092",2:35,
+2024-04-18,Anaheim Ducks,2,Toronto Maple Leafs,9,"19,247",2:23,
+2024-04-18,Winnipeg Jets,4,Vancouver Canucks,2,"18,992",2:30,
+2024-04-18,Carolina Hurricanes,3,Vegas Golden Knights,1,"18,355",2:30,
+2024-04-18,Arizona Coyotes,3,Colorado Avalanche,4,"18,133",2:50,
+2024-04-18,New York Rangers,6,New York Islanders,5,"79,690",2:48,OT
+2024-04-18,Los Angeles Kings,2,Pittsburgh Penguins,1,"18,422",2:27,
+2024-04-18,Edmonton Oilers,6,Arizona Coyotes,3,"4,600",2:26,
+2024-04-18,Dallas Stars,3,Boston Bruins,4,"17,850",2:53,SO
+2024-04-18,Anaheim Ducks,4,Buffalo Sabres,3,"17,229",2:19,
+2024-04-18,Chicago Blackhawks,3,Carolina Hurricanes,6,"18,909",2:25,
+2024-04-18,Winnipeg Jets,3,Calgary Flames,6,"18,037",2:24,
+2024-04-18,Vancouver Canucks,7,Minnesota Wild,10,"19,024",2:37,
+2024-04-18,Detroit Red Wings,4,Seattle Kraken,3,"17,151",2:29,OT
+2024-04-18,Vegas Golden Knights,4,San Jose Sharks,0,"13,673",2:22,
+2024-04-18,Toronto Maple Leafs,4,St. Louis Blues,2,"18,096",2:27,
+2024-04-18,Ottawa Senators,4,Tampa Bay Lightning,2,"19,092",2:28,
+2024-04-18,Vancouver Canucks,1,Colorado Avalanche,3,"18,121",2:28,
+2024-04-18,Ottawa Senators,2,Florida Panthers,3,"19,000",2:30,OT
+2024-04-18,Columbus Blue Jackets,1,Los Angeles Kings,5,"16,980",2:31,
+2024-04-18,Dallas Stars,1,New York Rangers,3,"18,006",2:29,
+2024-04-18,New York Islanders,5,Pittsburgh Penguins,4,"18,016",2:36,OT
+2024-04-18,Nashville Predators,5,Vegas Golden Knights,3,"17,727",2:29,
+2024-04-18,Minnesota Wild,3,Winnipeg Jets,6,"14,707",2:30,
+2024-04-18,New Jersey Devils,2,Washington Capitals,6,"17,232",2:29,
+2024-04-18,Columbus Blue Jackets,7,Anaheim Ducks,4,"14,518",2:27,
+2024-04-18,Toronto Maple Leafs,6,Arizona Coyotes,3,"4,600",2:35,
+2024-04-18,Philadelphia Flyers,3,Chicago Blackhawks,1,"18,245",2:25,
+2024-04-18,Boston Bruins,6,Edmonton Oilers,5,"18,347",2:46,OT
+2024-04-18,Buffalo Sabres,3,Montreal Canadiens,2,"21,105",2:22,
+2024-04-18,Florida Panthers,0,Carolina Hurricanes,1,"18,700",2:26,
+2024-04-18,Boston Bruins,2,Calgary Flames,3,"17,750",2:31,OT
+2024-04-18,Colorado Avalanche,1,Detroit Red Wings,2,"19,515",2:29,OT
+2024-04-18,Nashville Predators,4,Los Angeles Kings,1,"17,415",2:26,
+2024-04-18,New York Rangers,5,New Jersey Devils,1,"16,650",2:37,
+2024-04-18,Dallas Stars,1,Ottawa Senators,4,"16,118",2:19,
+2024-04-18,Montreal Canadiens,1,Pittsburgh Penguins,4,"17,160",2:24,
+2024-04-18,Vancouver Canucks,2,Seattle Kraken,5,"17,151",2:27,
+2024-04-18,New York Islanders,0,St. Louis Blues,4,"18,096",2:26,
+2024-04-18,Washington Capitals,5,Tampa Bay Lightning,3,"19,092",2:33,
+2024-04-18,Toronto Maple Leafs,7,Vegas Golden Knights,3,"18,188",2:23,
+2024-04-18,Buffalo Sabres,2,Columbus Blue Jackets,1,"18,943",2:21,
+2024-04-18,Winnipeg Jets,3,Chicago Blackhawks,2,"18,891",2:24,OT
+2024-04-18,Minnesota Wild,4,Edmonton Oilers,2,"18,347",2:28,
+2024-04-18,Dallas Stars,2,Carolina Hurricanes,1,"18,952",2:27,
+2024-04-18,Toronto Maple Leafs,4,Colorado Avalanche,3,"18,135",2:23,
+2024-04-18,St. Louis Blues,1,Detroit Red Wings,6,"19,515",2:24,
+2024-04-18,Calgary Flames,6,Edmonton Oilers,3,"18,347",2:41,
+2024-04-18,Washington Capitals,2,Florida Panthers,3,"19,887",2:37,OT
+2024-04-18,Anaheim Ducks,2,Los Angeles Kings,3,"18,203",2:36,SO
+2024-04-18,Montreal Canadiens,3,New Jersey Devils,4,"16,514",2:21,
+2024-04-18,Tampa Bay Lightning,4,New York Islanders,2,"17,255",2:28,
+2024-04-18,Vegas Golden Knights,3,Ottawa Senators,4,"19,197",2:34,SO
+2024-04-18,New York Rangers,2,Philadelphia Flyers,1,"19,756",2:34,
+2024-04-18,Minnesota Wild,5,Seattle Kraken,2,"17,151",2:36,
+2024-04-18,Nashville Predators,4,San Jose Sharks,2,"15,919",2:29,
+2024-04-18,Boston Bruins,2,Vancouver Canucks,3,"18,924",2:44,OT
+2024-04-18,Nashville Predators,4,Anaheim Ducks,2,"16,370",2:25,
+2024-04-18,Carolina Hurricanes,2,Buffalo Sabres,3,"15,690",2:37,SO
+2024-04-18,New York Rangers,2,Columbus Blue Jackets,4,"18,293",2:37,
+2024-04-18,Detroit Red Wings,3,Chicago Blackhawks,2,"21,141",2:31,OT
+2024-04-18,Tampa Bay Lightning,4,New Jersey Devils,1,"16,514",2:21,
+2024-04-18,Philadelphia Flyers,6,Pittsburgh Penguins,7,"18,212",2:33,
+2024-04-18,Arizona Coyotes,3,Winnipeg Jets,4,"14,324",2:28,OT
+2024-04-18,New York Islanders,3,Dallas Stars,2,"18,532",2:31,OT
+2024-04-18,Los Angeles Kings,2,Edmonton Oilers,4,"18,347",2:25,
+2024-04-18,Boston Bruins,3,Seattle Kraken,4,"17,151",2:47,SO
+2024-04-18,Ottawa Senators,3,Washington Capitals,6,"17,296",2:24,
+2024-04-18,Los Angeles Kings,2,Calgary Flames,4,"16,450",2:25,
+2024-04-18,Dallas Stars,1,Colorado Avalanche,5,"18,117",2:23,
+2024-04-18,Washington Capitals,3,Detroit Red Wings,8,"19,515",2:24,
+2024-04-18,Buffalo Sabres,2,Florida Panthers,3,"18,243",2:35,
+2024-04-18,Carolina Hurricanes,3,Minnesota Wild,2,"18,775",2:27,
+2024-04-18,Arizona Coyotes,2,Montreal Canadiens,4,"21,105",2:27,
+2024-04-18,Ottawa Senators,1,Nashville Predators,4,"17,159",2:30,
+2024-04-18,Tampa Bay Lightning,2,Philadelphia Flyers,6,"18,647",2:41,
+2024-04-18,New Jersey Devils,7,San Jose Sharks,2,"10,982",2:26,
+2024-04-18,Vegas Golden Knights,6,Toronto Maple Leafs,2,"18,907",2:29,
+2024-04-18,Pittsburgh Penguins,4,Vancouver Canucks,3,"18,730",2:31,OT
+2024-04-18,St. Louis Blues,2,Winnipeg Jets,4,"13,139",2:27,
+2024-04-18,St. Louis Blues,2,Edmonton Oilers,3,"18,347",2:36,OT
+2024-04-18,Columbus Blue Jackets,1,New York Rangers,4,"18,006",2:33,
+2024-04-18,Vegas Golden Knights,4,Boston Bruins,5,"17,850",2:39,
+2024-04-18,Carolina Hurricanes,4,Columbus Blue Jackets,2,"18,390",2:24,
+2024-04-18,Colorado Avalanche,5,Chicago Blackhawks,0,"18,096",2:18,
+2024-04-18,Winnipeg Jets,1,Dallas Stars,4,"18,532",2:29,
+2024-04-18,New York Islanders,5,Detroit Red Wings,3,"19,515",2:25,
+2024-04-18,Montreal Canadiens,3,Florida Panthers,4,"18,918",2:46,SO
+2024-04-18,Minnesota Wild,1,Nashville Predators,6,"17,159",2:33,
+2024-04-18,Pittsburgh Penguins,0,Seattle Kraken,2,"17,151",2:22,
+2024-04-18,Anaheim Ducks,6,San Jose Sharks,4,"10,537",2:40,
+2024-04-18,Buffalo Sabres,3,Tampa Bay Lightning,2,"19,092",2:25,OT
+2024-04-18,Arizona Coyotes,2,Toronto Maple Leafs,4,"18,662",2:27,
+2024-04-18,Los Angeles Kings,5,Vancouver Canucks,1,"18,801",2:22,
+2024-04-18,New Jersey Devils,3,Anaheim Ducks,4,"16,078",2:37,
+2024-04-18,Arizona Coyotes,5,Ottawa Senators,3,"17,734",2:33,
+2024-04-18,Philadelphia Flyers,2,Washington Capitals,5,"18,573",2:31,
+2024-04-18,Vegas Golden Knights,2,Buffalo Sabres,7,"16,693",2:30,
+2024-04-18,Winnipeg Jets,5,Carolina Hurricanes,3,"18,876",2:26,
+2024-04-18,Pittsburgh Penguins,3,Calgary Flames,4,"19,289",2:26,
+2024-04-18,Columbus Blue Jackets,5,Chicago Blackhawks,2,"18,782",2:21,
+2024-04-18,San Jose Sharks,2,Dallas Stars,3,"18,532",2:50,SO
+2024-04-18,Florida Panthers,4,Detroit Red Wings,0,"19,515",2:33,
+2024-04-18,Colorado Avalanche,1,Nashville Predators,5,"17,474",2:23,
+2024-04-18,Boston Bruins,1,New York Islanders,5,"17,255",2:28,
+2024-04-18,Ottawa Senators,2,Philadelphia Flyers,4,"18,971",2:24,
+2024-04-18,Edmonton Oilers,2,Seattle Kraken,1,"17,151",2:21,
+2024-04-18,Minnesota Wild,1,St. Louis Blues,3,"18,096",2:25,
+2024-04-18,Montreal Canadiens,3,Tampa Bay Lightning,4,"19,092",2:51,SO
+2024-04-18,New York Rangers,3,Toronto Maple Leafs,4,"19,312",2:52,SO
+2024-04-18,Vancouver Canucks,2,Anaheim Ducks,1,"15,161",2:18,
+2024-04-18,Winnipeg Jets,5,Buffalo Sabres,2,"14,171",2:23,
+2024-04-18,Pittsburgh Penguins,1,Edmonton Oilers,6,"18,347",2:22,
+2024-04-18,New Jersey Devils,1,Los Angeles Kings,5,"18,145",2:28,
+2024-04-18,San Jose Sharks,3,Minnesota Wild,4,"18,879",2:25,
+2024-04-18,Arizona Coyotes,5,Washington Capitals,2,"18,573",2:33,
+2024-04-18,Vegas Golden Knights,3,Columbus Blue Jackets,6,"17,338",2:31,
+2024-04-18,Seattle Kraken,4,Calgary Flames,2,"16,516",2:41,
+2024-04-18,Chicago Blackhawks,0,Colorado Avalanche,5,"18,125",2:27,
+2024-04-18,Florida Panthers,4,New York Rangers,2,"18,006",2:30,
+2024-04-18,St. Louis Blues,2,Philadelphia Flyers,1,"18,728",2:34,SO
+2024-04-18,Boston Bruins,4,Toronto Maple Leafs,1,"18,911",2:24,
+2024-04-18,Chicago Blackhawks,5,Arizona Coyotes,2,"4,600",2:26,
+2024-04-18,Edmonton Oilers,2,Boston Bruins,1,"17,850",2:28,OT
+2024-04-18,Vancouver Canucks,2,Los Angeles Kings,1,"18,145",2:31,OT
+2024-04-18,Florida Panthers,5,New Jersey Devils,3,"16,042",2:35,
+2024-04-18,Montreal Canadiens,4,Nashville Predators,3,"17,159",2:33,OT
+2024-04-18,St. Louis Blues,2,New York Islanders,4,"16,540",2:13,
+2024-04-18,Columbus Blue Jackets,3,Pittsburgh Penguins,5,"17,072",2:28,
+2024-04-18,Dallas Stars,7,San Jose Sharks,6,"10,070",2:38,OT
+2024-04-18,Seattle Kraken,4,Winnipeg Jets,3,"13,125",2:20,
+2024-04-18,Ottawa Senators,1,Anaheim Ducks,2,"14,000",2:22,
+2024-04-18,Detroit Red Wings,2,Colorado Avalanche,7,"18,132",2:44,
+2024-04-18,Buffalo Sabres,1,Toronto Maple Leafs,2,"18,624",2:27,OT
+2024-04-18,Minnesota Wild,5,Arizona Coyotes,2,"4,600",2:37,
+2024-04-18,Toronto Maple Leafs,1,Boston Bruins,4,"17,850",2:40,
+2024-04-18,Montreal Canadiens,1,Carolina Hurricanes,4,"18,859",2:31,
+2024-04-18,Edmonton Oilers,2,Columbus Blue Jackets,4,"17,718",2:27,
+2024-04-18,Philadelphia Flyers,2,Florida Panthers,1,"18,817",2:24,
+2024-04-18,Ottawa Senators,3,Los Angeles Kings,4,"16,855",2:31,OT
+2024-04-18,St. Louis Blues,1,New Jersey Devils,4,"16,259",2:29,
+2024-04-18,Buffalo Sabres,2,Nashville Predators,4,"17,159",2:30,
+2024-04-18,Washington Capitals,6,Pittsburgh Penguins,0,"17,093",2:29,
+2024-04-18,New York Islanders,7,San Jose Sharks,2,"10,077",2:29,
+2024-04-18,Calgary Flames,6,Tampa Bay Lightning,3,"19,092",2:30,
+2024-04-18,Vancouver Canucks,3,Vegas Golden Knights,1,"18,054",2:32,
+2024-04-18,Dallas Stars,6,Anaheim Ducks,2,"14,716",2:30,
+2024-04-18,Detroit Red Wings,0,Arizona Coyotes,4,"4,600",2:21,
+2024-04-18,Minnesota Wild,1,Colorado Avalanche,2,"18,134",2:40,OT
+2024-04-18,Winnipeg Jets,3,Seattle Kraken,0,"17,151",2:17,
+2024-04-18,Pittsburgh Penguins,1,Boston Bruins,5,"17,850",2:32,
+2024-04-18,Edmonton Oilers,2,Buffalo Sabres,3,"19,070",2:37,SO
+2024-04-18,Nashville Predators,2,Columbus Blue Jackets,1,"17,602",2:31,
+2024-04-18,Calgary Flames,1,Florida Panthers,5,"19,358",2:30,
+2024-04-18,Dallas Stars,4,Los Angeles Kings,1,"18,145",2:28,
+2024-04-18,Toronto Maple Leafs,3,Montreal Canadiens,2,"21,105",2:37,
+2024-04-18,Carolina Hurricanes,4,New Jersey Devils,2,"16,514",2:37,
+2024-04-18,St. Louis Blues,0,New York Rangers,4,"18,006",2:23,
+2024-04-18,Ottawa Senators,1,San Jose Sharks,2,"17,008",2:24,
+2024-04-18,Philadelphia Flyers,0,Tampa Bay Lightning,7,"19,092",2:29,
+2024-04-18,Winnipeg Jets,0,Vancouver Canucks,5,"18,954",2:21,
+2024-04-18,Detroit Red Wings,3,Vegas Golden Knights,5,"18,401",2:30,
+2024-04-18,Chicago Blackhawks,1,Washington Capitals,4,"18,573",2:24,
+2024-04-18,New York Islanders,6,Anaheim Ducks,1,"15,631",2:25,
+2024-04-18,Calgary Flames,2,Carolina Hurricanes,7,"18,728",2:38,
+2024-04-18,Arizona Coyotes,4,Chicago Blackhawks,7,"18,666",2:32,
+2024-04-18,Nashville Predators,3,Minnesota Wild,4,"18,800",2:36,OT
+2024-04-18,Edmonton Oilers,4,Pittsburgh Penguins,0,"17,753",2:26,
+2024-04-18,St. Louis Blues,5,Boston Bruins,1,"17,850",2:22,
+2024-04-18,New York Islanders,0,Los Angeles Kings,3,"17,061",2:22,
+2024-04-18,New Jersey Devils,1,New York Rangers,3,"18,006",2:21,
+2024-04-18,Washington Capitals,0,Winnipeg Jets,3,"13,716",2:26,
+2024-04-18,Detroit Red Wings,3,Buffalo Sabres,7,"15,529",2:25,
+2024-04-18,New York Rangers,1,Carolina Hurricanes,0,"18,859",2:23,
+2024-04-18,Colorado Avalanche,6,Calgary Flames,2,"17,185",2:32,
+2024-04-18,Anaheim Ducks,2,Chicago Blackhawks,7,"18,017",2:30,
+2024-04-18,Florida Panthers,4,Dallas Stars,3,"18,532",2:31,
+2024-04-18,Arizona Coyotes,1,Minnesota Wild,4,"18,231",2:28,
+2024-04-18,Columbus Blue Jackets,0,Montreal Canadiens,3,"21,105",2:22,
+2024-04-18,Pittsburgh Penguins,1,Ottawa Senators,2,"19,236",2:28,OT
+2024-04-18,San Jose Sharks,2,Philadelphia Flyers,3,"18,289",2:32,
+2024-04-18,Vegas Golden Knights,5,Seattle Kraken,4,"17,151",2:30,OT
+2024-04-18,Washington Capitals,2,Edmonton Oilers,7,"18,347",2:34,
+2024-04-18,Los Angeles Kings,1,St. Louis Blues,3,"18,096",2:28,
+2024-04-18,Colorado Avalanche,4,Vancouver Canucks,3,"18,880",2:27,OT
+2024-04-18,Nashville Predators,4,Winnipeg Jets,2,"13,331",2:32,
+2024-04-18,New York Islanders,0,Buffalo Sabres,4,"15,637",2:20,
+2024-04-18,Florida Panthers,0,Carolina Hurricanes,4,"18,700",2:30,
+2024-04-18,Ottawa Senators,3,Columbus Blue Jackets,2,"15,667",2:36,SO
+2024-04-18,Vegas Golden Knights,1,Calgary Flames,4,"16,998",2:30,
+2024-04-18,New Jersey Devils,6,Dallas Stars,2,"18,532",2:25,
+2024-04-18,Arizona Coyotes,4,Detroit Red Wings,1,"18,580",2:31,
+2024-04-18,Anaheim Ducks,0,Minnesota Wild,2,"18,376",2:21,
+2024-04-18,Boston Bruins,2,Montreal Canadiens,1,"21,105",2:21,OT
+2024-04-18,Toronto Maple Leafs,6,Philadelphia Flyers,2,"19,158",2:39,
+2024-04-18,San Jose Sharks,3,Pittsburgh Penguins,6,"17,027",2:31,
+2024-04-18,Washington Capitals,2,Seattle Kraken,1,"17,151",2:24,
+2024-04-18,New York Rangers,3,Tampa Bay Lightning,6,"19,092",2:30,
+2024-04-18,Los Angeles Kings,5,Chicago Blackhawks,0,"19,528",2:27,
+2024-04-18,Anaheim Ducks,0,Winnipeg Jets,6,"15,225",2:22,
+2024-04-18,New Jersey Devils,1,Arizona Coyotes,4,"4,600",2:23,
+2024-04-18,Philadelphia Flyers,5,Boston Bruins,6,"17,850",2:34,
+2024-04-18,San Jose Sharks,2,Columbus Blue Jackets,4,"16,967",2:23,
+2024-04-18,Montreal Canadiens,2,Calgary Flames,5,"19,183",2:25,
+2024-04-18,Los Angeles Kings,1,Dallas Stars,4,"18,532",2:27,
+2024-04-18,Buffalo Sabres,1,Detroit Red Wings,4,"19,515",2:27,
+2024-04-18,Colorado Avalanche,3,Edmonton Oilers,2,"18,347",2:38,OT
+2024-04-18,Tampa Bay Lightning,5,Florida Panthers,3,"19,396",2:48,
+2024-04-18,Ottawa Senators,4,New York Islanders,3,"17,255",2:37,OT
+2024-04-18,New York Rangers,7,Pittsburgh Penguins,4,"17,811",2:28,
+2024-04-18,Nashville Predators,4,Seattle Kraken,1,"17,151",2:24,
+2024-04-18,Minnesota Wild,2,St. Louis Blues,3,"18,096",2:44,SO
+2024-04-18,Carolina Hurricanes,5,Toronto Maple Leafs,4,"19,103",2:45,SO
+2024-04-18,Washington Capitals,2,Vancouver Canucks,1,"18,859",2:22,
+2024-04-18,Winnipeg Jets,6,Columbus Blue Jackets,1,"16,193",2:26,
+2024-04-18,San Jose Sharks,2,Chicago Blackhawks,5,"18,426",2:22,
+2024-04-18,New York Islanders,2,New York Rangers,5,"18,006",2:26,
+2024-04-18,Carolina Hurricanes,7,Ottawa Senators,2,"16,273",2:20,
+2024-04-18,Detroit Red Wings,3,Pittsburgh Penguins,6,"17,191",2:27,
+2024-04-18,Anaheim Ducks,2,St. Louis Blues,4,"18,096",2:28,
+2024-04-18,New Jersey Devils,1,Vegas Golden Knights,3,"18,234",2:28,
+2024-04-18,Washington Capitals,5,Calgary Flames,2,"16,793",2:37,
+2024-04-18,Buffalo Sabres,6,Seattle Kraken,2,"17,151",2:20,
+2024-04-18,Minnesota Wild,4,Anaheim Ducks,0,"16,239",2:22,
+2024-04-18,Ottawa Senators,2,Boston Bruins,6,"17,850",2:38,
+2024-04-18,Columbus Blue Jackets,3,Detroit Red Wings,4,"17,707",2:25,OT
+2024-04-18,Montreal Canadiens,2,Edmonton Oilers,3,"18,347",2:32,OT
+2024-04-18,Chicago Blackhawks,2,Los Angeles Kings,6,"18,145",2:23,
+2024-04-18,Pittsburgh Penguins,2,New Jersey Devils,5,"15,605",2:27,
+2024-04-18,San Jose Sharks,2,Nashville Predators,8,"17,159",2:24,
+2024-04-18,Carolina Hurricanes,4,New York Islanders,1,"17,255",2:15,
+2024-04-18,Winnipeg Jets,4,New York Rangers,2,"18,006",2:30,
+2024-04-18,Toronto Maple Leafs,3,Philadelphia Flyers,4,"18,623",2:29,
+2024-04-18,Colorado Avalanche,4,St. Louis Blues,3,"18,096",2:25,
+2024-04-18,Buffalo Sabres,2,Vancouver Canucks,3,"18,733",2:30,
+2024-04-18,Tampa Bay Lightning,5,Vegas Golden Knights,3,"17,789",2:29,
+2024-04-18,Arizona Coyotes,2,Dallas Stars,5,"18,532",2:23,
+2024-04-18,Minnesota Wild,0,Los Angeles Kings,6,"17,086",2:30,
+2024-04-18,Toronto Maple Leafs,7,Washington Capitals,3,"17,727",2:30,
+2024-04-18,Chicago Blackhawks,0,Anaheim Ducks,4,"15,880",2:28,
+2024-04-18,New York Rangers,5,Boston Bruins,2,"17,850",2:24,
+2024-04-18,Philadelphia Flyers,2,Carolina Hurricanes,3,"18,700",2:34,OT
+2024-04-18,New York Islanders,3,Detroit Red Wings,6,"18,868",2:31,
+2024-04-18,Buffalo Sabres,3,Edmonton Oilers,8,"18,347",2:26,
+2024-04-18,Nashville Predators,3,Florida Panthers,0,"19,780",2:31,
+2024-04-18,Winnipeg Jets,1,New Jersey Devils,4,"15,570",2:28,
+2024-04-18,St. Louis Blues,5,Ottawa Senators,2,"16,040",2:21,
+2024-04-18,Tampa Bay Lightning,4,San Jose Sharks,1,"10,315",2:23,
+2024-04-18,Montreal Canadiens,1,Vancouver Canucks,4,"18,804",2:22,
+2024-04-18,Seattle Kraken,1,Vegas Golden Knights,3,"18,033",2:34,
+2024-04-18,Seattle Kraken,1,Arizona Coyotes,2,"4,600",2:35,OT
+2024-04-18,Columbus Blue Jackets,1,Colorado Avalanche,6,"18,117",2:20,
+2024-04-18,Pittsburgh Penguins,2,Dallas Stars,4,"18,532",2:28,
+2024-04-18,Carolina Hurricanes,6,Washington Capitals,7,"18,573",3:02,SO
+2024-04-18,Tampa Bay Lightning,3,Los Angeles Kings,4,"18,318",2:24,OT
+2024-04-18,St. Louis Blues,5,Minnesota Wild,4,"19,090",2:37,OT
+2024-04-18,Ottawa Senators,5,New Jersey Devils,2,"16,514",2:20,
+2024-04-18,Detroit Red Wings,0,Nashville Predators,1,"17,836",2:23,
+2024-04-18,Winnipeg Jets,3,New York Islanders,6,"17,255",2:29,
+2024-04-18,Florida Panthers,3,New York Rangers,4,"18,006",2:44,SO
+2024-04-18,Boston Bruins,2,Philadelphia Flyers,3,"18,623",2:35,
+2024-04-18,Chicago Blackhawks,5,San Jose Sharks,4,"17,435",2:28,OT
+2024-04-18,Edmonton Oilers,3,Toronto Maple Leafs,6,"19,342",2:33,
+2024-04-18,Calgary Flames,2,Vancouver Canucks,4,"18,903",2:24,
+2024-04-18,Columbus Blue Jackets,2,Vegas Golden Knights,4,"18,225",2:24,
+2024-04-18,Tampa Bay Lightning,3,Anaheim Ducks,2,"16,152",2:25,OT
+2024-04-18,Dallas Stars,4,Arizona Coyotes,2,"4,600",2:29,
+2024-04-18,Toronto Maple Leafs,1,Carolina Hurricanes,2,"18,723",2:30,
+2024-04-18,Buffalo Sabres,4,Calgary Flames,1,"16,497",2:23,
+2024-04-18,Pittsburgh Penguins,4,Colorado Avalanche,5,"18,129",2:29,OT
+2024-04-18,New Jersey Devils,4,New York Islanders,0,"17,255",2:28,
+2024-04-18,Edmonton Oilers,3,Ottawa Senators,5,"19,344",2:25,
+2024-04-18,Florida Panthers,4,Philadelphia Flyers,1,"18,712",2:23,
+2024-04-18,Montreal Canadiens,5,Seattle Kraken,1,"17,151",2:25,
+2024-04-18,Winnipeg Jets,0,Washington Capitals,3,"18,573",2:24,
+2024-04-18,Vegas Golden Knights,2,St. Louis Blues,1,"18,096",2:31,OT
+2024-04-18,Los Angeles Kings,3,Vancouver Canucks,2,"18,870",2:24,
+2024-04-18,Columbus Blue Jackets,2,Arizona Coyotes,6,"4,600",2:30,
+2024-04-18,Calgary Flames,1,Chicago Blackhawks,3,"19,404",2:20,
+2024-04-18,Montreal Canadiens,2,Colorado Avalanche,1,"18,119",2:29,
+2024-04-18,Boston Bruins,4,Florida Panthers,3,"18,689",2:31,
+2024-04-18,Vegas Golden Knights,4,Nashville Predators,5,"17,778",2:33,OT
+2024-04-18,Philadelphia Flyers,5,New York Rangers,6,"18,006",2:40,OT
+2024-04-18,Carolina Hurricanes,1,Pittsburgh Penguins,4,"17,913",2:34,
+2024-04-18,Anaheim Ducks,0,Seattle Kraken,4,"17,151",2:20,
+2024-04-18,Dallas Stars,6,San Jose Sharks,3,"12,208",2:31,
+2024-04-18,New Jersey Devils,6,Toronto Maple Leafs,3,"18,360",2:22,
+2024-04-18,Edmonton Oilers,4,Winnipeg Jets,3,"15,225",2:35,OT
+2024-04-18,Detroit Red Wings,3,Washington Capitals,4,"18,573",2:37,OT
+2024-04-18,Ottawa Senators,6,Buffalo Sabres,2,"14,583",2:26,
+2024-04-18,Boston Bruins,1,Tampa Bay Lightning,3,"19,092",2:31,
+2024-04-18,Nashville Predators,4,Arizona Coyotes,8,"4,600",2:29,
+2024-04-18,Detroit Red Wings,0,Carolina Hurricanes,4,"18,906",2:22,
+2024-04-18,New York Rangers,3,Colorado Avalanche,2,"18,130",2:46,SO
+2024-04-18,Los Angeles Kings,1,Edmonton Oilers,4,"18,347",2:29,
+2024-04-18,New York Islanders,3,Florida Panthers,2,"19,201",2:26,
+2024-04-18,San Jose Sharks,1,Minnesota Wild,3,"18,589",2:25,
+2024-04-18,Philadelphia Flyers,1,Montreal Canadiens,4,"21,205",2:40,
+2024-04-18,Chicago Blackhawks,0,Ottawa Senators,2,"19,292",2:16,
+2024-04-18,Columbus Blue Jackets,2,Pittsburgh Penguins,3,"18,191",2:24,
+2024-04-18,Anaheim Ducks,2,Seattle Kraken,4,"17,151",2:30,
+2024-04-18,Calgary Flames,3,St. Louis Blues,5,"18,096",2:29,
+2024-04-18,Washington Capitals,1,Toronto Maple Leafs,5,"18,577",2:25,
+2024-04-18,Dallas Stars,3,Vancouver Canucks,1,"18,987",2:29,
+2024-04-18,Vegas Golden Knights,4,Winnipeg Jets,1,"15,225",2:36,
+2024-04-18,New Jersey Devils,2,Buffalo Sabres,5,"15,721",2:22,
+2024-04-18,New York Rangers,8,Arizona Coyotes,5,"4,600",2:35,
+2024-04-18,Toronto Maple Leafs,3,Buffalo Sabres,0,"19,070",2:27,
+2024-04-18,Pittsburgh Penguins,3,Columbus Blue Jackets,4,"18,873",2:44,SO
+2024-04-18,Los Angeles Kings,2,Calgary Flames,4,"17,517",2:26,
+2024-04-18,Nashville Predators,4,Colorado Avalanche,7,"18,121",2:42,
+2024-04-18,Anaheim Ducks,1,Edmonton Oilers,6,"18,347",2:25,
+2024-04-18,Detroit Red Wings,2,Florida Panthers,3,"19,290",2:42,SO
+2024-04-18,Vegas Golden Knights,2,Minnesota Wild,1,"19,178",2:33,OT
+2024-04-18,Carolina Hurricanes,3,Montreal Canadiens,0,"21,105",2:24,
+2024-04-18,Chicago Blackhawks,5,Philadelphia Flyers,1,"19,250",2:21,
+2024-04-18,Dallas Stars,3,Seattle Kraken,0,"17,151",2:27,
+2024-04-18,San Jose Sharks,4,St. Louis Blues,0,"18,096",2:25,
+2024-04-18,New York Islanders,1,Tampa Bay Lightning,4,"19,092",2:34,
+2024-04-18,Ottawa Senators,3,Winnipeg Jets,2,"15,225",2:22,
+2024-04-18,Boston Bruins,3,Washington Capitals,2,"18,573",2:40,SO
+2024-04-18,Anaheim Ducks,2,Vancouver Canucks,3,"18,735",2:29,
+2024-04-18,Colorado Avalanche,1,Columbus Blue Jackets,4,"16,731",2:29,
+2024-04-18,Pittsburgh Penguins,5,New York Rangers,2,"18,006",2:30,
+2024-04-18,New York Islanders,4,Philadelphia Flyers,3,"18,556",2:32,OT
+2024-04-18,Seattle Kraken,4,San Jose Sharks,2,"11,559",2:24,
+2024-04-18,Edmonton Oilers,2,St. Louis Blues,3,"18,096",2:42,OT
+2024-04-18,Detroit Red Wings,4,Tampa Bay Lightning,2,"19,092",2:35,
+2024-04-18,Florida Panthers,4,Toronto Maple Leafs,6,"18,776",2:29,
+2024-04-18,Los Angeles Kings,3,Winnipeg Jets,4,"13,334",2:24,
+2024-04-18,Washington Capitals,2,Buffalo Sabres,6,"14,390",2:24,
+2024-04-18,Anaheim Ducks,5,Calgary Flames,3,"16,698",2:31,
+2024-04-18,Ottawa Senators,2,Minnesota Wild,3,"18,056",2:27,
+2024-04-18,Florida Panthers,3,Montreal Canadiens,5,"21,105",2:39,
+2024-04-18,Pittsburgh Penguins,6,New Jersey Devils,3,"16,514",2:26,
+2024-04-18,Boston Bruins,3,Nashville Predators,0,"17,476",2:28,
+2024-04-18,Chicago Blackhawks,1,New York Islanders,2,"17,255",2:17,
+2024-04-18,Vancouver Canucks,3,Vegas Golden Knights,6,"18,366",2:35,
+2024-04-18,Vancouver Canucks,2,Arizona Coyotes,1,"4,600",2:32,
+2024-04-18,Edmonton Oilers,0,Dallas Stars,5,"18,532",2:23,
+2024-04-18,Seattle Kraken,2,Los Angeles Kings,5,"18,145",2:26,
+2024-04-18,New Jersey Devils,3,New York Rangers,4,"18,006",2:38,
+2024-04-18,Tampa Bay Lightning,4,Toronto Maple Leafs,1,"18,648",2:33,
+2024-04-18,Boston Bruins,4,Carolina Hurricanes,1,"18,853",2:24,
+2024-04-18,New York Islanders,4,Columbus Blue Jackets,2,"16,213",2:26,
+2024-04-18,Colorado Avalanche,5,Minnesota Wild,2,"18,803",2:34,
+2024-04-18,Tampa Bay Lightning,7,Montreal Canadiens,4,"21,105",2:37,
+2024-04-18,St. Louis Blues,3,Nashville Predators,6,"17,420",2:34,
+2024-04-18,Florida Panthers,6,Ottawa Senators,0,"17,653",2:21,
+2024-04-18,Los Angeles Kings,2,San Jose Sharks,1,"12,266",2:23,
+2024-04-18,Calgary Flames,2,Winnipeg Jets,5,"14,055",2:35,
+2024-04-18,Pittsburgh Penguins,4,Washington Capitals,1,"18,573",2:30,
+2024-04-18,Seattle Kraken,3,Anaheim Ducks,1,"17,174",2:23,
+2024-04-18,Vegas Golden Knights,4,Arizona Coyotes,7,"4,600",2:37,
+2024-04-18,Philadelphia Flyers,2,Buffalo Sabres,4,"15,783",2:19,
+2024-04-18,Washington Capitals,2,Carolina Hurricanes,4,"18,724",2:32,
+2024-04-18,New York Rangers,4,Detroit Red Wings,3,"19,515",2:35,
+2024-04-18,Colorado Avalanche,2,Edmonton Oilers,6,"18,347",2:32,
+2024-04-18,Florida Panthers,2,Boston Bruins,3,"17,850",2:46,OT
+2024-04-18,Philadelphia Flyers,2,Columbus Blue Jackets,6,"18,323",2:27,
+2024-04-18,Edmonton Oilers,4,Calgary Flames,2,"19,289",2:38,
+2024-04-18,Dallas Stars,2,Chicago Blackhawks,3,"19,294",2:27,
+2024-04-18,Vancouver Canucks,3,Los Angeles Kings,6,"18,190",2:26,
+2024-04-18,Winnipeg Jets,4,Minnesota Wild,2,"18,989",2:21,
+2024-04-18,Toronto Maple Leafs,4,Montreal Canadiens,2,"21,105",2:28,
+2024-04-18,Nashville Predators,0,New York Islanders,2,"17,255",2:18,
+2024-04-18,New Jersey Devils,4,Ottawa Senators,3,"19,146",2:30,
+2024-04-18,Tampa Bay Lightning,4,Pittsburgh Penguins,5,"18,383",2:36,
+2024-04-18,St. Louis Blues,2,San Jose Sharks,3,"15,603",2:33,OT
+2024-04-18,St. Louis Blues,6,Anaheim Ducks,5,"16,421",2:39,SO
+2024-04-18,Columbus Blue Jackets,0,Carolina Hurricanes,3,"18,837",2:21,
+2024-04-18,Minnesota Wild,4,Chicago Blackhawks,0,"19,636",2:22,
+2024-04-18,Dallas Stars,7,Colorado Avalanche,4,"18,116",2:29,
+2024-04-18,Buffalo Sabres,1,Detroit Red Wings,3,"19,515",2:32,
+2024-04-18,Nashville Predators,3,New Jersey Devils,2,"15,409",2:48,SO
+2024-04-18,Montreal Canadiens,2,New York Rangers,5,"17,854",2:29,
+2024-04-18,Arizona Coyotes,5,San Jose Sharks,2,"11,938",2:26,
+2024-04-18,Ottawa Senators,3,Washington Capitals,2,"17,902",2:31,OT
+2024-04-18,Pittsburgh Penguins,2,Toronto Maple Leafs,3,"18,441",2:30,OT
+2024-04-18,Vegas Golden Knights,3,Vancouver Canucks,4,"18,899",2:28,
+2024-04-18,Los Angeles Kings,1,Anaheim Ducks,3,"17,174",2:24,
+2024-04-18,Carolina Hurricanes,4,Boston Bruins,1,"17,850",2:31,
+2024-04-18,Minnesota Wild,2,Colorado Avalanche,5,"18,097",2:34,
+2024-04-18,Buffalo Sabres,2,Dallas Stars,3,"18,532",2:40,
+2024-04-18,Washington Capitals,2,Detroit Red Wings,1,"19,515",2:25,
+2024-04-18,Ottawa Senators,0,Florida Panthers,2,"17,872",2:23,
+2024-04-18,Philadelphia Flyers,3,Montreal Canadiens,9,"21,105",2:34,
+2024-04-18,Toronto Maple Leafs,5,New Jersey Devils,2,"16,018",2:24,
+2024-04-18,Winnipeg Jets,4,Nashville Predators,3,"17,262",2:28,OT
+2024-04-18,New York Rangers,2,New York Islanders,4,"17,255",2:38,
+2024-04-18,Arizona Coyotes,0,Seattle Kraken,5,"17,151",2:26,
+2024-04-18,Calgary Flames,3,San Jose Sharks,2,"11,031",2:30,OT
+2024-04-18,Columbus Blue Jackets,2,Tampa Bay Lightning,5,"19,092",2:32,
+2024-04-18,Vegas Golden Knights,1,Edmonton Oilers,5,"18,347",2:23,
+2024-04-18,Chicago Blackhawks,2,St. Louis Blues,5,"18,096",2:16,
+2024-04-18,Arizona Coyotes,4,Vancouver Canucks,3,"18,856",2:39,OT
+2024-04-18,Washington Capitals,2,Buffalo Sabres,4,"15,454",2:17,
+2024-04-18,Winnipeg Jets,3,Dallas Stars,0,"18,532",2:17,
+2024-04-18,Columbus Blue Jackets,0,Florida Panthers,4,"18,451",2:17,
+2024-04-18,Calgary Flames,1,Los Angeles Kings,4,"17,340",2:24,
+2024-04-18,Montreal Canadiens,2,New York Islanders,3,"17,255",2:26,OT
+2024-04-18,Philadelphia Flyers,4,New York Rangers,1,"18,006",2:26,
+2024-04-18,Detroit Red Wings,5,Pittsburgh Penguins,6,"18,294",2:37,OT
+2024-04-18,San Jose Sharks,3,Seattle Kraken,1,"17,151",2:25,
+2024-04-18,Ottawa Senators,3,Tampa Bay Lightning,2,"19,092",2:48,SO
+2024-04-18,New Jersey Devils,6,Toronto Maple Leafs,5,"18,618",2:32,
+2024-04-18,Calgary Flames,6,Anaheim Ducks,3,"17,174",2:30,
+2024-04-18,Nashville Predators,5,Chicago Blackhawks,1,"19,449",2:24,
+2024-04-18,Arizona Coyotes,3,Edmonton Oilers,2,"18,347",2:27,OT
+2024-04-18,Carolina Hurricanes,5,St. Louis Blues,2,"18,096",2:23,
+2024-04-18,Minnesota Wild,2,Vegas Golden Knights,7,"18,415",2:20,
+2024-04-18,Winnipeg Jets,7,Colorado Avalanche,0,"18,121",2:22,
+2024-04-18,Seattle Kraken,1,Dallas Stars,3,"18,532",2:23,
+2024-04-18,Vancouver Canucks,3,Edmonton Oilers,1,"18,347",2:26,
+2024-04-18,Buffalo Sabres,2,Florida Panthers,3,"19,319",2:29,OT
+2024-04-18,Anaheim Ducks,1,Los Angeles Kings,3,"18,133",2:15,
+2024-04-18,Columbus Blue Jackets,4,Nashville Predators,6,"17,282",2:31,
+2024-04-18,New York Islanders,2,New York Rangers,3,"18,006",2:49,SO
+2024-04-18,Montreal Canadiens,4,Ottawa Senators,5,"19,337",2:39,SO
+2024-04-18,New Jersey Devils,0,Philadelphia Flyers,1,"19,649",2:19,
+2024-04-18,Boston Bruins,6,Pittsburgh Penguins,4,"18,393",2:31,
+2024-04-18,Minnesota Wild,6,San Jose Sharks,2,"17,435",2:30,
+2024-04-18,Detroit Red Wings,5,Toronto Maple Leafs,4,"19,123",2:38,OT
+2024-04-18,Tampa Bay Lightning,2,Washington Capitals,4,"18,573",2:41,
+2024-04-18,Arizona Coyotes,5,Calgary Flames,6,"17,247",2:34,
+2024-04-18,Carolina Hurricanes,4,Chicago Blackhawks,2,"18,742",2:24,
+2024-04-18,Seattle Kraken,1,St. Louis Blues,4,"18,096",2:19,
+2024-04-18,Colorado Avalanche,3,Vegas Golden Knights,4,"18,239",2:37,OT
+2024-04-18,Montreal Canadiens,4,Detroit Red Wings,5,"19,515",2:34,OT
+2024-04-18,San Jose Sharks,2,Edmonton Oilers,9,"18,347",2:21,
+2024-04-18,Minnesota Wild,3,Los Angeles Kings,1,"17,654",2:21,
+2024-04-18,New York Islanders,4,New Jersey Devils,1,"16,514",2:22,
+2024-04-18,Ottawa Senators,0,New York Rangers,4,"18,006",2:23,
+2024-04-18,Nashville Predators,2,Pittsburgh Penguins,4,"18,198",2:32,
+2024-04-18,Buffalo Sabres,4,Tampa Bay Lightning,2,"19,092",2:28,
+2024-04-18,Boston Bruins,0,Washington Capitals,2,"18,573",2:28,
+2024-04-18,Ottawa Senators,3,Boston Bruins,1,"17,850",2:23,
+2024-04-18,Carolina Hurricanes,3,Columbus Blue Jackets,6,"17,289",2:19,
+2024-04-18,Toronto Maple Leafs,2,Florida Panthers,5,"18,317",2:39,
+2024-04-18,Detroit Red Wings,5,Montreal Canadiens,4,"21,105",2:40,SO
+2024-04-18,Washington Capitals,2,Philadelphia Flyers,1,"19,411",2:34,
+2024-04-18,Calgary Flames,1,Vancouver Canucks,4,"18,918",2:30,
+2024-04-18,Chicago Blackhawks,1,Vegas Golden Knights,3,"18,222",2:25,
+2024-04-18,Seattle Kraken,3,Winnipeg Jets,4,"15,225",2:12,
+2024-04-18,Edmonton Oilers,2,Arizona Coyotes,5,"4,600",2:29,
+2024-04-18,St. Louis Blues,1,Dallas Stars,2,"18,532",2:29,SO
+2024-04-18,Pittsburgh Penguins,4,New York Islanders,5,"17,255",2:40,
+2024-04-18,Toronto Maple Leafs,4,Tampa Bay Lightning,6,"19,092",2:26,
+2024-04-18,San Jose Sharks,1,Calgary Flames,5,"17,946",2:19,
+2024-04-18,Edmonton Oilers,1,Colorado Avalanche,5,"18,129",2:24,
+2024-04-18,Chicago Blackhawks,4,Los Angeles Kings,5,"18,145",2:20,OT
+2024-04-18,Seattle Kraken,4,Minnesota Wild,3,"19,138",2:26,
+2024-04-18,Anaheim Ducks,4,Vegas Golden Knights,1,"18,109",2:19,
+2024-04-18,Vancouver Canucks,2,Winnipeg Jets,4,"15,225",2:19,

@@ -1,0 +1,1009 @@
+game_date,visitor_team,visitor_goals,home_team,home_goals,attendance,game_lenght,game_decided,seasonality
+1992-10-06,Los Angeles Kings,5,Calgary Flames,4,NaN,NaN,OT,0
+1992-10-06,Vancouver Canucks,5,Edmonton Oilers,4,NaN,NaN,NaN,0
+1992-10-06,Montreal Canadiens,5,Hartford Whalers,1,NaN,NaN,NaN,0
+1992-10-06,New York Islanders,3,New Jersey Devils,4,NaN,NaN,NaN,0
+1992-10-06,Philadelphia Flyers,3,Pittsburgh Penguins,3,NaN,NaN,OT,0
+1992-10-06,Minnesota North Stars,4,St. Louis Blues,6,NaN,NaN,NaN,0
+1992-10-06,Detroit Red Wings,1,Winnipeg Jets,4,NaN,NaN,NaN,0
+1992-10-07,Chicago Blackhawks,3,Tampa Bay Lightning,7,NaN,NaN,NaN,0
+1992-10-07,Washington Capitals,6,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-10-08,Hartford Whalers,2,Boston Bruins,3,NaN,NaN,OT,0
+1992-10-08,Quebec Nordiques,5,Buffalo Sabres,4,NaN,NaN,NaN,0
+1992-10-08,Edmonton Oilers,2,Calgary Flames,7,NaN,NaN,NaN,0
+1992-10-08,Detroit Red Wings,5,Los Angeles Kings,3,NaN,NaN,NaN,0
+1992-10-08,St. Louis Blues,2,Minnesota North Stars,5,NaN,NaN,NaN,0
+1992-10-08,Montreal Canadiens,3,Ottawa Senators,5,NaN,NaN,NaN,0
+1992-10-08,New York Islanders,3,Pittsburgh Penguins,7,NaN,NaN,NaN,0
+1992-10-08,Winnipeg Jets,3,San Jose Sharks,4,NaN,NaN,OT,0
+1992-10-09,New Jersey Devils,4,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1992-10-09,New York Rangers,4,Washington Capitals,2,NaN,NaN,NaN,0
+1992-10-10,New York Islanders,3,Boston Bruins,3,NaN,NaN,OT,0
+1992-10-10,Toronto Maple Leafs,2,Calgary Flames,3,NaN,NaN,NaN,0
+1992-10-10,Buffalo Sabres,5,Hartford Whalers,2,NaN,NaN,NaN,0
+1992-10-10,Winnipeg Jets,3,Los Angeles Kings,6,NaN,NaN,NaN,0
+1992-10-10,Tampa Bay Lightning,1,Minnesota North Stars,2,NaN,NaN,NaN,0
+1992-10-10,Pittsburgh Penguins,3,Montreal Canadiens,3,NaN,NaN,OT,0
+1992-10-10,New York Rangers,2,New Jersey Devils,4,NaN,NaN,NaN,0
+1992-10-10,Ottawa Senators,2,Quebec Nordiques,9,NaN,NaN,NaN,0
+1992-10-10,Detroit Red Wings,6,San Jose Sharks,3,NaN,NaN,NaN,0
+1992-10-10,Chicago Blackhawks,3,St. Louis Blues,0,NaN,NaN,NaN,0
+1992-10-10,Edmonton Oilers,2,Vancouver Canucks,5,NaN,NaN,NaN,0
+1992-10-10,Philadelphia Flyers,4,Washington Capitals,2,NaN,NaN,NaN,0
+1992-10-11,Montreal Canadiens,2,Buffalo Sabres,8,NaN,NaN,NaN,0
+1992-10-11,Tampa Bay Lightning,4,Chicago Blackhawks,4,NaN,NaN,OT,0
+1992-10-11,Toronto Maple Leafs,3,Edmonton Oilers,3,NaN,NaN,OT,0
+1992-10-12,Ottawa Senators,3,Boston Bruins,6,NaN,NaN,NaN,0
+1992-10-12,Washington Capitals,2,New Jersey Devils,4,NaN,NaN,NaN,0
+1992-10-12,Hartford Whalers,2,New York Rangers,6,NaN,NaN,NaN,0
+1992-10-12,Winnipeg Jets,1,Vancouver Canucks,8,NaN,NaN,NaN,0
+1992-10-13,San Jose Sharks,1,Los Angeles Kings,2,NaN,NaN,NaN,0
+1992-10-13,Calgary Flames,4,Minnesota North Stars,3,"8,783",NaN,NaN,0
+1992-10-13,Buffalo Sabres,5,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1992-10-13,Philadelphia Flyers,3,Quebec Nordiques,6,NaN,NaN,NaN,0
+1992-10-13,Tampa Bay Lightning,2,St. Louis Blues,1,NaN,NaN,NaN,0
+1992-10-14,Ottawa Senators,1,Hartford Whalers,4,NaN,NaN,NaN,0
+1992-10-14,New Jersey Devils,1,New York Rangers,6,NaN,NaN,NaN,0
+1992-10-14,Edmonton Oilers,3,Winnipeg Jets,7,NaN,NaN,NaN,0
+1992-10-15,Edmonton Oilers,4,Chicago Blackhawks,3,NaN,NaN,OT,0
+1992-10-15,Quebec Nordiques,4,Detroit Red Wings,2,NaN,NaN,NaN,0
+1992-10-15,Calgary Flames,0,Los Angeles Kings,4,NaN,NaN,NaN,0
+1992-10-15,New York Islanders,5,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1992-10-15,Montreal Canadiens,2,Pittsburgh Penguins,5,NaN,NaN,NaN,0
+1992-10-15,Boston Bruins,8,San Jose Sharks,2,NaN,NaN,NaN,0
+1992-10-15,Minnesota North Stars,5,St. Louis Blues,4,NaN,NaN,NaN,0
+1992-10-15,Tampa Bay Lightning,3,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-10-16,Tampa Bay Lightning,4,Buffalo Sabres,5,NaN,NaN,OT,0
+1992-10-16,Vancouver Canucks,6,Winnipeg Jets,2,NaN,NaN,NaN,0
+1992-10-16,Ottawa Senators,1,Washington Capitals,5,NaN,NaN,NaN,0
+1992-10-17,Edmonton Oilers,2,Detroit Red Wings,4,NaN,NaN,NaN,0
+1992-10-17,Pittsburgh Penguins,7,Hartford Whalers,3,NaN,NaN,NaN,0
+1992-10-17,Boston Bruins,6,Los Angeles Kings,8,NaN,NaN,NaN,0
+1992-10-17,Minnesota North Stars,1,Montreal Canadiens,8,NaN,NaN,NaN,0
+1992-10-17,Philadelphia Flyers,0,New Jersey Devils,2,NaN,NaN,NaN,0
+1992-10-17,New York Rangers,3,New York Islanders,6,NaN,NaN,NaN,0
+1992-10-17,St. Louis Blues,6,Quebec Nordiques,5,NaN,NaN,NaN,0
+1992-10-17,Calgary Flames,6,San Jose Sharks,2,NaN,NaN,NaN,0
+1992-10-17,Chicago Blackhawks,3,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1992-10-17,Buffalo Sabres,4,Washington Capitals,6,NaN,NaN,NaN,0
+1992-10-18,Vancouver Canucks,1,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1992-10-18,New York Islanders,3,New York Rangers,4,NaN,NaN,NaN,0
+1992-10-18,Winnipeg Jets,4,Philadelphia Flyers,5,NaN,NaN,NaN,0
+1992-10-18,Minnesota North Stars,5,Toronto Maple Leafs,1,NaN,NaN,NaN,0
+1992-10-19,St. Louis Blues,2,Montreal Canadiens,6,NaN,NaN,NaN,0
+1992-10-20,Los Angeles Kings,2,Calgary Flames,6,NaN,NaN,NaN,0
+1992-10-20,Winnipeg Jets,3,Detroit Red Wings,5,NaN,NaN,NaN,0
+1992-10-20,Hartford Whalers,5,New Jersey Devils,4,NaN,NaN,NaN,0
+1992-10-20,Philadelphia Flyers,3,New York Islanders,4,NaN,NaN,NaN,0
+1992-10-20,Vancouver Canucks,1,Pittsburgh Penguins,5,NaN,NaN,NaN,0
+1992-10-20,Edmonton Oilers,1,Tampa Bay Lightning,6,NaN,NaN,NaN,0
+1992-10-20,Ottawa Senators,3,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-10-21,Chicago Blackhawks,1,Buffalo Sabres,4,NaN,NaN,NaN,0
+1992-10-21,San Jose Sharks,4,Montreal Canadiens,8,NaN,NaN,NaN,0
+1992-10-21,Washington Capitals,1,New York Rangers,2,NaN,NaN,NaN,0
+1992-10-21,Quebec Nordiques,5,St. Louis Blues,5,NaN,NaN,OT,0
+1992-10-22,Boston Bruins,4,Calgary Flames,2,NaN,NaN,NaN,0
+1992-10-22,New Jersey Devils,6,Chicago Blackhawks,5,NaN,NaN,OT,0
+1992-10-22,Quebec Nordiques,2,Minnesota North Stars,5,NaN,NaN,NaN,0
+1992-10-22,Hartford Whalers,5,Ottawa Senators,1,NaN,NaN,NaN,0
+1992-10-22,Vancouver Canucks,4,Philadelphia Flyers,4,NaN,NaN,OT,0
+1992-10-22,Detroit Red Wings,6,Pittsburgh Penguins,9,NaN,NaN,NaN,0
+1992-10-22,Toronto Maple Leafs,5,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1992-10-23,San Jose Sharks,4,Buffalo Sabres,5,NaN,NaN,NaN,0
+1992-10-23,Boston Bruins,6,Edmonton Oilers,3,NaN,NaN,NaN,0
+1992-10-23,Montreal Canadiens,3,New York Rangers,3,NaN,NaN,OT,0
+1992-10-23,Los Angeles Kings,2,Winnipeg Jets,4,NaN,NaN,NaN,0
+1992-10-23,New York Islanders,5,Washington Capitals,2,NaN,NaN,NaN,0
+1992-10-24,Los Angeles Kings,5,Minnesota North Stars,5,NaN,NaN,OT,0
+1992-10-24,Pittsburgh Penguins,4,New Jersey Devils,3,NaN,NaN,NaN,0
+1992-10-24,Hartford Whalers,2,New York Islanders,4,NaN,NaN,NaN,0
+1992-10-24,New York Rangers,3,Ottawa Senators,2,NaN,NaN,OT,0
+1992-10-24,Montreal Canadiens,7,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1992-10-24,Detroit Red Wings,6,St. Louis Blues,1,NaN,NaN,NaN,0
+1992-10-24,Quebec Nordiques,2,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1992-10-24,San Jose Sharks,1,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-10-25,Detroit Red Wings,2,Chicago Blackhawks,8,NaN,NaN,NaN,0
+1992-10-25,Calgary Flames,4,Edmonton Oilers,0,NaN,NaN,NaN,0
+1992-10-25,Boston Bruins,5,Vancouver Canucks,3,NaN,NaN,NaN,0
+1992-10-26,Philadelphia Flyers,4,New York Rangers,8,NaN,NaN,NaN,0
+1992-10-26,San Jose Sharks,1,St. Louis Blues,4,NaN,NaN,NaN,0
+1992-10-26,Washington Capitals,2,Winnipeg Jets,6,NaN,NaN,NaN,0
+1992-10-27,Los Angeles Kings,4,New York Islanders,3,NaN,NaN,NaN,0
+1992-10-27,Pittsburgh Penguins,7,Ottawa Senators,2,NaN,NaN,NaN,0
+1992-10-27,Tampa Bay Lightning,3,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-10-28,San Jose Sharks,3,Detroit Red Wings,4,NaN,NaN,NaN,0
+1992-10-28,Minnesota North Stars,2,Edmonton Oilers,5,NaN,NaN,NaN,0
+1992-10-28,New Jersey Devils,4,Hartford Whalers,3,NaN,NaN,OT,0
+1992-10-28,Tampa Bay Lightning,3,Montreal Canadiens,4,NaN,NaN,NaN,0
+1992-10-28,Buffalo Sabres,4,Toronto Maple Leafs,4,NaN,NaN,OT,0
+1992-10-28,Washington Capitals,3,Vancouver Canucks,4,NaN,NaN,NaN,0
+1992-10-28,Calgary Flames,7,Winnipeg Jets,5,NaN,NaN,NaN,0
+1992-10-29,Los Angeles Kings,3,Boston Bruins,8,NaN,NaN,NaN,0
+1992-10-29,Philadelphia Flyers,5,Chicago Blackhawks,5,NaN,NaN,OT,0
+1992-10-29,Quebec Nordiques,6,New York Rangers,3,NaN,NaN,NaN,0
+1992-10-29,Pittsburgh Penguins,4,St. Louis Blues,6,NaN,NaN,NaN,0
+1992-10-30,Ottawa Senators,3,Buffalo Sabres,12,NaN,NaN,NaN,0
+1992-10-30,Washington Capitals,3,Calgary Flames,1,NaN,NaN,NaN,0
+1992-10-30,Toronto Maple Leafs,1,Detroit Red Wings,7,NaN,NaN,NaN,0
+1992-10-30,New York Islanders,4,New Jersey Devils,1,NaN,NaN,NaN,0
+1992-10-30,San Jose Sharks,2,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1992-10-30,Minnesota North Stars,3,Vancouver Canucks,2,NaN,NaN,NaN,0
+1992-10-31,Chicago Blackhawks,3,Boston Bruins,2,NaN,NaN,NaN,0
+1992-10-31,Minnesota North Stars,3,Calgary Flames,5,NaN,NaN,NaN,0
+1992-10-31,Washington Capitals,2,Edmonton Oilers,4,NaN,NaN,NaN,0
+1992-10-31,Los Angeles Kings,7,Hartford Whalers,1,NaN,NaN,NaN,0
+1992-10-31,New York Rangers,3,Montreal Canadiens,4,NaN,NaN,NaN,0
+1992-10-31,New Jersey Devils,5,New York Islanders,3,NaN,NaN,NaN,0
+1992-10-31,Buffalo Sabres,2,Ottawa Senators,2,NaN,NaN,OT,0
+1992-10-31,Winnipeg Jets,2,Quebec Nordiques,3,NaN,NaN,NaN,0
+1992-10-31,Philadelphia Flyers,4,St. Louis Blues,6,NaN,NaN,NaN,0
+1992-10-31,Detroit Red Wings,1,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1992-11-01,San Jose Sharks,4,Chicago Blackhawks,4,NaN,NaN,OT,0
+1992-11-01,Pittsburgh Penguins,5,Tampa Bay Lightning,4,NaN,NaN,NaN,0
+1992-11-02,Vancouver Canucks,3,Calgary Flames,5,NaN,NaN,NaN,0
+1992-11-02,Winnipeg Jets,1,Montreal Canadiens,2,NaN,NaN,NaN,0
+1992-11-02,Buffalo Sabres,6,New York Rangers,7,NaN,NaN,OT,0
+1992-11-03,Ottawa Senators,2,Edmonton Oilers,5,NaN,NaN,NaN,0
+1992-11-03,Quebec Nordiques,3,Hartford Whalers,3,NaN,NaN,OT,0
+1992-11-03,New York Islanders,0,Pittsburgh Penguins,2,NaN,NaN,NaN,0
+1992-11-03,St. Louis Blues,4,Tampa Bay Lightning,6,NaN,NaN,NaN,0
+1992-11-03,Chicago Blackhawks,1,Washington Capitals,4,"8,792",NaN,NaN,0
+1992-11-04,Montreal Canadiens,4,Detroit Red Wings,3,NaN,NaN,NaN,0
+1992-11-04,Philadelphia Flyers,1,New York Rangers,3,NaN,NaN,NaN,0
+1992-11-04,Calgary Flames,5,Vancouver Canucks,5,NaN,NaN,OT,0
+1992-11-05,Quebec Nordiques,4,Boston Bruins,6,NaN,NaN,NaN,0
+1992-11-05,Ottawa Senators,4,Calgary Flames,8,NaN,NaN,NaN,0
+1992-11-05,Toronto Maple Leafs,0,Chicago Blackhawks,1,NaN,NaN,NaN,0
+1992-11-05,New Jersey Devils,2,Los Angeles Kings,5,NaN,NaN,NaN,0
+1992-11-05,New York Islanders,0,Minnesota North Stars,3,NaN,NaN,NaN,0
+1992-11-05,St. Louis Blues,4,Pittsburgh Penguins,8,NaN,NaN,NaN,0
+1992-11-05,Buffalo Sabres,5,San Jose Sharks,7,NaN,NaN,NaN,0
+1992-11-06,Hartford Whalers,2,Detroit Red Wings,5,NaN,NaN,NaN,0
+1992-11-06,Ottawa Senators,1,Vancouver Canucks,4,NaN,NaN,NaN,0
+1992-11-06,Edmonton Oilers,6,Winnipeg Jets,1,NaN,NaN,NaN,0
+1992-11-06,Tampa Bay Lightning,2,Washington Capitals,2,NaN,NaN,OT,0
+1992-11-07,New York Rangers,2,Boston Bruins,2,NaN,NaN,OT,0
+1992-11-07,Washington Capitals,6,Hartford Whalers,2,NaN,NaN,NaN,0
+1992-11-07,Buffalo Sabres,2,Los Angeles Kings,5,NaN,NaN,NaN,0
+1992-11-07,Edmonton Oilers,2,Minnesota North Stars,2,NaN,NaN,OT,0
+1992-11-07,Detroit Red Wings,1,Montreal Canadiens,5,NaN,NaN,NaN,0
+1992-11-07,Tampa Bay Lightning,6,New York Islanders,5,NaN,NaN,OT,0
+1992-11-07,St. Louis Blues,2,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1992-11-07,Chicago Blackhawks,7,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-11-07,New Jersey Devils,6,San Jose Sharks,1,NaN,NaN,NaN,0
+1992-11-07,Pittsburgh Penguins,2,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1992-11-08,Pittsburgh Penguins,2,Chicago Blackhawks,7,NaN,NaN,NaN,0
+1992-11-08,Calgary Flames,5,Quebec Nordiques,5,NaN,NaN,OT,0
+1992-11-08,Los Angeles Kings,11,San Jose Sharks,4,NaN,NaN,NaN,0
+1992-11-08,Winnipeg Jets,1,Vancouver Canucks,6,NaN,NaN,NaN,0
+1992-11-09,Calgary Flames,2,Montreal Canadiens,5,NaN,NaN,NaN,0
+1992-11-09,Tampa Bay Lightning,5,New York Rangers,1,NaN,NaN,NaN,0
+1992-11-09,Toronto Maple Leafs,3,Ottawa Senators,1,NaN,NaN,NaN,0
+1992-11-10,Pittsburgh Penguins,4,Minnesota North Stars,1,NaN,NaN,NaN,0
+1992-11-10,Edmonton Oilers,4,St. Louis Blues,4,NaN,NaN,OT,0
+1992-11-10,San Jose Sharks,2,Vancouver Canucks,6,NaN,NaN,NaN,0
+1992-11-10,Los Angeles Kings,4,Winnipeg Jets,4,NaN,NaN,OT,0
+1992-11-11,Boston Bruins,2,Buffalo Sabres,7,NaN,NaN,NaN,0
+1992-11-11,Calgary Flames,4,Hartford Whalers,3,NaN,NaN,NaN,0
+1992-11-11,Montreal Canadiens,8,New Jersey Devils,3,NaN,NaN,NaN,0
+1992-11-11,Washington Capitals,7,New York Rangers,4,NaN,NaN,NaN,0
+1992-11-11,Quebec Nordiques,7,Ottawa Senators,3,NaN,NaN,NaN,0
+1992-11-11,Detroit Red Wings,4,Tampa Bay Lightning,6,NaN,NaN,NaN,0
+1992-11-12,Calgary Flames,3,Boston Bruins,5,NaN,NaN,NaN,0
+1992-11-12,St. Louis Blues,0,Chicago Blackhawks,1,NaN,NaN,NaN,0
+1992-11-12,Vancouver Canucks,4,Los Angeles Kings,7,NaN,NaN,NaN,0
+1992-11-12,Winnipeg Jets,7,Minnesota North Stars,2,NaN,NaN,NaN,0
+1992-11-12,New York Islanders,5,Philadelphia Flyers,8,NaN,NaN,NaN,0
+1992-11-12,Quebec Nordiques,4,Pittsburgh Penguins,4,NaN,NaN,OT,0
+1992-11-12,Edmonton Oilers,4,San Jose Sharks,3,NaN,NaN,NaN,0
+1992-11-13,Hartford Whalers,2,Buffalo Sabres,8,NaN,NaN,NaN,0
+1992-11-13,Pittsburgh Penguins,0,Detroit Red Wings,8,NaN,NaN,NaN,0
+1992-11-13,Washington Capitals,0,New Jersey Devils,3,NaN,NaN,NaN,0
+1992-11-13,Ottawa Senators,0,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1992-11-14,Toronto Maple Leafs,4,Boston Bruins,1,NaN,NaN,NaN,0
+1992-11-14,Detroit Red Wings,2,Hartford Whalers,0,NaN,NaN,NaN,0
+1992-11-14,Edmonton Oilers,2,Los Angeles Kings,6,NaN,NaN,NaN,0
+1992-11-14,Chicago Blackhawks,0,Minnesota North Stars,3,NaN,NaN,NaN,0
+1992-11-14,Philadelphia Flyers,4,Montreal Canadiens,3,NaN,NaN,OT,0
+1992-11-14,Buffalo Sabres,5,New York Islanders,7,NaN,NaN,NaN,0
+1992-11-14,New York Rangers,3,Quebec Nordiques,6,NaN,NaN,NaN,0
+1992-11-14,Vancouver Canucks,5,San Jose Sharks,2,NaN,NaN,NaN,0
+1992-11-14,Winnipeg Jets,2,St. Louis Blues,4,NaN,NaN,NaN,0
+1992-11-14,Calgary Flames,5,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1992-11-14,New Jersey Devils,4,Washington Capitals,3,NaN,NaN,OT,0
+1992-11-15,Minnesota North Stars,1,Chicago Blackhawks,2,NaN,NaN,NaN,0
+1992-11-15,Ottawa Senators,2,Philadelphia Flyers,7,NaN,NaN,NaN,0
+1992-11-16,Boston Bruins,3,Montreal Canadiens,6,NaN,NaN,NaN,0
+1992-11-16,St. Louis Blues,2,Toronto Maple Leafs,2,NaN,NaN,OT,0
+1992-11-16,Los Angeles Kings,3,Vancouver Canucks,6,NaN,NaN,NaN,0
+1992-11-17,Chicago Blackhawks,4,Detroit Red Wings,5,NaN,NaN,NaN,0
+1992-11-17,Montreal Canadiens,5,Ottawa Senators,3,NaN,NaN,NaN,0
+1992-11-17,Buffalo Sabres,2,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1992-11-17,Toronto Maple Leafs,1,Quebec Nordiques,3,NaN,NaN,NaN,0
+1992-11-17,Los Angeles Kings,0,San Jose Sharks,6,NaN,NaN,NaN,0
+1992-11-17,Winnipeg Jets,6,Tampa Bay Lightning,5,NaN,NaN,NaN,0
+1992-11-18,Vancouver Canucks,2,Edmonton Oilers,4,NaN,NaN,NaN,0
+1992-11-18,St. Louis Blues,2,Hartford Whalers,5,NaN,NaN,NaN,0
+1992-11-18,Buffalo Sabres,2,New Jersey Devils,3,NaN,NaN,NaN,0
+1992-11-18,Minnesota North Stars,5,Washington Capitals,4,NaN,NaN,NaN,0
+1992-11-19,New York Islanders,2,Boston Bruins,5,NaN,NaN,NaN,0
+1992-11-19,Vancouver Canucks,3,Calgary Flames,4,NaN,NaN,NaN,0
+1992-11-19,Winnipeg Jets,5,Detroit Red Wings,3,NaN,NaN,NaN,0
+1992-11-19,Chicago Blackhawks,1,Los Angeles Kings,4,NaN,NaN,NaN,0
+1992-11-19,Hartford Whalers,4,Ottawa Senators,2,NaN,NaN,NaN,0
+1992-11-19,New York Rangers,3,Philadelphia Flyers,7,NaN,NaN,NaN,0
+1992-11-19,Montreal Canadiens,3,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-11-19,Toronto Maple Leafs,2,San Jose Sharks,0,NaN,NaN,NaN,0
+1992-11-19,Minnesota North Stars,4,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1992-11-20,Pittsburgh Penguins,4,New Jersey Devils,1,NaN,NaN,NaN,0
+1992-11-20,Detroit Red Wings,7,Washington Capitals,5,NaN,NaN,NaN,0
+1992-11-21,Philadelphia Flyers,3,Boston Bruins,4,NaN,NaN,NaN,0
+1992-11-21,Minnesota North Stars,4,Buffalo Sabres,3,NaN,NaN,NaN,0
+1992-11-21,New York Islanders,4,Calgary Flames,3,NaN,NaN,NaN,0
+1992-11-21,Toronto Maple Leafs,4,Los Angeles Kings,6,NaN,NaN,NaN,0
+1992-11-21,Ottawa Senators,1,Montreal Canadiens,3,NaN,NaN,NaN,0
+1992-11-21,New Jersey Devils,0,Pittsburgh Penguins,2,NaN,NaN,NaN,0
+1992-11-21,Hartford Whalers,2,Quebec Nordiques,8,NaN,NaN,NaN,0
+1992-11-21,Chicago Blackhawks,2,San Jose Sharks,1,NaN,NaN,NaN,0
+1992-11-21,Tampa Bay Lightning,2,St. Louis Blues,4,NaN,NaN,NaN,0
+1992-11-21,Edmonton Oilers,0,Vancouver Canucks,9,NaN,NaN,NaN,0
+1992-11-21,New York Rangers,5,Winnipeg Jets,4,NaN,NaN,NaN,0
+1992-11-22,New York Islanders,5,Edmonton Oilers,5,NaN,NaN,OT,0
+1992-11-22,Buffalo Sabres,4,Philadelphia Flyers,4,NaN,NaN,OT,0
+1992-11-22,Washington Capitals,6,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-11-23,Tampa Bay Lightning,5,Detroit Red Wings,10,NaN,NaN,NaN,0
+1992-11-23,Washington Capitals,1,Montreal Canadiens,1,NaN,NaN,OT,0
+1992-11-23,Pittsburgh Penguins,5,New York Rangers,2,NaN,NaN,NaN,0
+1992-11-23,Boston Bruins,3,Ottawa Senators,2,NaN,NaN,NaN,0
+1992-11-23,Chicago Blackhawks,2,Vancouver Canucks,5,NaN,NaN,NaN,0
+1992-11-24,Tampa Bay Lightning,3,Toronto Maple Leafs,2,NaN,NaN,NaN,0
+1992-11-24,New York Islanders,3,Winnipeg Jets,3,NaN,NaN,OT,0
+1992-11-25,Quebec Nordiques,1,Buffalo Sabres,1,NaN,NaN,OT,0
+1992-11-25,San Jose Sharks,4,Calgary Flames,3,NaN,NaN,OT,0
+1992-11-25,St. Louis Blues,6,Detroit Red Wings,11,NaN,NaN,NaN,0
+1992-11-25,Los Angeles Kings,3,Edmonton Oilers,1,NaN,NaN,NaN,0
+1992-11-25,Montreal Canadiens,6,Hartford Whalers,1,NaN,NaN,NaN,0
+1992-11-25,Vancouver Canucks,4,Minnesota North Stars,2,NaN,NaN,NaN,0
+1992-11-25,New Jersey Devils,1,Ottawa Senators,3,NaN,NaN,NaN,0
+1992-11-25,New York Rangers,11,Pittsburgh Penguins,3,NaN,NaN,NaN,0
+1992-11-25,Boston Bruins,2,Washington Capitals,6,NaN,NaN,NaN,0
+1992-11-26,Vancouver Canucks,5,St. Louis Blues,7,NaN,NaN,NaN,0
+1992-11-26,Quebec Nordiques,5,Toronto Maple Leafs,4,NaN,NaN,OT,0
+1992-11-27,Hartford Whalers,4,Boston Bruins,5,NaN,NaN,OT,0
+1992-11-27,Ottawa Senators,1,Buffalo Sabres,4,NaN,NaN,NaN,0
+1992-11-27,Tampa Bay Lightning,2,Calgary Flames,3,NaN,NaN,OT,0
+1992-11-27,Los Angeles Kings,5,Detroit Red Wings,3,NaN,NaN,NaN,0
+1992-11-27,Chicago Blackhawks,8,Edmonton Oilers,1,NaN,NaN,NaN,0
+1992-11-27,New York Rangers,4,Minnesota North Stars,4,NaN,NaN,OT,0
+1992-11-27,New York Islanders,3,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1992-11-27,San Jose Sharks,2,Winnipeg Jets,3,NaN,NaN,OT,0
+1992-11-27,Pittsburgh Penguins,4,Washington Capitals,6,NaN,NaN,NaN,0
+1992-11-28,Chicago Blackhawks,5,Calgary Flames,2,NaN,NaN,NaN,0
+1992-11-28,Tampa Bay Lightning,3,Edmonton Oilers,4,NaN,NaN,OT,0
+1992-11-28,Boston Bruins,3,Hartford Whalers,4,NaN,NaN,OT,0
+1992-11-28,San Jose Sharks,3,Minnesota North Stars,10,NaN,NaN,NaN,0
+1992-11-28,Vancouver Canucks,6,Montreal Canadiens,5,NaN,NaN,NaN,0
+1992-11-28,Philadelphia Flyers,3,New York Islanders,9,NaN,NaN,NaN,0
+1992-11-28,Washington Capitals,3,Pittsburgh Penguins,5,NaN,NaN,NaN,0
+1992-11-28,New Jersey Devils,6,Quebec Nordiques,3,NaN,NaN,NaN,0
+1992-11-28,Detroit Red Wings,2,St. Louis Blues,2,NaN,NaN,OT,0
+1992-11-28,Los Angeles Kings,2,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1992-11-29,Buffalo Sabres,5,Ottawa Senators,2,NaN,NaN,NaN,0
+1992-11-30,Washington Capitals,4,Detroit Red Wings,1,NaN,NaN,NaN,0
+1992-11-30,Buffalo Sabres,0,Montreal Canadiens,3,NaN,NaN,NaN,0
+1992-11-30,Minnesota North Stars,4,New York Rangers,2,NaN,NaN,NaN,0
+1992-11-30,Boston Bruins,4,Quebec Nordiques,3,NaN,NaN,NaN,0
+1992-12-01,Los Angeles Kings,6,Chicago Blackhawks,3,"16,292",NaN,NaN,0
+1992-12-01,Toronto Maple Leafs,3,New Jersey Devils,8,NaN,NaN,NaN,0
+1992-12-01,Pittsburgh Penguins,7,New York Islanders,3,NaN,NaN,NaN,0
+1992-12-01,Minnesota North Stars,3,Ottawa Senators,1,NaN,NaN,NaN,0
+1992-12-01,Edmonton Oilers,3,San Jose Sharks,1,NaN,NaN,NaN,0
+1992-12-01,Hartford Whalers,4,St. Louis Blues,8,NaN,NaN,NaN,0
+1992-12-02,Winnipeg Jets,3,Calgary Flames,3,NaN,NaN,OT,0
+1992-12-02,Detroit Red Wings,3,New York Rangers,5,NaN,NaN,NaN,0
+1992-12-03,Montreal Canadiens,3,Boston Bruins,4,NaN,NaN,NaN,0
+1992-12-03,Toronto Maple Leafs,3,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1992-12-03,Minnesota North Stars,4,Detroit Red Wings,2,NaN,NaN,NaN,0
+1992-12-03,Pittsburgh Penguins,3,Los Angeles Kings,5,NaN,NaN,NaN,0
+1992-12-03,New Jersey Devils,3,Ottawa Senators,3,NaN,NaN,OT,0
+1992-12-03,Quebec Nordiques,2,Philadelphia Flyers,3,NaN,NaN,OT,0
+1992-12-03,Hartford Whalers,7,San Jose Sharks,5,NaN,NaN,NaN,0
+1992-12-03,Edmonton Oilers,1,Vancouver Canucks,4,NaN,NaN,NaN,0
+1992-12-04,New York Islanders,5,Buffalo Sabres,5,NaN,NaN,OT,0
+1992-12-04,St. Louis Blues,3,Calgary Flames,5,NaN,NaN,NaN,0
+1992-12-04,New York Rangers,4,Washington Capitals,8,NaN,NaN,NaN,0
+1992-12-05,St. Louis Blues,5,Edmonton Oilers,1,NaN,NaN,NaN,0
+1992-12-05,Hartford Whalers,3,Los Angeles Kings,7,NaN,NaN,NaN,0
+1992-12-05,Boston Bruins,4,New Jersey Devils,2,NaN,NaN,NaN,0
+1992-12-05,Washington Capitals,5,New York Islanders,3,NaN,NaN,NaN,0
+1992-12-05,Philadelphia Flyers,2,Ottawa Senators,3,NaN,NaN,NaN,0
+1992-12-05,Minnesota North Stars,7,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-12-05,Pittsburgh Penguins,9,San Jose Sharks,4,NaN,NaN,NaN,0
+1992-12-05,Detroit Red Wings,9,Tampa Bay Lightning,7,NaN,NaN,NaN,0
+1992-12-05,Chicago Blackhawks,2,Toronto Maple Leafs,2,NaN,NaN,OT,0
+1992-12-05,Montreal Canadiens,3,Winnipeg Jets,2,NaN,NaN,OT,0
+1992-12-06,New Jersey Devils,7,Buffalo Sabres,3,NaN,NaN,NaN,0
+1992-12-06,Montreal Canadiens,0,Chicago Blackhawks,2,NaN,NaN,NaN,0
+1992-12-06,Toronto Maple Leafs,0,New York Rangers,6,NaN,NaN,NaN,0
+1992-12-06,Boston Bruins,7,Philadelphia Flyers,1,NaN,NaN,NaN,0
+1992-12-07,Edmonton Oilers,3,Calgary Flames,6,NaN,NaN,NaN,0
+1992-12-07,Washington Capitals,6,Ottawa Senators,5,NaN,NaN,NaN,0
+1992-12-07,Buffalo Sabres,3,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-12-07,New York Islanders,6,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1992-12-07,St. Louis Blues,3,Vancouver Canucks,4,NaN,NaN,NaN,0
+1992-12-08,Chicago Blackhawks,3,Detroit Red Wings,2,NaN,NaN,NaN,0
+1992-12-08,Calgary Flames,1,Edmonton Oilers,3,NaN,NaN,NaN,0
+1992-12-08,Montreal Canadiens,5,Los Angeles Kings,5,NaN,NaN,OT,0
+1992-12-08,Winnipeg Jets,2,Pittsburgh Penguins,5,NaN,NaN,NaN,0
+1992-12-09,Boston Bruins,2,Buffalo Sabres,5,NaN,NaN,NaN,0
+1992-12-09,Ottawa Senators,2,Hartford Whalers,6,NaN,NaN,NaN,0
+1992-12-09,Washington Capitals,6,New Jersey Devils,2,NaN,NaN,NaN,0
+1992-12-09,Tampa Bay Lightning,5,New York Rangers,6,"12,842",NaN,NaN,0
+1992-12-09,Detroit Red Wings,3,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-12-09,San Jose Sharks,3,Vancouver Canucks,8,NaN,NaN,NaN,0
+1992-12-10,Ottawa Senators,2,Boston Bruins,4,NaN,NaN,NaN,0
+1992-12-10,New York Islanders,3,Chicago Blackhawks,5,NaN,NaN,NaN,0
+1992-12-10,Quebec Nordiques,5,Los Angeles Kings,4,NaN,NaN,NaN,0
+1992-12-10,Edmonton Oilers,3,Minnesota North Stars,2,NaN,NaN,NaN,0
+1992-12-10,St. Louis Blues,3,San Jose Sharks,2,NaN,NaN,NaN,0
+1992-12-11,Hartford Whalers,3,Buffalo Sabres,9,NaN,NaN,NaN,0
+1992-12-11,Philadelphia Flyers,2,Detroit Red Wings,4,NaN,NaN,NaN,0
+1992-12-11,Pittsburgh Penguins,1,New Jersey Devils,2,NaN,NaN,NaN,0
+1992-12-11,New York Rangers,5,Tampa Bay Lightning,4,NaN,NaN,NaN,0
+1992-12-11,Calgary Flames,6,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1992-12-11,Winnipeg Jets,6,Washington Capitals,8,NaN,NaN,NaN,0
+1992-12-12,Buffalo Sabres,1,Hartford Whalers,1,NaN,NaN,OT,0
+1992-12-12,St. Louis Blues,3,Los Angeles Kings,6,NaN,NaN,NaN,0
+1992-12-12,Chicago Blackhawks,3,Minnesota North Stars,0,NaN,NaN,NaN,0
+1992-12-12,Boston Bruins,1,Montreal Canadiens,5,NaN,NaN,NaN,0
+1992-12-12,Winnipeg Jets,4,New York Islanders,3,NaN,NaN,OT,0
+1992-12-12,Calgary Flames,1,Ottawa Senators,1,NaN,NaN,OT,0
+1992-12-12,Washington Capitals,5,Philadelphia Flyers,2,NaN,NaN,NaN,0
+1992-12-12,New Jersey Devils,5,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1992-12-12,Quebec Nordiques,8,San Jose Sharks,7,NaN,NaN,OT,0
+1992-12-12,Edmonton Oilers,1,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1992-12-13,Edmonton Oilers,1,New York Islanders,4,"11,110",NaN,NaN,0
+1992-12-13,Montreal Canadiens,5,New York Rangers,10,NaN,NaN,NaN,0
+1992-12-13,Quebec Nordiques,3,Vancouver Canucks,3,NaN,NaN,OT,0
+1992-12-14,Calgary Flames,3,Detroit Red Wings,0,NaN,NaN,NaN,0
+1992-12-15,Buffalo Sabres,3,Boston Bruins,2,NaN,NaN,NaN,0
+1992-12-15,Tampa Bay Lightning,3,Los Angeles Kings,2,NaN,NaN,NaN,0
+1992-12-15,Toronto Maple Leafs,5,Minnesota North Stars,6,NaN,NaN,NaN,0
+1992-12-15,Calgary Flames,3,New York Rangers,0,NaN,NaN,NaN,0
+1992-12-15,Detroit Red Wings,3,Ottawa Senators,2,NaN,NaN,OT,0
+1992-12-15,Philadelphia Flyers,2,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1992-12-15,New York Islanders,4,St. Louis Blues,3,"11,251",NaN,OT,0
+1992-12-15,New Jersey Devils,3,Winnipeg Jets,4,NaN,NaN,NaN,0
+1992-12-16,Vancouver Canucks,2,Edmonton Oilers,4,NaN,NaN,NaN,0
+1992-12-16,Washington Capitals,3,Hartford Whalers,6,NaN,NaN,NaN,0
+1992-12-16,Quebec Nordiques,5,Montreal Canadiens,1,NaN,NaN,NaN,0
+1992-12-16,Tampa Bay Lightning,5,San Jose Sharks,4,NaN,NaN,OT,0
+1992-12-17,Winnipeg Jets,1,Chicago Blackhawks,5,NaN,NaN,NaN,0
+1992-12-17,Ottawa Senators,3,New York Islanders,9,NaN,NaN,NaN,0
+1992-12-17,Pittsburgh Penguins,5,Philadelphia Flyers,4,NaN,NaN,OT,0
+1992-12-17,Montreal Canadiens,8,Quebec Nordiques,3,NaN,NaN,NaN,0
+1992-12-17,New York Rangers,4,St. Louis Blues,3,NaN,NaN,NaN,0
+1992-12-18,Boston Bruins,1,Detroit Red Wings,6,NaN,NaN,NaN,0
+1992-12-18,Los Angeles Kings,5,Edmonton Oilers,5,NaN,NaN,OT,0
+1992-12-18,New Jersey Devils,2,Tampa Bay Lightning,0,NaN,NaN,NaN,0
+1992-12-18,San Jose Sharks,1,Vancouver Canucks,8,NaN,NaN,NaN,0
+1992-12-18,Hartford Whalers,3,Washington Capitals,4,NaN,NaN,NaN,0
+1992-12-19,Washington Capitals,3,Boston Bruins,4,NaN,NaN,NaN,0
+1992-12-19,Los Angeles Kings,3,Calgary Flames,5,NaN,NaN,NaN,0
+1992-12-19,New York Rangers,4,Hartford Whalers,4,NaN,NaN,OT,0
+1992-12-19,Detroit Red Wings,3,Minnesota North Stars,3,NaN,NaN,OT,0
+1992-12-19,Buffalo Sabres,2,Montreal Canadiens,4,NaN,NaN,NaN,0
+1992-12-19,Chicago Blackhawks,1,Philadelphia Flyers,3,NaN,NaN,NaN,0
+1992-12-19,New York Islanders,4,Pittsburgh Penguins,3,NaN,NaN,NaN,0
+1992-12-19,Vancouver Canucks,6,San Jose Sharks,3,NaN,NaN,NaN,0
+1992-12-19,Winnipeg Jets,1,St. Louis Blues,0,NaN,NaN,NaN,0
+1992-12-19,Ottawa Senators,1,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1992-12-20,Toronto Maple Leafs,4,Buffalo Sabres,5,NaN,NaN,NaN,0
+1992-12-20,Minnesota North Stars,0,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1992-12-20,New York Islanders,3,Quebec Nordiques,5,NaN,NaN,NaN,0
+1992-12-20,Philadelphia Flyers,1,Tampa Bay Lightning,4,NaN,NaN,NaN,0
+1992-12-21,Edmonton Oilers,2,Calgary Flames,3,NaN,NaN,OT,0
+1992-12-21,Hartford Whalers,5,Montreal Canadiens,2,NaN,NaN,NaN,0
+1992-12-21,New York Rangers,3,New Jersey Devils,0,NaN,NaN,NaN,0
+1992-12-21,Washington Capitals,4,Ottawa Senators,3,NaN,NaN,NaN,0
+1992-12-21,Quebec Nordiques,4,Pittsburgh Penguins,7,NaN,NaN,NaN,0
+1992-12-21,San Jose Sharks,4,Winnipeg Jets,5,NaN,NaN,NaN,0
+1992-12-22,Tampa Bay Lightning,3,Boston Bruins,5,NaN,NaN,NaN,0
+1992-12-22,Toronto Maple Leafs,4,Detroit Red Wings,4,NaN,NaN,OT,0
+1992-12-22,Vancouver Canucks,6,Los Angeles Kings,2,NaN,NaN,NaN,0
+1992-12-22,St. Louis Blues,2,Minnesota North Stars,2,NaN,NaN,OT,0
+1992-12-23,Washington Capitals,1,Buffalo Sabres,4,NaN,NaN,NaN,0
+1992-12-23,San Jose Sharks,2,Edmonton Oilers,4,NaN,NaN,NaN,0
+1992-12-23,Tampa Bay Lightning,1,Hartford Whalers,3,NaN,NaN,NaN,0
+1992-12-23,New York Islanders,6,Montreal Canadiens,2,NaN,NaN,NaN,0
+1992-12-23,New Jersey Devils,5,New York Rangers,4,NaN,NaN,OT,0
+1992-12-23,Chicago Blackhawks,4,Ottawa Senators,2,NaN,NaN,NaN,0
+1992-12-23,Pittsburgh Penguins,4,Philadelphia Flyers,0,NaN,NaN,NaN,0
+1992-12-23,Calgary Flames,4,Winnipeg Jets,3,NaN,NaN,NaN,0
+1992-12-26,St. Louis Blues,3,Chicago Blackhawks,2,NaN,NaN,OT,0
+1992-12-26,Boston Bruins,9,Hartford Whalers,4,NaN,NaN,NaN,0
+1992-12-26,Winnipeg Jets,4,Minnesota North Stars,5,NaN,NaN,NaN,0
+1992-12-26,New York Rangers,4,New York Islanders,6,NaN,NaN,NaN,0
+1992-12-26,Ottawa Senators,2,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-12-26,Los Angeles Kings,2,San Jose Sharks,7,NaN,NaN,NaN,0
+1992-12-26,Detroit Red Wings,5,Toronto Maple Leafs,1,NaN,NaN,NaN,0
+1992-12-26,Philadelphia Flyers,5,Washington Capitals,5,NaN,NaN,OT,0
+1992-12-27,Pittsburgh Penguins,4,Buffalo Sabres,2,NaN,NaN,NaN,0
+1992-12-27,Detroit Red Wings,4,Chicago Blackhawks,0,NaN,NaN,NaN,0
+1992-12-27,Calgary Flames,7,Edmonton Oilers,3,NaN,NaN,NaN,0
+1992-12-27,Hartford Whalers,2,New Jersey Devils,6,NaN,NaN,NaN,0
+1992-12-27,Boston Bruins,5,New York Rangers,6,NaN,NaN,NaN,0
+1992-12-27,Quebec Nordiques,6,Ottawa Senators,1,NaN,NaN,NaN,0
+1992-12-27,Toronto Maple Leafs,6,St. Louis Blues,3,NaN,NaN,NaN,0
+1992-12-27,Montreal Canadiens,2,Vancouver Canucks,5,NaN,NaN,NaN,0
+1992-12-27,Minnesota North Stars,4,Winnipeg Jets,7,NaN,NaN,NaN,0
+1992-12-29,Chicago Blackhawks,6,Detroit Red Wings,3,NaN,NaN,NaN,0
+1992-12-29,Montreal Canadiens,6,Edmonton Oilers,3,NaN,NaN,NaN,0
+1992-12-29,Philadelphia Flyers,10,Los Angeles Kings,2,NaN,NaN,NaN,0
+1992-12-29,Toronto Maple Leafs,3,New York Islanders,2,NaN,NaN,NaN,0
+1992-12-29,New Jersey Devils,1,Quebec Nordiques,4,NaN,NaN,NaN,0
+1992-12-29,San Jose Sharks,5,Vancouver Canucks,7,NaN,NaN,NaN,0
+1992-12-29,Boston Bruins,4,Winnipeg Jets,5,NaN,NaN,NaN,0
+1992-12-29,New York Rangers,3,Washington Capitals,4,NaN,NaN,OT,0
+1992-12-30,Philadelphia Flyers,6,San Jose Sharks,2,NaN,NaN,NaN,0
+1992-12-31,New York Rangers,6,Buffalo Sabres,11,NaN,NaN,NaN,0
+1992-12-31,Montreal Canadiens,3,Calgary Flames,5,NaN,NaN,NaN,0
+1992-12-31,Tampa Bay Lightning,0,Chicago Blackhawks,5,NaN,NaN,NaN,0
+1992-12-31,Ottawa Senators,4,Detroit Red Wings,5,NaN,NaN,OT,0
+1992-12-31,Quebec Nordiques,6,Hartford Whalers,2,NaN,NaN,NaN,0
+1992-12-31,Boston Bruins,3,Minnesota North Stars,5,NaN,NaN,NaN,0
+1992-12-31,Toronto Maple Leafs,3,Pittsburgh Penguins,3,NaN,NaN,OT,0
+1992-12-31,New York Islanders,1,St. Louis Blues,5,NaN,NaN,NaN,0
+1992-12-31,Los Angeles Kings,0,Vancouver Canucks,4,NaN,NaN,NaN,0
+1992-12-31,Edmonton Oilers,2,Winnipeg Jets,3,NaN,NaN,NaN,0
+1993-01-01,New Jersey Devils,2,Washington Capitals,9,NaN,NaN,NaN,0
+1993-01-02,Hartford Whalers,2,Boston Bruins,3,NaN,NaN,OT,0
+1993-01-02,Philadelphia Flyers,3,Calgary Flames,7,NaN,NaN,NaN,0
+1993-01-02,Tampa Bay Lightning,1,Edmonton Oilers,2,NaN,NaN,NaN,0
+1993-01-02,Montreal Canadiens,5,Los Angeles Kings,5,NaN,NaN,OT,0
+1993-01-02,Winnipeg Jets,2,New Jersey Devils,2,NaN,NaN,OT,0
+1993-01-02,Minnesota North Stars,2,New York Islanders,3,NaN,NaN,NaN,0
+1993-01-02,Buffalo Sabres,7,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-01-02,New York Rangers,2,Pittsburgh Penguins,5,NaN,NaN,NaN,0
+1993-01-02,Detroit Red Wings,6,Quebec Nordiques,2,NaN,NaN,NaN,0
+1993-01-02,Vancouver Canucks,2,San Jose Sharks,2,NaN,NaN,OT,0
+1993-01-02,St. Louis Blues,2,Toronto Maple Leafs,2,NaN,NaN,OT,0
+1993-01-02,Chicago Blackhawks,2,Washington Capitals,2,NaN,NaN,OT,0
+1993-01-03,St. Louis Blues,5,Buffalo Sabres,6,NaN,NaN,OT,0
+1993-01-03,Winnipeg Jets,1,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1993-01-03,Philadelphia Flyers,2,Edmonton Oilers,2,NaN,NaN,OT,0
+1993-01-03,Minnesota North Stars,6,Hartford Whalers,6,NaN,NaN,OT,0
+1993-01-04,Toronto Maple Leafs,4,Detroit Red Wings,2,NaN,NaN,NaN,0
+1993-01-04,San Jose Sharks,1,Montreal Canadiens,4,NaN,NaN,NaN,0
+1993-01-04,New Jersey Devils,3,New York Rangers,3,NaN,NaN,OT,0
+1993-01-04,Tampa Bay Lightning,0,Vancouver Canucks,7,NaN,NaN,NaN,0
+1993-01-05,Winnipeg Jets,4,Calgary Flames,2,NaN,NaN,NaN,0
+1993-01-05,Quebec Nordiques,2,New York Islanders,1,NaN,NaN,NaN,0
+1993-01-05,Boston Bruins,2,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1993-01-05,Montreal Canadiens,2,San Jose Sharks,1,NaN,NaN,NaN,0
+1993-01-05,Edmonton Oilers,1,St. Louis Blues,6,NaN,NaN,NaN,0
+1993-01-06,Buffalo Sabres,3,Hartford Whalers,1,NaN,NaN,NaN,0
+1993-01-06,Tampa Bay Lightning,6,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-01-06,Minnesota North Stars,1,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-01-06,Ottawa Senators,2,New York Rangers,6,NaN,NaN,NaN,0
+1993-01-06,Vancouver Canucks,5,Toronto Maple Leafs,2,NaN,NaN,NaN,0
+1993-01-07,Quebec Nordiques,3,Boston Bruins,2,NaN,NaN,OT,0
+1993-01-07,Edmonton Oilers,3,Chicago Blackhawks,3,NaN,NaN,OT,0
+1993-01-07,Washington Capitals,2,Philadelphia Flyers,8,NaN,NaN,NaN,0
+1993-01-07,Minnesota North Stars,6,Pittsburgh Penguins,3,NaN,NaN,NaN,0
+1993-01-07,Calgary Flames,2,St. Louis Blues,3,NaN,NaN,OT,0
+1993-01-08,New York Islanders,5,Buffalo Sabres,6,NaN,NaN,NaN,0
+1993-01-08,Vancouver Canucks,3,Detroit Red Wings,6,NaN,NaN,NaN,0
+1993-01-08,Ottawa Senators,4,New Jersey Devils,6,NaN,NaN,NaN,0
+1993-01-08,San Jose Sharks,1,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1993-01-08,Los Angeles Kings,3,Winnipeg Jets,6,NaN,NaN,NaN,0
+1993-01-09,New Jersey Devils,6,Boston Bruins,2,NaN,NaN,NaN,0
+1993-01-09,Quebec Nordiques,2,Hartford Whalers,4,NaN,NaN,NaN,0
+1993-01-09,Tampa Bay Lightning,4,Minnesota North Stars,6,NaN,NaN,NaN,0
+1993-01-09,Toronto Maple Leafs,5,Montreal Canadiens,4,NaN,NaN,NaN,0
+1993-01-09,Vancouver Canucks,5,New York Islanders,4,NaN,NaN,NaN,0
+1993-01-09,New York Rangers,3,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-01-09,Calgary Flames,2,Pittsburgh Penguins,3,NaN,NaN,NaN,0
+1993-01-09,Chicago Blackhawks,1,St. Louis Blues,4,NaN,NaN,NaN,0
+1993-01-09,Edmonton Oilers,3,Washington Capitals,4,NaN,NaN,NaN,0
+1993-01-10,Calgary Flames,3,Buffalo Sabres,5,NaN,NaN,NaN,0
+1993-01-10,Los Angeles Kings,5,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1993-01-10,Montreal Canadiens,7,Hartford Whalers,5,NaN,NaN,NaN,0
+1993-01-10,San Jose Sharks,2,Ottawa Senators,3,NaN,NaN,NaN,0
+1993-01-10,Edmonton Oilers,0,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-01-10,Pittsburgh Penguins,2,Winnipeg Jets,3,NaN,NaN,NaN,0
+1993-01-11,St. Louis Blues,1,Detroit Red Wings,0,NaN,NaN,NaN,0
+1993-01-11,Vancouver Canucks,3,New York Rangers,3,NaN,NaN,OT,0
+1993-01-11,Tampa Bay Lightning,2,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-01-12,Buffalo Sabres,2,Boston Bruins,5,NaN,NaN,NaN,0
+1993-01-12,Chicago Blackhawks,3,Minnesota North Stars,1,NaN,NaN,NaN,0
+1993-01-12,Vancouver Canucks,2,New Jersey Devils,3,NaN,NaN,NaN,0
+1993-01-12,Calgary Flames,2,New York Islanders,8,NaN,NaN,NaN,0
+1993-01-12,Los Angeles Kings,3,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-01-12,San Jose Sharks,1,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-01-13,Tampa Bay Lightning,3,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-01-13,Winnipeg Jets,4,Edmonton Oilers,1,NaN,NaN,NaN,0
+1993-01-13,Hartford Whalers,3,Montreal Canadiens,7,NaN,NaN,NaN,0
+1993-01-13,Washington Capitals,4,New York Rangers,5,NaN,NaN,NaN,0
+1993-01-13,St. Louis Blues,3,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-01-14,Pittsburgh Penguins,0,Boston Bruins,7,NaN,NaN,NaN,0
+1993-01-14,Minnesota North Stars,1,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1993-01-14,Los Angeles Kings,1,New Jersey Devils,7,NaN,NaN,NaN,0
+1993-01-14,Washington Capitals,3,New York Islanders,0,NaN,NaN,NaN,0
+1993-01-14,St. Louis Blues,4,Ottawa Senators,1,NaN,NaN,NaN,0
+1993-01-14,Calgary Flames,4,Philadelphia Flyers,4,NaN,NaN,OT,0
+1993-01-14,Montreal Canadiens,5,Quebec Nordiques,3,NaN,NaN,NaN,0
+1993-01-15,San Jose Sharks,3,Detroit Red Wings,6,NaN,NaN,NaN,0
+1993-01-15,Hartford Whalers,1,Edmonton Oilers,3,NaN,NaN,NaN,0
+1993-01-15,Buffalo Sabres,1,Vancouver Canucks,4,NaN,NaN,NaN,0
+1993-01-16,Philadelphia Flyers,5,Boston Bruins,4,NaN,NaN,NaN,0
+1993-01-16,Winnipeg Jets,5,Los Angeles Kings,2,NaN,NaN,NaN,0
+1993-01-16,Calgary Flames,3,Minnesota North Stars,4,NaN,NaN,NaN,0
+1993-01-16,New York Rangers,0,Montreal Canadiens,3,NaN,NaN,NaN,0
+1993-01-16,New York Islanders,5,New Jersey Devils,3,NaN,NaN,NaN,0
+1993-01-16,Ottawa Senators,1,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1993-01-16,San Jose Sharks,1,Quebec Nordiques,4,NaN,NaN,NaN,0
+1993-01-16,St. Louis Blues,5,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-01-16,Chicago Blackhawks,5,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1993-01-16,Hartford Whalers,3,Vancouver Canucks,8,NaN,NaN,NaN,0
+1993-01-17,Toronto Maple Leafs,3,Chicago Blackhawks,5,NaN,NaN,NaN,0
+1993-01-17,Buffalo Sabres,2,Edmonton Oilers,3,NaN,NaN,OT,0
+1993-01-17,New York Islanders,7,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-01-17,Detroit Red Wings,7,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-01-17,Washington Capitals,5,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-01-18,San Jose Sharks,3,Boston Bruins,4,NaN,NaN,NaN,0
+1993-01-18,Hartford Whalers,7,Winnipeg Jets,8,NaN,NaN,NaN,0
+1993-01-19,Buffalo Sabres,3,Calgary Flames,2,NaN,NaN,OT,0
+1993-01-19,New York Rangers,2,Detroit Red Wings,2,NaN,NaN,OT,0
+1993-01-19,Los Angeles Kings,5,Edmonton Oilers,4,NaN,NaN,NaN,0
+1993-01-19,Boston Bruins,2,New York Islanders,2,NaN,NaN,OT,0
+1993-01-19,Quebec Nordiques,5,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-01-19,Toronto Maple Leafs,5,St. Louis Blues,1,NaN,NaN,NaN,0
+1993-01-19,Minnesota North Stars,4,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-01-19,Pittsburgh Penguins,5,Vancouver Canucks,2,NaN,NaN,NaN,0
+1993-01-19,Chicago Blackhawks,2,Winnipeg Jets,5,NaN,NaN,NaN,0
+1993-01-20,New Jersey Devils,2,Montreal Canadiens,3,NaN,NaN,NaN,0
+1993-01-21,Washington Capitals,2,Chicago Blackhawks,6,NaN,NaN,NaN,0
+1993-01-21,St. Louis Blues,3,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-01-21,San Jose Sharks,2,Hartford Whalers,4,NaN,NaN,NaN,0
+1993-01-21,Vancouver Canucks,5,Los Angeles Kings,4,NaN,NaN,NaN,0
+1993-01-21,Ottawa Senators,2,Minnesota North Stars,7,NaN,NaN,NaN,0
+1993-01-21,Boston Bruins,5,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-01-21,Toronto Maple Leafs,6,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1993-01-22,Quebec Nordiques,2,Buffalo Sabres,6,NaN,NaN,NaN,0
+1993-01-22,Winnipeg Jets,4,Calgary Flames,4,NaN,NaN,OT,0
+1993-01-22,Pittsburgh Penguins,1,Edmonton Oilers,2,NaN,NaN,NaN,0
+1993-01-22,Montreal Canadiens,2,New Jersey Devils,6,NaN,NaN,NaN,0
+1993-01-23,New Jersey Devils,5,Boston Bruins,7,NaN,NaN,NaN,0
+1993-01-23,Pittsburgh Penguins,4,Calgary Flames,3,NaN,NaN,NaN,0
+1993-01-23,Chicago Blackhawks,6,Hartford Whalers,2,NaN,NaN,NaN,0
+1993-01-23,New York Rangers,8,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-01-23,Vancouver Canucks,3,Minnesota North Stars,3,NaN,NaN,OT,0
+1993-01-23,Philadelphia Flyers,4,New York Islanders,8,NaN,NaN,NaN,0
+1993-01-23,Buffalo Sabres,3,Quebec Nordiques,4,NaN,NaN,NaN,0
+1993-01-23,Detroit Red Wings,3,St. Louis Blues,4,NaN,NaN,NaN,0
+1993-01-23,San Jose Sharks,1,Tampa Bay Lightning,5,NaN,NaN,NaN,0
+1993-01-23,Montreal Canadiens,0,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-01-23,Edmonton Oilers,5,Winnipeg Jets,8,NaN,NaN,NaN,0
+1993-01-23,Ottawa Senators,4,Washington Capitals,6,NaN,NaN,NaN,0
+1993-01-24,Vancouver Canucks,2,Chicago Blackhawks,6,NaN,NaN,NaN,0
+1993-01-24,Hartford Whalers,4,Philadelphia Flyers,5,NaN,NaN,OT,0
+1993-01-24,Minnesota North Stars,2,Tampa Bay Lightning,2,NaN,NaN,OT,0
+1993-01-25,Boston Bruins,2,Montreal Canadiens,3,NaN,NaN,OT,0
+1993-01-26,Detroit Red Wings,9,Calgary Flames,1,NaN,NaN,NaN,0
+1993-01-26,San Jose Sharks,1,Los Angeles Kings,7,NaN,NaN,NaN,0
+1993-01-26,New Jersey Devils,2,New York Islanders,8,NaN,NaN,NaN,0
+1993-01-26,Buffalo Sabres,4,Philadelphia Flyers,3,NaN,NaN,OT,0
+1993-01-26,Washington Capitals,3,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1993-01-26,Boston Bruins,4,Quebec Nordiques,4,NaN,NaN,OT,0
+1993-01-26,Ottawa Senators,1,St. Louis Blues,5,NaN,NaN,NaN,0
+1993-01-26,Minnesota North Stars,2,Toronto Maple Leafs,1,NaN,NaN,NaN,0
+1993-01-27,Washington Capitals,3,Buffalo Sabres,4,NaN,NaN,NaN,0
+1993-01-27,Detroit Red Wings,2,Edmonton Oilers,2,NaN,NaN,OT,0
+1993-01-27,Hartford Whalers,6,Montreal Canadiens,5,NaN,NaN,NaN,0
+1993-01-27,Winnipeg Jets,2,New York Rangers,5,NaN,NaN,NaN,0
+1993-01-27,Chicago Blackhawks,4,Vancouver Canucks,4,NaN,NaN,OT,0
+1993-01-28,Winnipeg Jets,2,Boston Bruins,6,NaN,NaN,NaN,0
+1993-01-28,Calgary Flames,2,Los Angeles Kings,1,NaN,NaN,NaN,0
+1993-01-28,New Jersey Devils,2,Minnesota North Stars,4,NaN,NaN,NaN,0
+1993-01-28,Hartford Whalers,2,Ottawa Senators,5,NaN,NaN,NaN,0
+1993-01-28,Quebec Nordiques,6,Philadelphia Flyers,3,NaN,NaN,NaN,0
+1993-01-28,New York Islanders,5,Pittsburgh Penguins,2,NaN,NaN,NaN,0
+1993-01-28,St. Louis Blues,4,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-01-29,New York Rangers,4,Buffalo Sabres,6,NaN,NaN,NaN,0
+1993-01-29,Chicago Blackhawks,4,San Jose Sharks,2,NaN,NaN,NaN,0
+1993-01-29,Quebec Nordiques,3,Washington Capitals,3,NaN,NaN,OT,0
+1993-01-30,Winnipeg Jets,6,Hartford Whalers,3,NaN,NaN,NaN,0
+1993-01-30,Chicago Blackhawks,2,Los Angeles Kings,2,NaN,NaN,OT,0
+1993-01-30,Tampa Bay Lightning,4,Minnesota North Stars,3,NaN,NaN,NaN,0
+1993-01-30,Ottawa Senators,3,Montreal Canadiens,5,NaN,NaN,NaN,0
+1993-01-30,Boston Bruins,6,New York Islanders,5,NaN,NaN,NaN,0
+1993-01-30,Philadelphia Flyers,2,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1993-01-30,Calgary Flames,5,San Jose Sharks,4,NaN,NaN,NaN,0
+1993-01-30,New Jersey Devils,2,St. Louis Blues,2,NaN,NaN,OT,0
+1993-01-30,New York Rangers,1,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1993-01-30,Detroit Red Wings,4,Vancouver Canucks,4,NaN,NaN,OT,0
+1993-01-31,Edmonton Oilers,5,Buffalo Sabres,4,NaN,NaN,OT,0
+1993-01-31,Philadelphia Flyers,4,Montreal Canadiens,6,NaN,NaN,NaN,0
+1993-01-31,Pittsburgh Penguins,2,Washington Capitals,2,NaN,NaN,OT,0
+1993-02-01,New York Rangers,4,New York Islanders,4,NaN,NaN,OT,0
+1993-02-01,Winnipeg Jets,4,Ottawa Senators,4,NaN,NaN,OT,0
+1993-02-01,Tampa Bay Lightning,5,San Jose Sharks,4,NaN,NaN,NaN,0
+1993-02-01,Toronto Maple Leafs,1,St. Louis Blues,1,NaN,NaN,OT,0
+1993-02-01,Minnesota North Stars,5,Vancouver Canucks,4,NaN,NaN,NaN,0
+1993-02-02,Edmonton Oilers,4,Boston Bruins,3,NaN,NaN,NaN,0
+1993-02-02,Los Angeles Kings,2,Quebec Nordiques,3,NaN,NaN,NaN,0
+1993-02-02,Calgary Flames,6,Washington Capitals,4,NaN,NaN,NaN,0
+1993-02-03,Hartford Whalers,2,Buffalo Sabres,3,NaN,NaN,NaN,0
+1993-02-03,Chicago Blackhawks,0,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-02-03,Los Angeles Kings,2,Montreal Canadiens,7,NaN,NaN,NaN,0
+1993-02-03,Calgary Flames,5,New Jersey Devils,4,NaN,NaN,NaN,0
+1993-02-03,Philadelphia Flyers,2,New York Rangers,2,NaN,NaN,OT,0
+1993-02-03,Edmonton Oilers,2,Ottawa Senators,3,NaN,NaN,NaN,0
+1993-02-03,Boston Bruins,4,Quebec Nordiques,1,NaN,NaN,NaN,0
+1993-02-03,Minnesota North Stars,7,San Jose Sharks,3,NaN,NaN,NaN,0
+1993-02-03,New York Islanders,3,Toronto Maple Leafs,2,NaN,NaN,NaN,0
+1993-02-03,Tampa Bay Lightning,2,Vancouver Canucks,4,NaN,NaN,NaN,0
+1993-02-03,St. Louis Blues,4,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-02-08,St. Louis Blues,3,Hartford Whalers,1,"9,013",NaN,NaN,0
+1993-02-08,New York Rangers,4,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-02-08,Buffalo Sabres,2,Ottawa Senators,4,NaN,NaN,NaN,0
+1993-02-08,Boston Bruins,0,Pittsburgh Penguins,4,"12,572",NaN,NaN,0
+1993-02-09,New Jersey Devils,5,Detroit Red Wings,8,NaN,NaN,NaN,0
+1993-02-09,Edmonton Oilers,6,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-02-09,Washington Capitals,3,Minnesota North Stars,2,NaN,NaN,NaN,0
+1993-02-09,Montreal Canadiens,5,New York Islanders,3,NaN,NaN,NaN,0
+1993-02-09,Ottawa Senators,1,Philadelphia Flyers,8,NaN,NaN,NaN,0
+1993-02-09,Vancouver Canucks,5,Quebec Nordiques,1,NaN,NaN,NaN,0
+1993-02-09,Boston Bruins,6,St. Louis Blues,1,NaN,NaN,NaN,0
+1993-02-09,Toronto Maple Leafs,1,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-02-10,San Jose Sharks,1,Calgary Flames,13,NaN,NaN,NaN,0
+1993-02-10,Pittsburgh Penguins,3,New York Rangers,0,NaN,NaN,NaN,0
+1993-02-10,Buffalo Sabres,6,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-02-11,Boston Bruins,3,Chicago Blackhawks,6,NaN,NaN,NaN,0
+1993-02-11,Detroit Red Wings,6,Los Angeles Kings,6,NaN,NaN,OT,0
+1993-02-11,Montreal Canadiens,0,Philadelphia Flyers,0,NaN,NaN,OT,0
+1993-02-11,Washington Capitals,10,St. Louis Blues,6,NaN,NaN,NaN,0
+1993-02-11,Minnesota North Stars,1,Tampa Bay Lightning,0,NaN,NaN,NaN,0
+1993-02-11,Vancouver Canucks,2,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1993-02-12,Vancouver Canucks,3,Buffalo Sabres,1,NaN,NaN,NaN,0
+1993-02-12,Quebec Nordiques,4,Calgary Flames,4,NaN,NaN,OT,0
+1993-02-12,San Jose Sharks,0,Edmonton Oilers,6,NaN,NaN,NaN,0
+1993-02-12,New York Islanders,3,New York Rangers,4,NaN,NaN,NaN,0
+1993-02-12,Hartford Whalers,6,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-02-13,Hartford Whalers,3,Calgary Flames,4,NaN,NaN,OT,0
+1993-02-13,Washington Capitals,10,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-02-13,Philadelphia Flyers,4,New Jersey Devils,6,NaN,NaN,NaN,0
+1993-02-13,New York Rangers,2,New York Islanders,5,NaN,NaN,NaN,0
+1993-02-13,Montreal Canadiens,4,Ottawa Senators,1,NaN,NaN,NaN,0
+1993-02-13,Chicago Blackhawks,1,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1993-02-13,Detroit Red Wings,3,St. Louis Blues,4,NaN,NaN,NaN,0
+1993-02-13,Minnesota North Stars,1,Toronto Maple Leafs,6,NaN,NaN,NaN,0
+1993-02-14,Pittsburgh Penguins,4,Buffalo Sabres,7,NaN,NaN,NaN,0
+1993-02-14,Detroit Red Wings,5,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1993-02-14,Quebec Nordiques,3,Edmonton Oilers,2,NaN,NaN,OT,0
+1993-02-14,Toronto Maple Leafs,6,Minnesota North Stars,5,NaN,NaN,NaN,0
+1993-02-14,New Jersey Devils,5,Philadelphia Flyers,2,NaN,NaN,NaN,0
+1993-02-14,Boston Bruins,3,Tampa Bay Lightning,3,NaN,NaN,OT,0
+1993-02-14,San Jose Sharks,3,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-02-15,Vancouver Canucks,0,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-02-15,St. Louis Blues,1,New York Rangers,4,NaN,NaN,NaN,0
+1993-02-16,Philadelphia Flyers,4,Calgary Flames,4,NaN,NaN,OT,0
+1993-02-16,Edmonton Oilers,2,New York Islanders,7,NaN,NaN,NaN,0
+1993-02-16,Washington Capitals,4,San Jose Sharks,3,NaN,NaN,NaN,0
+1993-02-17,Tampa Bay Lightning,1,Detroit Red Wings,3,NaN,NaN,NaN,0
+1993-02-17,Buffalo Sabres,5,Hartford Whalers,3,NaN,NaN,NaN,0
+1993-02-17,Los Angeles Kings,10,Minnesota North Stars,5,NaN,NaN,NaN,0
+1993-02-17,Boston Bruins,5,Montreal Canadiens,2,NaN,NaN,NaN,0
+1993-02-17,St. Louis Blues,3,New Jersey Devils,4,NaN,NaN,NaN,0
+1993-02-17,Ottawa Senators,4,Quebec Nordiques,6,NaN,NaN,NaN,0
+1993-02-17,Calgary Flames,2,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-02-18,Los Angeles Kings,2,Chicago Blackhawks,7,NaN,NaN,NaN,0
+1993-02-18,St. Louis Blues,4,New York Islanders,2,NaN,NaN,NaN,0
+1993-02-18,Edmonton Oilers,5,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1993-02-18,Winnipeg Jets,3,San Jose Sharks,5,NaN,NaN,NaN,0
+1993-02-18,Philadelphia Flyers,3,Vancouver Canucks,2,NaN,NaN,NaN,0
+1993-02-19,Calgary Flames,3,Detroit Red Wings,3,NaN,NaN,OT,0
+1993-02-19,Buffalo Sabres,3,New Jersey Devils,3,NaN,NaN,OT,0
+1993-02-19,Tampa Bay Lightning,1,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-02-20,Edmonton Oilers,3,Hartford Whalers,7,NaN,NaN,NaN,0
+1993-02-20,Philadelphia Flyers,2,Minnesota North Stars,5,NaN,NaN,NaN,0
+1993-02-20,Ottawa Senators,4,Montreal Canadiens,5,NaN,NaN,NaN,0
+1993-02-20,Pittsburgh Penguins,2,New York Islanders,4,NaN,NaN,NaN,0
+1993-02-20,New York Rangers,6,San Jose Sharks,4,NaN,NaN,NaN,0
+1993-02-20,Quebec Nordiques,5,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-02-20,Boston Bruins,4,Toronto Maple Leafs,4,NaN,NaN,OT,0
+1993-02-20,Winnipeg Jets,2,Vancouver Canucks,4,NaN,NaN,NaN,0
+1993-02-20,Los Angeles Kings,3,Washington Capitals,7,NaN,NaN,NaN,0
+1993-02-21,Calgary Flames,3,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1993-02-21,Pittsburgh Penguins,4,Hartford Whalers,3,NaN,NaN,NaN,0
+1993-02-21,Detroit Red Wings,4,Minnesota North Stars,1,NaN,NaN,NaN,0
+1993-02-21,Edmonton Oilers,3,Montreal Canadiens,4,NaN,NaN,NaN,0
+1993-02-21,Quebec Nordiques,6,New Jersey Devils,3,NaN,NaN,NaN,0
+1993-02-21,St. Louis Blues,2,Washington Capitals,5,NaN,NaN,NaN,0
+1993-02-22,Detroit Red Wings,5,Philadelphia Flyers,5,NaN,NaN,OT,0
+1993-02-22,New York Rangers,4,San Jose Sharks,0,NaN,NaN,NaN,0
+1993-02-22,Los Angeles Kings,5,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-02-22,Toronto Maple Leafs,8,Vancouver Canucks,1,NaN,NaN,NaN,0
+1993-02-22,Ottawa Senators,3,Winnipeg Jets,6,NaN,NaN,NaN,0
+1993-02-23,Washington Capitals,4,New York Islanders,2,NaN,NaN,NaN,0
+1993-02-23,Winnipeg Jets,8,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-02-23,New Jersey Devils,3,Pittsburgh Penguins,1,NaN,NaN,NaN,0
+1993-02-23,Edmonton Oilers,3,Quebec Nordiques,6,NaN,NaN,NaN,0
+1993-02-23,Calgary Flames,6,San Jose Sharks,3,NaN,NaN,NaN,0
+1993-02-23,Montreal Canadiens,5,St. Louis Blues,1,NaN,NaN,NaN,0
+1993-02-24,Detroit Red Wings,7,Buffalo Sabres,10,NaN,NaN,NaN,0
+1993-02-24,Philadelphia Flyers,5,Hartford Whalers,2,NaN,NaN,NaN,0
+1993-02-24,New York Rangers,4,Vancouver Canucks,5,NaN,NaN,NaN,0
+1993-02-25,Minnesota North Stars,3,Boston Bruins,3,NaN,NaN,OT,0
+1993-02-25,Pittsburgh Penguins,1,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-02-25,New Jersey Devils,2,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1993-02-25,New York Islanders,4,Quebec Nordiques,6,NaN,NaN,NaN,0
+1993-02-25,Toronto Maple Leafs,5,San Jose Sharks,0,NaN,NaN,NaN,0
+1993-02-25,Los Angeles Kings,0,St. Louis Blues,3,NaN,NaN,NaN,0
+1993-02-25,Chicago Blackhawks,5,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1993-02-26,Montreal Canadiens,6,Buffalo Sabres,4,NaN,NaN,NaN,0
+1993-02-26,New York Rangers,4,Calgary Flames,4,NaN,NaN,OT,0
+1993-02-26,Vancouver Canucks,7,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-02-27,Washington Capitals,4,Boston Bruins,5,NaN,NaN,OT,0
+1993-02-27,San Jose Sharks,4,Calgary Flames,5,NaN,NaN,NaN,0
+1993-02-27,Chicago Blackhawks,2,Detroit Red Wings,1,NaN,NaN,NaN,0
+1993-02-27,New York Rangers,1,Edmonton Oilers,0,NaN,NaN,NaN,0
+1993-02-27,Toronto Maple Leafs,5,Los Angeles Kings,2,NaN,NaN,NaN,0
+1993-02-27,Buffalo Sabres,4,Montreal Canadiens,8,NaN,NaN,NaN,0
+1993-02-27,Ottawa Senators,2,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-02-27,New York Islanders,3,Philadelphia Flyers,2,NaN,NaN,NaN,0
+1993-02-27,Tampa Bay Lightning,3,Pittsburgh Penguins,3,NaN,NaN,OT,0
+1993-02-27,Hartford Whalers,5,Quebec Nordiques,3,NaN,NaN,NaN,0
+1993-02-27,Minnesota North Stars,2,St. Louis Blues,3,NaN,NaN,NaN,0
+1993-02-28,St. Louis Blues,7,Chicago Blackhawks,1,NaN,NaN,NaN,0
+1993-02-28,San Jose Sharks,1,Edmonton Oilers,4,NaN,NaN,NaN,0
+1993-02-28,New York Islanders,7,Hartford Whalers,6,NaN,NaN,OT,0
+1993-02-28,Detroit Red Wings,3,New Jersey Devils,6,NaN,NaN,NaN,0
+1993-02-28,Quebec Nordiques,4,Ottawa Senators,6,NaN,NaN,NaN,0
+1993-02-28,Minnesota North Stars,6,Winnipeg Jets,7,NaN,NaN,NaN,0
+1993-02-28,Pittsburgh Penguins,4,Washington Capitals,2,NaN,NaN,NaN,0
+1993-03-01,Montreal Canadiens,5,Boston Bruins,2,NaN,NaN,NaN,0
+1993-03-01,Vancouver Canucks,5,Buffalo Sabres,2,NaN,NaN,NaN,0
+1993-03-02,Calgary Flames,2,Los Angeles Kings,6,NaN,NaN,NaN,0
+1993-03-02,Detroit Red Wings,2,New York Islanders,3,NaN,NaN,NaN,0
+1993-03-02,Pittsburgh Penguins,4,Philadelphia Flyers,5,NaN,NaN,NaN,0
+1993-03-02,Ottawa Senators,2,San Jose Sharks,3,NaN,NaN,OT,0
+1993-03-02,Quebec Nordiques,7,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-03-02,Vancouver Canucks,3,Washington Capitals,3,NaN,NaN,OT,0
+1993-03-03,New Jersey Devils,7,Hartford Whalers,4,NaN,NaN,NaN,0
+1993-03-03,Buffalo Sabres,2,New York Rangers,2,NaN,NaN,OT,0
+1993-03-03,Montreal Canadiens,1,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-03-03,Minnesota North Stars,1,Toronto Maple Leafs,3,NaN,NaN,NaN,0
+1993-03-04,Vancouver Canucks,3,Boston Bruins,4,NaN,NaN,NaN,0
+1993-03-04,Quebec Nordiques,3,Chicago Blackhawks,3,NaN,NaN,OT,0
+1993-03-04,Winnipeg Jets,5,Edmonton Oilers,3,NaN,NaN,NaN,0
+1993-03-04,Ottawa Senators,6,Los Angeles Kings,8,NaN,NaN,NaN,0
+1993-03-04,Calgary Flames,1,St. Louis Blues,2,NaN,NaN,NaN,0
+1993-03-05,Hartford Whalers,4,Buffalo Sabres,2,NaN,NaN,NaN,0
+1993-03-05,Toronto Maple Leafs,1,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-03-05,Chicago Blackhawks,1,New Jersey Devils,1,NaN,NaN,OT,0
+1993-03-05,Pittsburgh Penguins,1,New York Rangers,3,NaN,NaN,NaN,0
+1993-03-05,Philadelphia Flyers,3,Washington Capitals,0,NaN,NaN,NaN,0
+1993-03-06,St. Louis Blues,3,Boston Bruins,4,NaN,NaN,OT,0
+1993-03-06,Vancouver Canucks,1,Hartford Whalers,5,NaN,NaN,NaN,0
+1993-03-06,Edmonton Oilers,1,Los Angeles Kings,6,NaN,NaN,NaN,0
+1993-03-06,Montreal Canadiens,3,Minnesota North Stars,4,NaN,NaN,NaN,0
+1993-03-06,New York Rangers,2,Quebec Nordiques,10,NaN,NaN,NaN,0
+1993-03-06,Calgary Flames,4,Tampa Bay Lightning,7,NaN,NaN,NaN,0
+1993-03-06,Winnipeg Jets,2,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-03-07,Winnipeg Jets,1,Buffalo Sabres,2,NaN,NaN,NaN,0
+1993-03-07,Ottawa Senators,2,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1993-03-07,Detroit Red Wings,7,Minnesota North Stars,1,NaN,NaN,NaN,0
+1993-03-07,Philadelphia Flyers,3,New Jersey Devils,7,NaN,NaN,NaN,0
+1993-03-07,Edmonton Oilers,3,San Jose Sharks,6,NaN,NaN,NaN,0
+1993-03-07,New York Islanders,3,Washington Capitals,2,NaN,NaN,NaN,0
+1993-03-08,Hartford Whalers,4,Quebec Nordiques,2,NaN,NaN,NaN,0
+1993-03-09,San Jose Sharks,2,Minnesota North Stars,4,NaN,NaN,NaN,0
+1993-03-09,Philadelphia Flyers,2,New York Islanders,4,NaN,NaN,NaN,0
+1993-03-09,Los Angeles Kings,3,New York Rangers,4,NaN,NaN,NaN,0
+1993-03-09,Boston Bruins,2,Pittsburgh Penguins,3,NaN,NaN,NaN,0
+1993-03-09,Winnipeg Jets,4,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-03-09,New Jersey Devils,2,Vancouver Canucks,7,NaN,NaN,NaN,0
+1993-03-09,Toronto Maple Leafs,1,Washington Capitals,3,NaN,NaN,NaN,0
+1993-03-10,Detroit Red Wings,6,Edmonton Oilers,3,NaN,NaN,NaN,0
+1993-03-10,New York Islanders,1,Montreal Canadiens,5,NaN,NaN,NaN,0
+1993-03-10,Buffalo Sabres,7,Quebec Nordiques,4,NaN,NaN,NaN,0
+1993-03-10,Hartford Whalers,3,Toronto Maple Leafs,5,NaN,NaN,NaN,0
+1993-03-11,Montreal Canadiens,2,Boston Bruins,5,NaN,NaN,NaN,0
+1993-03-11,Detroit Red Wings,3,Calgary Flames,6,NaN,NaN,NaN,0
+1993-03-11,New York Rangers,4,Chicago Blackhawks,1,NaN,NaN,NaN,0
+1993-03-11,Washington Capitals,4,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1993-03-11,Los Angeles Kings,3,Pittsburgh Penguins,4,NaN,NaN,OT,0
+1993-03-11,San Jose Sharks,2,St. Louis Blues,5,NaN,NaN,NaN,0
+1993-03-11,Minnesota North Stars,4,Vancouver Canucks,3,NaN,NaN,NaN,0
+1993-03-12,New Jersey Devils,4,Edmonton Oilers,6,NaN,NaN,NaN,0
+1993-03-12,Tampa Bay Lightning,2,Toronto Maple Leafs,8,NaN,NaN,NaN,0
+1993-03-12,Vancouver Canucks,3,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-03-13,Ottawa Senators,3,Boston Bruins,6,NaN,NaN,NaN,0
+1993-03-13,New Jersey Devils,3,Calgary Flames,4,NaN,NaN,NaN,0
+1993-03-13,Buffalo Sabres,3,Hartford Whalers,3,NaN,NaN,OT,0
+1993-03-13,Quebec Nordiques,5,Montreal Canadiens,2,NaN,NaN,NaN,0
+1993-03-13,Minnesota North Stars,2,St. Louis Blues,6,NaN,NaN,NaN,0
+1993-03-14,Vancouver Canucks,2,Calgary Flames,3,NaN,NaN,NaN,0
+1993-03-14,Chicago Blackhawks,5,Edmonton Oilers,4,NaN,NaN,OT,0
+1993-03-14,St. Louis Blues,3,Minnesota North Stars,1,NaN,NaN,NaN,0
+1993-03-14,Pittsburgh Penguins,3,New York Islanders,2,NaN,NaN,NaN,0
+1993-03-14,Detroit Red Wings,4,San Jose Sharks,1,NaN,NaN,NaN,0
+1993-03-14,Tampa Bay Lightning,1,Winnipeg Jets,3,NaN,NaN,NaN,0
+1993-03-15,Los Angeles Kings,4,Buffalo Sabres,2,NaN,NaN,NaN,0
+1993-03-15,Boston Bruins,3,New York Rangers,1,NaN,NaN,NaN,0
+1993-03-15,Toronto Maple Leafs,2,Quebec Nordiques,4,NaN,NaN,NaN,0
+1993-03-16,New Jersey Devils,1,Boston Bruins,3,"10,864",NaN,NaN,0
+1993-03-16,Chicago Blackhawks,1,Calgary Flames,0,NaN,NaN,NaN,0
+1993-03-16,Washington Capitals,4,Detroit Red Wings,2,NaN,NaN,NaN,0
+1993-03-16,Winnipeg Jets,4,Los Angeles Kings,8,NaN,NaN,NaN,0
+1993-03-16,Minnesota North Stars,3,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-03-16,New York Islanders,6,San Jose Sharks,0,NaN,NaN,NaN,0
+1993-03-16,Buffalo Sabres,2,St. Louis Blues,2,NaN,NaN,OT,0
+1993-03-16,Hartford Whalers,4,Tampa Bay Lightning,3,NaN,NaN,OT,0
+1993-03-17,Edmonton Oilers,4,New York Rangers,3,NaN,NaN,OT,0
+1993-03-18,Minnesota North Stars,1,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-03-18,New York Islanders,4,Los Angeles Kings,7,NaN,NaN,NaN,0
+1993-03-18,Edmonton Oilers,1,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-03-18,Boston Bruins,4,Ottawa Senators,1,NaN,NaN,NaN,0
+1993-03-18,Washington Capitals,5,Pittsburgh Penguins,7,NaN,NaN,NaN,0
+1993-03-18,Montreal Canadiens,5,Quebec Nordiques,2,NaN,NaN,NaN,0
+1993-03-18,Toronto Maple Leafs,4,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-03-18,Winnipeg Jets,5,Vancouver Canucks,2,NaN,NaN,NaN,0
+1993-03-19,San Jose Sharks,1,New York Rangers,8,NaN,NaN,NaN,0
+1993-03-19,Hartford Whalers,2,Washington Capitals,5,NaN,NaN,NaN,0
+1993-03-20,Detroit Red Wings,7,Boston Bruins,4,NaN,NaN,NaN,0
+1993-03-20,St. Louis Blues,2,Los Angeles Kings,3,NaN,NaN,NaN,0
+1993-03-20,Chicago Blackhawks,2,Montreal Canadiens,6,NaN,NaN,NaN,0
+1993-03-20,Quebec Nordiques,5,New Jersey Devils,1,NaN,NaN,NaN,0
+1993-03-20,Philadelphia Flyers,3,Pittsburgh Penguins,9,NaN,NaN,NaN,0
+1993-03-20,Buffalo Sabres,3,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1993-03-20,Edmonton Oilers,2,Toronto Maple Leafs,4,NaN,NaN,NaN,0
+1993-03-20,New York Islanders,7,Vancouver Canucks,2,NaN,NaN,NaN,0
+1993-03-21,Tampa Bay Lightning,2,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1993-03-21,Pittsburgh Penguins,6,Edmonton Oilers,4,NaN,NaN,NaN,0
+1993-03-21,Detroit Red Wings,6,Minnesota North Stars,2,NaN,NaN,NaN,0
+1993-03-21,New Jersey Devils,3,Philadelphia Flyers,2,NaN,NaN,NaN,0
+1993-03-21,Calgary Flames,2,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-03-21,San Jose Sharks,3,Washington Capitals,5,NaN,NaN,NaN,0
+1993-03-22,Hartford Whalers,4,Boston Bruins,5,NaN,NaN,NaN,0
+1993-03-22,Buffalo Sabres,8,Montreal Canadiens,3,NaN,NaN,NaN,0
+1993-03-22,New York Rangers,5,Ottawa Senators,4,NaN,NaN,NaN,0
+1993-03-22,St. Louis Blues,3,Vancouver Canucks,1,NaN,NaN,NaN,0
+1993-03-23,New York Islanders,2,Detroit Red Wings,3,NaN,NaN,NaN,0
+1993-03-23,Tampa Bay Lightning,3,New Jersey Devils,9,NaN,NaN,NaN,0
+1993-03-23,San Jose Sharks,2,Pittsburgh Penguins,7,NaN,NaN,NaN,0
+1993-03-23,Toronto Maple Leafs,5,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-03-23,Quebec Nordiques,1,Washington Capitals,5,NaN,NaN,NaN,0
+1993-03-24,Boston Bruins,2,Buffalo Sabres,0,NaN,NaN,NaN,0
+1993-03-24,St. Louis Blues,4,Calgary Flames,2,NaN,NaN,NaN,0
+1993-03-24,Montreal Canadiens,6,Hartford Whalers,5,NaN,NaN,OT,0
+1993-03-24,Philadelphia Flyers,5,New York Rangers,4,NaN,NaN,NaN,0
+1993-03-24,Los Angeles Kings,2,Vancouver Canucks,6,NaN,NaN,NaN,0
+1993-03-25,Montreal Canadiens,0,Boston Bruins,2,NaN,NaN,NaN,0
+1993-03-25,Buffalo Sabres,6,Chicago Blackhawks,4,NaN,NaN,NaN,0
+1993-03-25,Toronto Maple Leafs,3,Minnesota North Stars,3,NaN,NaN,OT,0
+1993-03-25,Washington Capitals,5,New York Islanders,2,NaN,NaN,NaN,0
+1993-03-25,Tampa Bay Lightning,3,Ottawa Senators,2,NaN,NaN,OT,0
+1993-03-25,San Jose Sharks,2,Philadelphia Flyers,5,NaN,NaN,NaN,0
+1993-03-25,New Jersey Devils,3,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1993-03-26,Los Angeles Kings,4,Edmonton Oilers,1,NaN,NaN,NaN,0
+1993-03-26,Chicago Blackhawks,3,New York Rangers,1,NaN,NaN,NaN,0
+1993-03-26,Calgary Flames,3,Vancouver Canucks,1,NaN,NaN,NaN,0
+1993-03-26,St. Louis Blues,2,Winnipeg Jets,4,NaN,NaN,NaN,0
+1993-03-27,Pittsburgh Penguins,5,Boston Bruins,3,NaN,NaN,NaN,0
+1993-03-27,Toronto Maple Leafs,6,Edmonton Oilers,2,NaN,NaN,NaN,0
+1993-03-27,Hartford Whalers,2,Minnesota North Stars,1,NaN,NaN,NaN,0
+1993-03-27,Ottawa Senators,3,Montreal Canadiens,4,NaN,NaN,OT,0
+1993-03-27,San Jose Sharks,3,New York Islanders,7,NaN,NaN,NaN,0
+1993-03-27,Philadelphia Flyers,3,Quebec Nordiques,8,NaN,NaN,NaN,0
+1993-03-27,Detroit Red Wings,8,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-03-27,New Jersey Devils,5,Washington Capitals,2,NaN,NaN,NaN,0
+1993-03-28,Ottawa Senators,1,Buffalo Sabres,3,NaN,NaN,NaN,0
+1993-03-28,Toronto Maple Leafs,4,Calgary Flames,0,NaN,NaN,NaN,0
+1993-03-28,Hartford Whalers,0,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1993-03-28,Quebec Nordiques,3,New York Rangers,2,NaN,NaN,NaN,0
+1993-03-28,Los Angeles Kings,3,Winnipeg Jets,3,NaN,NaN,OT,0
+1993-03-28,Pittsburgh Penguins,4,Washington Capitals,1,NaN,NaN,NaN,0
+1993-03-29,Los Angeles Kings,9,Detroit Red Wings,3,NaN,NaN,NaN,0
+1993-03-29,San Jose Sharks,0,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-03-30,Winnipeg Jets,5,Calgary Flames,4,NaN,NaN,NaN,0
+1993-03-30,Boston Bruins,3,Hartford Whalers,1,NaN,NaN,NaN,0
+1993-03-30,Philadelphia Flyers,1,New York Islanders,2,NaN,NaN,NaN,0
+1993-03-30,Ottawa Senators,4,Pittsburgh Penguins,6,NaN,NaN,NaN,0
+1993-03-30,Vancouver Canucks,6,St. Louis Blues,3,NaN,NaN,NaN,0
+1993-03-30,Buffalo Sabres,1,Washington Capitals,4,NaN,NaN,NaN,0
+1993-03-31,New Jersey Devils,2,Buffalo Sabres,5,NaN,NaN,NaN,0
+1993-03-31,Minnesota North Stars,2,Edmonton Oilers,5,NaN,NaN,NaN,0
+1993-03-31,Quebec Nordiques,6,Montreal Canadiens,2,NaN,NaN,NaN,0
+1993-03-31,Los Angeles Kings,5,Toronto Maple Leafs,5,NaN,NaN,OT,0
+1993-04-01,Minnesota North Stars,3,Calgary Flames,5,NaN,NaN,NaN,0
+1993-04-01,Detroit Red Wings,3,Chicago Blackhawks,1,NaN,NaN,NaN,0
+1993-04-01,Quebec Nordiques,4,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-04-01,Los Angeles Kings,3,Philadelphia Flyers,1,NaN,NaN,NaN,0
+1993-04-01,Hartford Whalers,2,Pittsburgh Penguins,10,NaN,NaN,NaN,0
+1993-04-01,Winnipeg Jets,9,San Jose Sharks,5,NaN,NaN,NaN,0
+1993-04-01,Vancouver Canucks,5,Tampa Bay Lightning,3,NaN,NaN,NaN,0
+1993-04-02,New York Islanders,3,New York Rangers,2,NaN,NaN,OT,0
+1993-04-02,Montreal Canadiens,0,Washington Capitals,4,NaN,NaN,NaN,0
+1993-04-03,Buffalo Sabres,2,Boston Bruins,3,NaN,NaN,NaN,0
+1993-04-03,Vancouver Canucks,1,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-04-03,Winnipeg Jets,6,Edmonton Oilers,4,NaN,NaN,NaN,0
+1993-04-03,Ottawa Senators,3,Hartford Whalers,7,NaN,NaN,NaN,0
+1993-04-03,Minnesota North Stars,3,Los Angeles Kings,0,NaN,NaN,NaN,0
+1993-04-03,Montreal Canadiens,3,New York Islanders,2,NaN,NaN,NaN,0
+1993-04-03,Tampa Bay Lightning,2,Philadelphia Flyers,6,NaN,NaN,NaN,0
+1993-04-03,Pittsburgh Penguins,5,Quebec Nordiques,3,NaN,NaN,NaN,0
+1993-04-03,Calgary Flames,3,San Jose Sharks,2,NaN,NaN,OT,0
+1993-04-03,Chicago Blackhawks,3,St. Louis Blues,3,NaN,NaN,OT,0
+1993-04-03,New Jersey Devils,0,Toronto Maple Leafs,1,NaN,NaN,NaN,0
+1993-04-04,Boston Bruins,3,Buffalo Sabres,0,NaN,NaN,NaN,0
+1993-04-04,St. Louis Blues,4,Chicago Blackhawks,5,NaN,NaN,NaN,0
+1993-04-04,Pittsburgh Penguins,5,New Jersey Devils,2,NaN,NaN,NaN,0
+1993-04-04,Vancouver Canucks,3,Ottawa Senators,0,NaN,NaN,NaN,0
+1993-04-04,Toronto Maple Leafs,0,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-04-04,Calgary Flames,4,San Jose Sharks,3,NaN,NaN,NaN,0
+1993-04-04,New York Rangers,4,Washington Capitals,0,NaN,NaN,NaN,0
+1993-04-05,Hartford Whalers,5,New York Rangers,4,NaN,NaN,NaN,0
+1993-04-06,Calgary Flames,3,Los Angeles Kings,3,NaN,NaN,OT,0
+1993-04-06,Buffalo Sabres,1,Minnesota North Stars,3,NaN,NaN,NaN,0
+1993-04-06,Boston Bruins,7,Quebec Nordiques,1,NaN,NaN,NaN,0
+1993-04-06,Edmonton Oilers,2,San Jose Sharks,5,NaN,NaN,NaN,0
+1993-04-06,St. Louis Blues,2,Tampa Bay Lightning,2,NaN,NaN,OT,0
+1993-04-06,Philadelphia Flyers,4,Winnipeg Jets,2,NaN,NaN,NaN,0
+1993-04-06,New York Islanders,3,Washington Capitals,2,NaN,NaN,NaN,0
+1993-04-07,New York Rangers,2,New Jersey Devils,5,NaN,NaN,NaN,0
+1993-04-07,Hartford Whalers,6,Ottawa Senators,1,NaN,NaN,NaN,0
+1993-04-07,Montreal Canadiens,3,Pittsburgh Penguins,4,NaN,NaN,OT,0
+1993-04-07,Edmonton Oilers,4,Vancouver Canucks,5,NaN,NaN,OT,0
+1993-04-08,Quebec Nordiques,2,Boston Bruins,6,NaN,NaN,NaN,0
+1993-04-08,San Jose Sharks,1,Los Angeles Kings,2,NaN,NaN,NaN,0
+1993-04-08,Chicago Blackhawks,3,New York Islanders,2,NaN,NaN,NaN,0
+1993-04-08,Washington Capitals,3,Philadelphia Flyers,4,NaN,NaN,NaN,0
+1993-04-08,Detroit Red Wings,9,Tampa Bay Lightning,1,NaN,NaN,NaN,0
+1993-04-08,Toronto Maple Leafs,3,Winnipeg Jets,5,NaN,NaN,NaN,0
+1993-04-09,Vancouver Canucks,1,Calgary Flames,8,NaN,NaN,NaN,0
+1993-04-09,Pittsburgh Penguins,10,New York Rangers,4,NaN,NaN,NaN,0
+1993-04-10,Buffalo Sabres,5,Detroit Red Wings,6,NaN,NaN,NaN,0
+1993-04-10,St. Louis Blues,3,Minnesota North Stars,4,NaN,NaN,NaN,0
+1993-04-10,Boston Bruins,5,Montreal Canadiens,1,NaN,NaN,NaN,0
+1993-04-10,Ottawa Senators,5,New York Islanders,3,NaN,NaN,NaN,0
+1993-04-10,New York Rangers,2,Pittsburgh Penguins,4,NaN,NaN,NaN,0
+1993-04-10,Hartford Whalers,3,Quebec Nordiques,6,NaN,NaN,NaN,0
+1993-04-10,Los Angeles Kings,3,San Jose Sharks,2,NaN,NaN,OT,0
+1993-04-10,Chicago Blackhawks,4,Tampa Bay Lightning,2,NaN,NaN,NaN,0
+1993-04-10,Philadelphia Flyers,4,Toronto Maple Leafs,0,NaN,NaN,NaN,0
+1993-04-10,New Jersey Devils,5,Washington Capitals,3,NaN,NaN,NaN,0
+1993-04-11,Ottawa Senators,2,Boston Bruins,4,NaN,NaN,NaN,0
+1993-04-11,Quebec Nordiques,3,Buffalo Sabres,1,NaN,NaN,NaN,0
+1993-04-11,Tampa Bay Lightning,3,Chicago Blackhawks,3,NaN,NaN,OT,0
+1993-04-11,Winnipeg Jets,7,Edmonton Oilers,5,NaN,NaN,NaN,0
+1993-04-11,Toronto Maple Leafs,4,Hartford Whalers,2,NaN,NaN,NaN,0
+1993-04-11,New York Islanders,5,New Jersey Devils,4,NaN,NaN,NaN,0
+1993-04-11,Minnesota North Stars,1,St. Louis Blues,5,NaN,NaN,NaN,0
+1993-04-11,Calgary Flames,3,Vancouver Canucks,6,NaN,NaN,NaN,0
+1993-04-12,Washington Capitals,3,Montreal Canadiens,2,NaN,NaN,OT,0
+1993-04-12,New York Rangers,0,Philadelphia Flyers,1,NaN,NaN,NaN,0
+1993-04-13,Montreal Canadiens,3,Buffalo Sabres,2,NaN,NaN,OT,0
+1993-04-13,Calgary Flames,4,Edmonton Oilers,2,NaN,NaN,NaN,0
+1993-04-13,Chicago Blackhawks,3,Minnesota North Stars,2,NaN,NaN,NaN,0
+1993-04-13,Hartford Whalers,3,New York Islanders,3,NaN,NaN,OT,0
+1993-04-13,Ottawa Senators,2,Quebec Nordiques,6,NaN,NaN,NaN,0
+1993-04-13,St. Louis Blues,1,Toronto Maple Leafs,2,NaN,NaN,OT,0
+1993-04-13,Los Angeles Kings,4,Vancouver Canucks,7,NaN,NaN,NaN,0
+1993-04-13,Tampa Bay Lightning,5,Winnipeg Jets,3,NaN,NaN,NaN,0
+1993-04-14,New York Islanders,4,Hartford Whalers,5,NaN,NaN,OT,0
+1993-04-14,Pittsburgh Penguins,6,New Jersey Devils,6,NaN,NaN,OT,0
+1993-04-14,Washington Capitals,2,New York Rangers,0,NaN,NaN,NaN,0
+1993-04-14,Boston Bruins,4,Ottawa Senators,2,NaN,NaN,NaN,0
+1993-04-15,Philadelphia Flyers,7,Buffalo Sabres,4,NaN,NaN,NaN,0
+1993-04-15,San Jose Sharks,3,Calgary Flames,7,NaN,NaN,NaN,0
+1993-04-15,Toronto Maple Leafs,2,Chicago Blackhawks,3,NaN,NaN,NaN,0
+1993-04-15,Minnesota North Stars,3,Detroit Red Wings,5,NaN,NaN,NaN,0
+1993-04-15,Vancouver Canucks,8,Los Angeles Kings,6,NaN,NaN,NaN,0
+1993-04-15,Tampa Bay Lightning,5,St. Louis Blues,6,NaN,NaN,NaN,0
+1993-04-15,Edmonton Oilers,0,Winnipeg Jets,3,NaN,NaN,NaN,0
+1993-04-16,Philadelphia Flyers,5,Hartford Whalers,4,NaN,NaN,OT,0
+1993-04-16,New Jersey Devils,4,New York Islanders,8,NaN,NaN,NaN,0
+1993-04-16,New York Rangers,2,Washington Capitals,4,NaN,NaN,NaN,0

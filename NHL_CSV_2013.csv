@@ -1,0 +1,1231 @@
+game_date,visitor_team,visitor_goals,home_team,home_goals,attendance,game_lenght,game_decided,seasonality
+2013-10-01,Washington Capitals,4,Chicago Blackhawks,6,"22,158",NaN,NaN,0
+2013-10-01,Winnipeg Jets,5,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2013-10-01,Toronto Maple Leafs,4,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-10-02,Anaheim Ducks,1,Colorado Avalanche,6,"18,007",NaN,NaN,0
+2013-10-02,Buffalo Sabres,1,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2013-10-02,Toronto Maple Leafs,3,Philadelphia Flyers,1,"19,872",NaN,NaN,0
+2013-10-03,Tampa Bay Lightning,1,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-10-03,Florida Panthers,4,Dallas Stars,2,"16,100",NaN,NaN,0
+2013-10-03,Los Angeles Kings,3,Minnesota Wild,2,"18,511",NaN,SO,0
+2013-10-03,New York Rangers,1,Phoenix Coyotes,4,"17,125",NaN,NaN,0
+2013-10-03,New Jersey Devils,0,Pittsburgh Penguins,3,"18,621",NaN,NaN,0
+2013-10-03,Vancouver Canucks,1,San Jose Sharks,4,"17,562",NaN,NaN,0
+2013-10-03,Nashville Predators,2,St. Louis Blues,4,"18,851",NaN,NaN,0
+2013-10-03,Calgary Flames,4,Washington Capitals,5,"18,506",NaN,SO,0
+2013-10-04,Ottawa Senators,1,Buffalo Sabres,0,"19,070",NaN,NaN,0
+2013-10-04,Detroit Red Wings,3,Carolina Hurricanes,2,"18,680",NaN,OT,0
+2013-10-04,Calgary Flames,4,Columbus Blue Jackets,3,"18,151",NaN,NaN,0
+2013-10-04,Nashville Predators,1,Colorado Avalanche,3,"14,494",NaN,NaN,0
+2013-10-04,New York Islanders,4,New Jersey Devils,3,"16,624",NaN,SO,0
+2013-10-04,Los Angeles Kings,3,Winnipeg Jets,5,"15,004",NaN,NaN,0
+2013-10-05,Detroit Red Wings,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2013-10-05,Tampa Bay Lightning,3,Chicago Blackhawks,2,"21,563",NaN,SO,0
+2013-10-05,Washington Capitals,1,Dallas Stars,2,"17,200",NaN,NaN,0
+2013-10-05,Anaheim Ducks,4,Minnesota Wild,3,"18,213",NaN,OT,0
+2013-10-05,Philadelphia Flyers,1,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2013-10-05,Columbus Blue Jackets,3,New York Islanders,2,"16,170",NaN,SO,0
+2013-10-05,Buffalo Sabres,1,Pittsburgh Penguins,4,"18,641",NaN,NaN,0
+2013-10-05,Phoenix Coyotes,1,San Jose Sharks,4,"17,562",NaN,NaN,0
+2013-10-05,Florida Panthers,0,St. Louis Blues,7,"16,264",NaN,NaN,0
+2013-10-05,Ottawa Senators,4,Toronto Maple Leafs,5,"19,552",NaN,SO,0
+2013-10-05,Edmonton Oilers,2,Vancouver Canucks,6,"18,910",NaN,NaN,0
+2013-10-06,Philadelphia Flyers,1,Carolina Hurricanes,2,"16,088",NaN,NaN,0
+2013-10-06,Vancouver Canucks,5,Calgary Flames,4,"19,289",NaN,OT,0
+2013-10-06,Anaheim Ducks,3,Winnipeg Jets,2,"15,004",NaN,NaN,0
+2013-10-07,New Jersey Devils,4,Edmonton Oilers,5,"16,839",NaN,SO,0
+2013-10-07,New York Rangers,3,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2013-10-08,Tampa Bay Lightning,3,Buffalo Sabres,2,"18,243",NaN,OT,0
+2013-10-08,Minnesota Wild,2,Nashville Predators,3,"17,196",NaN,NaN,0
+2013-10-08,Phoenix Coyotes,1,New York Islanders,6,"10,288",NaN,NaN,0
+2013-10-08,Florida Panthers,1,Philadelphia Flyers,2,"19,589",NaN,NaN,0
+2013-10-08,Carolina Hurricanes,2,Pittsburgh Penguins,5,"18,451",NaN,NaN,0
+2013-10-08,New York Rangers,2,San Jose Sharks,9,"17,562",NaN,NaN,0
+2013-10-08,Colorado Avalanche,2,Toronto Maple Leafs,1,"19,388",NaN,NaN,0
+2013-10-08,New Jersey Devils,2,Vancouver Canucks,3,"18,910",NaN,OT,0
+2013-10-09,Montreal Canadiens,2,Calgary Flames,3,"19,289",NaN,NaN,0
+2013-10-09,Ottawa Senators,3,Los Angeles Kings,4,"18,118",NaN,OT,0
+2013-10-09,Chicago Blackhawks,2,St. Louis Blues,3,"16,565",NaN,NaN,0
+2013-10-10,New York Rangers,0,Anaheim Ducks,6,"17,179",NaN,NaN,0
+2013-10-10,Colorado Avalanche,2,Boston Bruins,0,"17,565",NaN,NaN,0
+2013-10-10,Columbus Blue Jackets,4,Buffalo Sabres,1,"18,210",NaN,NaN,0
+2013-10-10,Phoenix Coyotes,4,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2013-10-10,Montreal Canadiens,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2013-10-10,Winnipeg Jets,1,Minnesota Wild,2,"17,366",NaN,NaN,0
+2013-10-10,Toronto Maple Leafs,4,Nashville Predators,0,"16,671",NaN,NaN,0
+2013-10-10,Florida Panthers,2,Tampa Bay Lightning,7,"19,204",NaN,NaN,0
+2013-10-10,San Jose Sharks,4,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2013-10-10,Carolina Hurricanes,3,Washington Capitals,2,"18,506",NaN,NaN,0
+2013-10-11,Los Angeles Kings,2,Carolina Hurricanes,1,"16,353",NaN,SO,0
+2013-10-11,New Jersey Devils,2,Calgary Flames,3,"19,289",NaN,NaN,0
+2013-10-11,New York Islanders,2,Chicago Blackhawks,3,"21,196",NaN,NaN,0
+2013-10-11,Pittsburgh Penguins,3,Florida Panthers,6,"18,584",NaN,NaN,0
+2013-10-11,Phoenix Coyotes,2,Philadelphia Flyers,1,"19,713",NaN,NaN,0
+2013-10-11,Dallas Stars,4,Winnipeg Jets,1,"15,004",NaN,NaN,0
+2013-10-12,Boston Bruins,3,Columbus Blue Jackets,1,"14,092",NaN,NaN,0
+2013-10-12,Buffalo Sabres,1,Chicago Blackhawks,2,"21,261",NaN,NaN,0
+2013-10-12,Philadelphia Flyers,2,Detroit Red Wings,5,"20,066",NaN,NaN,0
+2013-10-12,Dallas Stars,1,Minnesota Wild,5,"18,278",NaN,NaN,0
+2013-10-12,New York Islanders,2,Nashville Predators,3,"17,113",NaN,NaN,0
+2013-10-12,Ottawa Senators,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2013-10-12,New York Rangers,3,St. Louis Blues,5,"18,130",NaN,NaN,0
+2013-10-12,Pittsburgh Penguins,5,Tampa Bay Lightning,4,"18,939",NaN,NaN,0
+2013-10-12,Edmonton Oilers,5,Toronto Maple Leafs,6,"19,379",NaN,OT,0
+2013-10-12,Montreal Canadiens,4,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2013-10-12,Colorado Avalanche,5,Washington Capitals,1,"18,506",NaN,NaN,0
+2013-10-13,Ottawa Senators,1,Anaheim Ducks,4,"17,177",NaN,NaN,0
+2013-10-13,Phoenix Coyotes,5,Carolina Hurricanes,3,"15,384",NaN,NaN,0
+2013-10-13,Los Angeles Kings,3,Florida Panthers,0,"12,810",NaN,NaN,0
+2013-10-13,New Jersey Devils,0,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2013-10-14,Detroit Red Wings,3,Boston Bruins,2,"17,565",NaN,NaN,0
+2013-10-14,Minnesota Wild,2,Buffalo Sabres,1,"18,111",NaN,NaN,0
+2013-10-14,Edmonton Oilers,2,Washington Capitals,4,"18,506",NaN,NaN,0
+2013-10-15,Chicago Blackhawks,3,Carolina Hurricanes,2,"16,263",NaN,SO,0
+2013-10-15,Dallas Stars,2,Colorado Avalanche,3,"15,208",NaN,NaN,0
+2013-10-15,Columbus Blue Jackets,1,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2013-10-15,Florida Panthers,3,Nashville Predators,4,"15,935",NaN,NaN,0
+2013-10-15,Buffalo Sabres,4,New York Islanders,3,"10,512",NaN,SO,0
+2013-10-15,Vancouver Canucks,3,Philadelphia Flyers,2,"19,588",NaN,NaN,0
+2013-10-15,Ottawa Senators,4,Phoenix Coyotes,3,"10,594",NaN,OT,0
+2013-10-15,Edmonton Oilers,2,Pittsburgh Penguins,3,"18,410",NaN,NaN,0
+2013-10-15,San Jose Sharks,6,St. Louis Blues,2,"14,503",NaN,NaN,0
+2013-10-15,Los Angeles Kings,1,Tampa Bay Lightning,5,"16,310",NaN,NaN,0
+2013-10-15,Minnesota Wild,1,Toronto Maple Leafs,4,"19,283",NaN,NaN,0
+2013-10-15,Montreal Canadiens,3,Winnipeg Jets,0,"15,004",NaN,NaN,0
+2013-10-16,Calgary Flames,2,Anaheim Ducks,3,"14,051",NaN,NaN,0
+2013-10-16,New York Rangers,2,Washington Capitals,0,"18,506",NaN,NaN,0
+2013-10-17,Vancouver Canucks,3,Buffalo Sabres,0,"18,374",NaN,NaN,0
+2013-10-17,St. Louis Blues,3,Chicago Blackhawks,2,"21,169",NaN,SO,0
+2013-10-17,Detroit Red Wings,4,Colorado Avalanche,2,"18,101",NaN,NaN,0
+2013-10-17,San Jose Sharks,3,Dallas Stars,4,"14,898",NaN,SO,0
+2013-10-17,Boston Bruins,3,Florida Panthers,2,"14,440",NaN,NaN,0
+2013-10-17,Columbus Blue Jackets,3,Montreal Canadiens,5,"21,273",NaN,NaN,0
+2013-10-17,Los Angeles Kings,2,Nashville Predators,1,"16,416",NaN,SO,0
+2013-10-17,Edmonton Oilers,2,New York Islanders,3,"10,608",NaN,NaN,0
+2013-10-17,New Jersey Devils,2,Ottawa Senators,5,"18,867",NaN,NaN,0
+2013-10-17,Pittsburgh Penguins,4,Philadelphia Flyers,1,"19,735",NaN,NaN,0
+2013-10-17,Minnesota Wild,1,Tampa Bay Lightning,3,"16,454",NaN,NaN,0
+2013-10-17,Carolina Hurricanes,3,Toronto Maple Leafs,2,"19,277",NaN,NaN,0
+2013-10-18,Phoenix Coyotes,2,Anaheim Ducks,3,"13,206",NaN,SO,0
+2013-10-18,St. Louis Blues,3,Winnipeg Jets,4,"15,004",NaN,SO,0
+2013-10-19,Colorado Avalanche,4,Buffalo Sabres,2,"18,422",NaN,NaN,0
+2013-10-19,Toronto Maple Leafs,1,Chicago Blackhawks,3,"21,801",NaN,NaN,0
+2013-10-19,Minnesota Wild,1,Florida Panthers,2,"13,081",NaN,SO,0
+2013-10-19,Dallas Stars,2,Los Angeles Kings,5,"18,118",NaN,NaN,0
+2013-10-19,Nashville Predators,2,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2013-10-19,New York Rangers,0,New Jersey Devils,4,"16,592",NaN,NaN,0
+2013-10-19,Carolina Hurricanes,4,New York Islanders,3,"13,008",NaN,NaN,0
+2013-10-19,Edmonton Oilers,3,Ottawa Senators,1,"18,623",NaN,NaN,0
+2013-10-19,Detroit Red Wings,2,Phoenix Coyotes,5,"14,624",NaN,NaN,0
+2013-10-19,Vancouver Canucks,3,Pittsburgh Penguins,4,"18,657",NaN,SO,0
+2013-10-19,Calgary Flames,3,San Jose Sharks,6,"17,562",NaN,NaN,0
+2013-10-19,Boston Bruins,5,Tampa Bay Lightning,0,"18,512",NaN,NaN,0
+2013-10-19,Columbus Blue Jackets,1,Washington Capitals,4,"18,506",NaN,NaN,0
+2013-10-20,Dallas Stars,3,Anaheim Ducks,6,"14,531",NaN,NaN,0
+2013-10-20,Vancouver Canucks,1,Columbus Blue Jackets,3,"14,168",NaN,NaN,0
+2013-10-20,Nashville Predators,3,Winnipeg Jets,1,"15,004",NaN,NaN,0
+2013-10-21,San Jose Sharks,1,Detroit Red Wings,0,"20,066",NaN,SO,0
+2013-10-21,Calgary Flames,3,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2013-10-21,Colorado Avalanche,1,Pittsburgh Penguins,0,"18,606",NaN,NaN,0
+2013-10-22,New Jersey Devils,1,Columbus Blue Jackets,4,"14,357",NaN,NaN,0
+2013-10-22,Chicago Blackhawks,3,Florida Panthers,2,"15,779",NaN,SO,0
+2013-10-22,Nashville Predators,0,Minnesota Wild,2,"17,651",NaN,NaN,0
+2013-10-22,Edmonton Oilers,4,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-10-22,Vancouver Canucks,5,New York Islanders,4,"11,922",NaN,OT,0
+2013-10-22,Calgary Flames,2,Phoenix Coyotes,4,"10,141",NaN,NaN,0
+2013-10-22,Anaheim Ducks,2,Toronto Maple Leafs,4,"19,408",NaN,NaN,0
+2013-10-22,Washington Capitals,5,Winnipeg Jets,4,"15,004",NaN,SO,0
+2013-10-23,Boston Bruins,5,Buffalo Sabres,2,"17,645",NaN,NaN,0
+2013-10-23,Ottawa Senators,6,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2013-10-24,San Jose Sharks,1,Boston Bruins,2,"17,565",NaN,NaN,0
+2013-10-24,Calgary Flames,1,Dallas Stars,5,"13,122",NaN,NaN,0
+2013-10-24,Washington Capitals,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2013-10-24,Phoenix Coyotes,4,Los Angeles Kings,7,"18,118",NaN,NaN,0
+2013-10-24,Carolina Hurricanes,1,Minnesota Wild,3,"17,668",NaN,NaN,0
+2013-10-24,Anaheim Ducks,1,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2013-10-24,Vancouver Canucks,3,New Jersey Devils,2,"13,203",NaN,SO,0
+2013-10-24,Winnipeg Jets,2,Nashville Predators,3,"16,075",NaN,OT,0
+2013-10-24,New York Rangers,1,Philadelphia Flyers,2,"19,768",NaN,NaN,0
+2013-10-24,Chicago Blackhawks,5,Tampa Bay Lightning,6,"18,820",NaN,OT,0
+2013-10-25,Toronto Maple Leafs,2,Columbus Blue Jackets,5,"13,930",NaN,NaN,0
+2013-10-25,Carolina Hurricanes,2,Colorado Avalanche,4,"16,177",NaN,NaN,0
+2013-10-25,Buffalo Sabres,3,Florida Panthers,1,"12,984",NaN,NaN,0
+2013-10-25,Anaheim Ducks,2,Ottawa Senators,1,"17,590",NaN,NaN,0
+2013-10-25,New York Islanders,4,Pittsburgh Penguins,3,"18,664",NaN,NaN,0
+2013-10-25,Vancouver Canucks,3,St. Louis Blues,2,"17,604",NaN,OT,0
+2013-10-26,New Jersey Devils,4,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-10-26,Washington Capitals,2,Calgary Flames,5,"19,289",NaN,NaN,0
+2013-10-26,Minnesota Wild,5,Chicago Blackhawks,3,"21,521",NaN,NaN,0
+2013-10-26,Winnipeg Jets,2,Dallas Stars,1,"13,875",NaN,SO,0
+2013-10-26,New York Rangers,3,Detroit Red Wings,2,"20,066",NaN,OT,0
+2013-10-26,San Jose Sharks,2,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2013-10-26,St. Louis Blues,6,Nashville Predators,1,"16,681",NaN,NaN,0
+2013-10-26,Philadelphia Flyers,5,New York Islanders,2,"13,620",NaN,NaN,0
+2013-10-26,Edmonton Oilers,4,Phoenix Coyotes,5,"11,684",NaN,NaN,0
+2013-10-26,Buffalo Sabres,2,Tampa Bay Lightning,3,"18,088",NaN,NaN,0
+2013-10-26,Pittsburgh Penguins,1,Toronto Maple Leafs,4,"19,539",NaN,NaN,0
+2013-10-27,Anaheim Ducks,4,Columbus Blue Jackets,3,"10,542",NaN,NaN,0
+2013-10-27,Winnipeg Jets,2,Colorado Avalanche,3,"13,927",NaN,NaN,0
+2013-10-27,Tampa Bay Lightning,4,Florida Panthers,3,"12,336",NaN,SO,0
+2013-10-27,Edmonton Oilers,1,Los Angeles Kings,2,"18,118",NaN,SO,0
+2013-10-27,San Jose Sharks,5,Ottawa Senators,2,"17,145",NaN,NaN,0
+2013-10-28,Dallas Stars,4,Buffalo Sabres,3,"18,295",NaN,NaN,0
+2013-10-28,Pittsburgh Penguins,3,Carolina Hurricanes,1,"15,042",NaN,NaN,0
+2013-10-28,Chicago Blackhawks,5,Minnesota Wild,1,"18,685",NaN,NaN,0
+2013-10-28,Montreal Canadiens,2,New York Rangers,0,"18,006",NaN,NaN,0
+2013-10-28,Washington Capitals,2,Vancouver Canucks,3,"18,910",NaN,NaN,0
+2013-10-29,Ottawa Senators,5,Chicago Blackhawks,6,"21,123",NaN,NaN,0
+2013-10-29,Toronto Maple Leafs,4,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2013-10-29,Dallas Stars,1,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2013-10-29,Tampa Bay Lightning,1,New Jersey Devils,2,"13,501",NaN,NaN,0
+2013-10-29,New York Rangers,3,New York Islanders,2,"16,170",NaN,NaN,0
+2013-10-29,Anaheim Ducks,3,Philadelphia Flyers,2,"19,615",NaN,NaN,0
+2013-10-29,Los Angeles Kings,1,Phoenix Coyotes,3,"10,452",NaN,NaN,0
+2013-10-29,Winnipeg Jets,2,St. Louis Blues,3,"15,287",NaN,NaN,0
+2013-10-30,Toronto Maple Leafs,4,Calgary Flames,2,"19,289",NaN,NaN,0
+2013-10-30,San Jose Sharks,3,Los Angeles Kings,4,"18,118",NaN,OT,0
+2013-10-30,Boston Bruins,2,Pittsburgh Penguins,3,"18,627",NaN,NaN,0
+2013-10-30,Detroit Red Wings,2,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2013-10-31,Anaheim Ducks,2,Boston Bruins,3,"17,565",NaN,SO,0
+2013-10-31,Buffalo Sabres,0,New York Rangers,2,"18,006",NaN,NaN,0
+2013-10-31,Nashville Predators,4,Phoenix Coyotes,5,"7,401",NaN,SO,0
+2013-11-01,Tampa Bay Lightning,3,Carolina Hurricanes,0,"14,828",NaN,NaN,0
+2013-11-01,Detroit Red Wings,4,Calgary Flames,3,"19,289",NaN,NaN,0
+2013-11-01,Colorado Avalanche,3,Dallas Stars,2,"15,223",NaN,OT,0
+2013-11-01,St. Louis Blues,4,Florida Panthers,0,"12,922",NaN,NaN,0
+2013-11-01,Montreal Canadiens,3,Minnesota Wild,4,"18,207",NaN,NaN,0
+2013-11-01,New York Islanders,5,Ottawa Senators,4,"15,589",NaN,SO,0
+2013-11-01,Washington Capitals,7,Philadelphia Flyers,0,"19,702",NaN,NaN,0
+2013-11-01,Columbus Blue Jackets,2,Pittsburgh Penguins,4,"18,620",NaN,NaN,0
+2013-11-02,Anaheim Ducks,6,Buffalo Sabres,3,"19,070",NaN,NaN,0
+2013-11-02,Pittsburgh Penguins,3,Columbus Blue Jackets,0,"18,634",NaN,NaN,0
+2013-11-02,Montreal Canadiens,1,Colorado Avalanche,4,"18,152",NaN,NaN,0
+2013-11-02,Detroit Red Wings,5,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2013-11-02,Nashville Predators,4,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2013-11-02,Philadelphia Flyers,1,New Jersey Devils,0,"13,705",NaN,NaN,0
+2013-11-02,Boston Bruins,1,New York Islanders,3,"14,018",NaN,NaN,0
+2013-11-02,Carolina Hurricanes,1,New York Rangers,5,"18,006",NaN,NaN,0
+2013-11-02,Phoenix Coyotes,3,San Jose Sharks,2,"17,562",NaN,SO,0
+2013-11-02,St. Louis Blues,2,Tampa Bay Lightning,4,"18,885",NaN,NaN,0
+2013-11-02,Toronto Maple Leafs,0,Vancouver Canucks,4,"18,910",NaN,NaN,0
+2013-11-02,Chicago Blackhawks,5,Winnipeg Jets,1,"15,004",NaN,NaN,0
+2013-11-02,Florida Panthers,2,Washington Capitals,3,"18,506",NaN,SO,0
+2013-11-03,Calgary Flames,3,Chicago Blackhawks,2,"21,229",NaN,OT,0
+2013-11-03,New Jersey Devils,0,Minnesota Wild,4,"17,571",NaN,NaN,0
+2013-11-03,Dallas Stars,4,Ottawa Senators,3,"18,106",NaN,SO,0
+2013-11-04,Anaheim Ducks,2,New York Rangers,1,"18,006",NaN,NaN,0
+2013-11-04,Detroit Red Wings,2,Winnipeg Jets,4,"15,004",NaN,NaN,0
+2013-11-05,Dallas Stars,3,Boston Bruins,2,"17,565",NaN,SO,0
+2013-11-05,Philadelphia Flyers,1,Carolina Hurricanes,2,"15,519",NaN,OT,0
+2013-11-05,Ottawa Senators,4,Columbus Blue Jackets,1,"13,122",NaN,NaN,0
+2013-11-05,Edmonton Oilers,4,Florida Panthers,3,"12,035",NaN,OT,0
+2013-11-05,Calgary Flames,1,Minnesota Wild,5,"17,708",NaN,NaN,0
+2013-11-05,St. Louis Blues,3,Montreal Canadiens,2,"21,273",NaN,SO,0
+2013-11-05,Vancouver Canucks,2,Phoenix Coyotes,3,"13,459",NaN,SO,0
+2013-11-05,Buffalo Sabres,5,San Jose Sharks,4,"17,562",NaN,SO,0
+2013-11-05,New York Islanders,2,Washington Capitals,6,"18,506",NaN,NaN,0
+2013-11-06,Phoenix Coyotes,2,Anaheim Ducks,5,"14,045",NaN,NaN,0
+2013-11-06,Winnipeg Jets,1,Chicago Blackhawks,4,"21,122",NaN,NaN,0
+2013-11-06,Nashville Predators,6,Colorado Avalanche,4,"14,043",NaN,NaN,0
+2013-11-06,Pittsburgh Penguins,1,New York Rangers,5,"18,006",NaN,NaN,0
+2013-11-07,Florida Panthers,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2013-11-07,New York Islanders,0,Carolina Hurricanes,1,"11,541",NaN,NaN,0
+2013-11-07,New York Rangers,4,Columbus Blue Jackets,2,"11,746",NaN,NaN,0
+2013-11-07,Dallas Stars,4,Detroit Red Wings,3,"20,066",NaN,OT,0
+2013-11-07,Buffalo Sabres,0,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2013-11-07,Montreal Canadiens,1,Ottawa Senators,4,"19,292",NaN,NaN,0
+2013-11-07,New Jersey Devils,3,Philadelphia Flyers,0,"19,604",NaN,NaN,0
+2013-11-07,Vancouver Canucks,4,San Jose Sharks,2,"17,562",NaN,NaN,0
+2013-11-07,Calgary Flames,2,St. Louis Blues,3,"14,877",NaN,NaN,0
+2013-11-07,Edmonton Oilers,2,Tampa Bay Lightning,4,"18,695",NaN,NaN,0
+2013-11-07,Minnesota Wild,2,Washington Capitals,3,"18,506",NaN,SO,0
+2013-11-08,Buffalo Sabres,2,Anaheim Ducks,6,"15,577",NaN,NaN,0
+2013-11-08,Calgary Flames,2,Colorado Avalanche,4,"17,620",NaN,NaN,0
+2013-11-08,New Jersey Devils,1,Toronto Maple Leafs,2,"19,377",NaN,SO,0
+2013-11-08,Nashville Predators,0,Winnipeg Jets,5,"15,004",NaN,NaN,0
+2013-11-09,Toronto Maple Leafs,1,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-11-09,Minnesota Wild,3,Carolina Hurricanes,2,"14,704",NaN,SO,0
+2013-11-09,New York Islanders,2,Columbus Blue Jackets,5,"13,949",NaN,NaN,0
+2013-11-09,Chicago Blackhawks,5,Dallas Stars,2,"17,167",NaN,NaN,0
+2013-11-09,Tampa Bay Lightning,3,Detroit Red Wings,2,"20,066",NaN,OT,0
+2013-11-09,Vancouver Canucks,1,Los Angeles Kings,5,"18,118",NaN,NaN,0
+2013-11-09,Florida Panthers,2,Ottawa Senators,3,"16,244",NaN,NaN,0
+2013-11-09,Edmonton Oilers,2,Philadelphia Flyers,4,"19,725",NaN,NaN,0
+2013-11-09,Washington Capitals,3,Phoenix Coyotes,4,"16,106",NaN,SO,0
+2013-11-09,Pittsburgh Penguins,1,St. Louis Blues,2,"18,685",NaN,NaN,0
+2013-11-10,Vancouver Canucks,1,Anaheim Ducks,3,"17,174",NaN,NaN,0
+2013-11-10,Edmonton Oilers,4,Chicago Blackhawks,5,"21,185",NaN,NaN,0
+2013-11-10,Washington Capitals,1,Colorado Avalanche,4,"17,625",NaN,NaN,0
+2013-11-10,New York Islanders,2,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2013-11-10,Nashville Predators,0,New Jersey Devils,5,"12,964",NaN,NaN,0
+2013-11-10,Florida Panthers,3,New York Rangers,4,"18,006",NaN,NaN,0
+2013-11-10,San Jose Sharks,4,Winnipeg Jets,5,"15,004",NaN,SO,0
+2013-11-11,Tampa Bay Lightning,0,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-11-12,Los Angeles Kings,2,Buffalo Sabres,3,"18,281",NaN,SO,0
+2013-11-12,Colorado Avalanche,1,Carolina Hurricanes,2,"13,278",NaN,NaN,0
+2013-11-12,San Jose Sharks,3,Calgary Flames,2,"19,289",NaN,OT,0
+2013-11-12,Winnipeg Jets,3,Detroit Red Wings,2,"20,066",NaN,SO,0
+2013-11-12,Anaheim Ducks,2,Florida Panthers,3,"13,354",NaN,NaN,0
+2013-11-12,Tampa Bay Lightning,2,Montreal Canadiens,1,"21,273",NaN,SO,0
+2013-11-12,Nashville Predators,1,New York Islanders,3,"12,108",NaN,NaN,0
+2013-11-12,New Jersey Devils,3,New York Rangers,2,"18,006",NaN,NaN,0
+2013-11-12,Philadelphia Flyers,5,Ottawa Senators,0,"16,398",NaN,NaN,0
+2013-11-12,Phoenix Coyotes,3,St. Louis Blues,2,"15,678",NaN,OT,0
+2013-11-12,Columbus Blue Jackets,3,Washington Capitals,4,"18,506",NaN,OT,0
+2013-11-13,Dallas Stars,3,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2013-11-13,Toronto Maple Leafs,1,Minnesota Wild,2,"17,897",NaN,SO,0
+2013-11-13,Philadelphia Flyers,2,Pittsburgh Penguins,1,"18,656",NaN,NaN,0
+2013-11-14,Columbus Blue Jackets,2,Boston Bruins,3,"17,565",NaN,OT,0
+2013-11-14,Dallas Stars,7,Calgary Flames,3,"19,289",NaN,NaN,0
+2013-11-14,Phoenix Coyotes,4,Chicago Blackhawks,5,"21,762",NaN,SO,0
+2013-11-14,Los Angeles Kings,3,New York Islanders,2,"13,922",NaN,NaN,0
+2013-11-14,Colorado Avalanche,3,St. Louis Blues,7,"14,190",NaN,NaN,0
+2013-11-14,Anaheim Ducks,1,Tampa Bay Lightning,5,"17,763",NaN,NaN,0
+2013-11-14,San Jose Sharks,2,Vancouver Canucks,1,"18,910",NaN,OT,0
+2013-11-15,Toronto Maple Leafs,1,Buffalo Sabres,3,"19,070",NaN,NaN,0
+2013-11-15,Anaheim Ducks,2,Carolina Hurricanes,3,"14,802",NaN,SO,0
+2013-11-15,Montreal Canadiens,3,Columbus Blue Jackets,2,"11,562",NaN,SO,0
+2013-11-15,Washington Capitals,4,Detroit Red Wings,3,"20,066",NaN,SO,0
+2013-11-15,San Jose Sharks,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2013-11-15,Florida Panthers,2,Minnesota Wild,3,"18,102",NaN,NaN,0
+2013-11-15,Los Angeles Kings,2,New Jersey Devils,0,"12,168",NaN,NaN,0
+2013-11-15,Boston Bruins,2,Ottawa Senators,4,"19,538",NaN,NaN,0
+2013-11-15,Nashville Predators,1,Pittsburgh Penguins,4,"18,606",NaN,NaN,0
+2013-11-15,Philadelphia Flyers,2,Winnipeg Jets,3,"15,004",NaN,SO,0
+2013-11-16,Edmonton Oilers,4,Calgary Flames,2,"19,289",NaN,NaN,0
+2013-11-16,Florida Panthers,4,Colorado Avalanche,1,"17,321",NaN,NaN,0
+2013-11-16,New York Rangers,1,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2013-11-16,Pittsburgh Penguins,1,New Jersey Devils,4,"14,205",NaN,NaN,0
+2013-11-16,Chicago Blackhawks,2,Nashville Predators,7,"17,113",NaN,NaN,0
+2013-11-16,Detroit Red Wings,4,New York Islanders,5,"15,619",NaN,SO,0
+2013-11-16,Tampa Bay Lightning,3,Phoenix Coyotes,6,"12,562",NaN,NaN,0
+2013-11-16,Carolina Hurricanes,2,St. Louis Blues,4,"17,936",NaN,NaN,0
+2013-11-16,Buffalo Sabres,2,Toronto Maple Leafs,4,"19,447",NaN,NaN,0
+2013-11-17,San Jose Sharks,1,Chicago Blackhawks,5,"21,434",NaN,NaN,0
+2013-11-17,Winnipeg Jets,1,Minnesota Wild,2,"18,283",NaN,NaN,0
+2013-11-17,Los Angeles Kings,1,New York Rangers,0,"18,006",NaN,NaN,0
+2013-11-17,Columbus Blue Jackets,4,Ottawa Senators,1,"15,535",NaN,NaN,0
+2013-11-17,Dallas Stars,2,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2013-11-17,St. Louis Blues,1,Washington Capitals,4,"18,506",NaN,NaN,0
+2013-11-18,Boston Bruins,4,Carolina Hurricanes,1,"13,919",NaN,NaN,0
+2013-11-18,Anaheim Ducks,1,Pittsburgh Penguins,3,"18,614",NaN,NaN,0
+2013-11-18,Calgary Flames,5,Winnipeg Jets,4,"15,004",NaN,SO,0
+2013-11-19,St. Louis Blues,4,Buffalo Sabres,1,"17,710",NaN,NaN,0
+2013-11-19,Chicago Blackhawks,1,Colorado Avalanche,5,"17,348",NaN,NaN,0
+2013-11-19,Nashville Predators,2,Detroit Red Wings,0,"20,066",NaN,NaN,0
+2013-11-19,Columbus Blue Jackets,0,Edmonton Oilers,7,"16,839",NaN,NaN,0
+2013-11-19,Tampa Bay Lightning,2,Los Angeles Kings,5,"18,118",NaN,NaN,0
+2013-11-19,Minnesota Wild,2,Montreal Canadiens,6,"21,273",NaN,NaN,0
+2013-11-19,Boston Bruins,2,New York Rangers,1,"18,006",NaN,NaN,0
+2013-11-19,Ottawa Senators,2,Philadelphia Flyers,5,"19,724",NaN,NaN,0
+2013-11-19,New York Islanders,2,Toronto Maple Leafs,5,"19,446",NaN,NaN,0
+2013-11-19,Florida Panthers,3,Vancouver Canucks,2,"18,910",NaN,SO,0
+2013-11-20,New Jersey Devils,4,Anaheim Ducks,3,"14,306",NaN,OT,0
+2013-11-20,Columbus Blue Jackets,2,Calgary Flames,1,"19,289",NaN,OT,0
+2013-11-20,Minnesota Wild,4,Ottawa Senators,3,"16,642",NaN,NaN,0
+2013-11-20,Pittsburgh Penguins,4,Washington Capitals,0,"18,506",NaN,NaN,0
+2013-11-21,St. Louis Blues,3,Boston Bruins,2,"17,565",NaN,SO,0
+2013-11-21,New York Rangers,3,Dallas Stars,2,"15,127",NaN,NaN,0
+2013-11-21,Carolina Hurricanes,3,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2013-11-21,Florida Panthers,1,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2013-11-21,New Jersey Devils,2,Los Angeles Kings,1,"18,118",NaN,OT,0
+2013-11-21,Buffalo Sabres,1,Philadelphia Flyers,4,"19,973",NaN,NaN,0
+2013-11-21,Colorado Avalanche,4,Phoenix Coyotes,3,"12,285",NaN,OT,0
+2013-11-21,Tampa Bay Lightning,1,San Jose Sharks,5,"17,562",NaN,NaN,0
+2013-11-21,Nashville Predators,4,Toronto Maple Leafs,2,"19,256",NaN,NaN,0
+2013-11-21,Chicago Blackhawks,6,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2013-11-22,Tampa Bay Lightning,0,Anaheim Ducks,1,"16,648",NaN,OT,0
+2013-11-22,Florida Panthers,3,Calgary Flames,4,"19,289",NaN,SO,0
+2013-11-22,New York Islanders,3,Pittsburgh Penguins,4,"18,515",NaN,NaN,0
+2013-11-22,Columbus Blue Jackets,2,Vancouver Canucks,6,"18,910",NaN,NaN,0
+2013-11-22,Montreal Canadiens,3,Washington Capitals,2,"18,506",NaN,NaN,0
+2013-11-23,Carolina Hurricanes,2,Boston Bruins,3,"17,565",NaN,OT,0
+2013-11-23,Ottawa Senators,4,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2013-11-23,Colorado Avalanche,1,Los Angeles Kings,0,"18,118",NaN,OT,0
+2013-11-23,Pittsburgh Penguins,2,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-11-23,New York Rangers,2,Nashville Predators,0,"17,127",NaN,NaN,0
+2013-11-23,New York Islanders,2,Philadelphia Flyers,5,"19,829",NaN,NaN,0
+2013-11-23,Anaheim Ducks,4,Phoenix Coyotes,2,"13,490",NaN,NaN,0
+2013-11-23,New Jersey Devils,1,San Jose Sharks,2,"17,562",NaN,NaN,0
+2013-11-23,Dallas Stars,1,St. Louis Blues,6,"18,037",NaN,NaN,0
+2013-11-23,Washington Capitals,1,Toronto Maple Leafs,2,"19,473",NaN,SO,0
+2013-11-23,Chicago Blackhawks,2,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2013-11-23,Minnesota Wild,3,Winnipeg Jets,2,"15,004",NaN,SO,0
+2013-11-24,Detroit Red Wings,3,Buffalo Sabres,1,"18,721",NaN,NaN,0
+2013-11-24,Ottawa Senators,1,Carolina Hurricanes,4,"13,657",NaN,NaN,0
+2013-11-25,Pittsburgh Penguins,3,Boston Bruins,4,"17,565",NaN,OT,0
+2013-11-25,Chicago Blackhawks,5,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2013-11-25,Philadelphia Flyers,1,Florida Panthers,3,"14,299",NaN,NaN,0
+2013-11-25,Winnipeg Jets,3,New Jersey Devils,1,"12,253",NaN,NaN,0
+2013-11-25,Phoenix Coyotes,2,Nashville Predators,4,"15,728",NaN,NaN,0
+2013-11-25,Minnesota Wild,0,St. Louis Blues,3,"15,832",NaN,NaN,0
+2013-11-25,New York Rangers,0,Tampa Bay Lightning,5,"19,204",NaN,NaN,0
+2013-11-25,Columbus Blue Jackets,6,Toronto Maple Leafs,0,"19,241",NaN,NaN,0
+2013-11-25,Los Angeles Kings,3,Vancouver Canucks,2,"18,910",NaN,OT,0
+2013-11-26,Anaheim Ducks,3,Dallas Stars,6,"15,792",NaN,NaN,0
+2013-11-27,Montreal Canadiens,3,Buffalo Sabres,1,"18,497",NaN,NaN,0
+2013-11-27,Nashville Predators,4,Columbus Blue Jackets,0,"11,893",NaN,NaN,0
+2013-11-27,Chicago Blackhawks,3,Calgary Flames,2,"19,289",NaN,NaN,0
+2013-11-27,St. Louis Blues,4,Colorado Avalanche,1,"17,595",NaN,NaN,0
+2013-11-27,Boston Bruins,1,Detroit Red Wings,6,"20,066",NaN,NaN,0
+2013-11-27,New York Rangers,5,Florida Panthers,2,"17,268",NaN,NaN,0
+2013-11-27,Phoenix Coyotes,3,Minnesota Wild,1,"18,265",NaN,NaN,0
+2013-11-27,Carolina Hurricanes,4,New Jersey Devils,3,"16,592",NaN,NaN,0
+2013-11-27,Winnipeg Jets,3,New York Islanders,2,"12,008",NaN,NaN,0
+2013-11-27,Toronto Maple Leafs,5,Pittsburgh Penguins,6,"18,660",NaN,SO,0
+2013-11-27,Los Angeles Kings,2,San Jose Sharks,3,"17,562",NaN,SO,0
+2013-11-27,Philadelphia Flyers,2,Tampa Bay Lightning,4,"18,427",NaN,NaN,0
+2013-11-27,Ottawa Senators,6,Washington Capitals,4,"18,506",NaN,NaN,0
+2013-11-28,Edmonton Oilers,3,Nashville Predators,0,"16,279",NaN,NaN,0
+2013-11-28,Vancouver Canucks,5,Ottawa Senators,2,"17,931",NaN,NaN,0
+2013-11-29,Calgary Flames,2,Anaheim Ducks,5,"17,174",NaN,NaN,0
+2013-11-29,New York Rangers,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-11-29,Toronto Maple Leafs,2,Buffalo Sabres,3,"19,070",NaN,OT,0
+2013-11-29,New Jersey Devils,5,Carolina Hurricanes,2,"15,034",NaN,NaN,0
+2013-11-29,Edmonton Oilers,2,Columbus Blue Jackets,4,"14,360",NaN,NaN,0
+2013-11-29,Chicago Blackhawks,2,Dallas Stars,1,"18,532",NaN,SO,0
+2013-11-29,Colorado Avalanche,3,Minnesota Wild,1,"19,081",NaN,NaN,0
+2013-11-29,Detroit Red Wings,5,New York Islanders,0,"14,826",NaN,NaN,0
+2013-11-29,Winnipeg Jets,1,Philadelphia Flyers,2,"19,937",NaN,NaN,0
+2013-11-29,St. Louis Blues,3,San Jose Sharks,6,"17,562",NaN,NaN,0
+2013-11-29,Pittsburgh Penguins,3,Tampa Bay Lightning,0,"19,065",NaN,NaN,0
+2013-11-29,Montreal Canadiens,2,Washington Capitals,3,"18,506",NaN,SO,0
+2013-11-30,Columbus Blue Jackets,1,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-11-30,Minnesota Wild,2,Colorado Avalanche,3,"17,857",NaN,SO,0
+2013-11-30,Pittsburgh Penguins,5,Florida Panthers,1,"17,583",NaN,NaN,0
+2013-11-30,Calgary Flames,2,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2013-11-30,Toronto Maple Leafs,2,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2013-11-30,Buffalo Sabres,0,New Jersey Devils,1,"15,226",NaN,OT,0
+2013-11-30,Philadelphia Flyers,3,Nashville Predators,2,"17,136",NaN,SO,0
+2013-11-30,Washington Capitals,3,New York Islanders,2,"14,819",NaN,OT,0
+2013-11-30,Vancouver Canucks,2,New York Rangers,5,"18,006",NaN,NaN,0
+2013-11-30,Chicago Blackhawks,5,Phoenix Coyotes,2,"17,321",NaN,NaN,0
+2013-11-30,Anaheim Ducks,3,San Jose Sharks,4,"17,562",NaN,SO,0
+2013-12-01,Vancouver Canucks,3,Carolina Hurricanes,2,"14,916",NaN,NaN,0
+2013-12-01,Edmonton Oilers,3,Dallas Stars,2,"12,673",NaN,SO,0
+2013-12-01,Detroit Red Wings,4,Ottawa Senators,2,"20,011",NaN,NaN,0
+2013-12-02,St. Louis Blues,2,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2013-12-02,Philadelphia Flyers,0,Minnesota Wild,2,"17,676",NaN,NaN,0
+2013-12-02,New Jersey Devils,2,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-12-02,Winnipeg Jets,5,New York Rangers,2,"18,006",NaN,NaN,0
+2013-12-03,Los Angeles Kings,3,Anaheim Ducks,2,"17,294",NaN,SO,0
+2013-12-03,Tampa Bay Lightning,0,Columbus Blue Jackets,1,"10,223",NaN,NaN,0
+2013-12-03,Dallas Stars,4,Chicago Blackhawks,3,"21,411",NaN,NaN,0
+2013-12-03,Phoenix Coyotes,6,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2013-12-03,Ottawa Senators,4,Florida Panthers,2,"10,074",NaN,NaN,0
+2013-12-03,Vancouver Canucks,3,Nashville Predators,1,"15,330",NaN,NaN,0
+2013-12-03,Pittsburgh Penguins,3,New York Islanders,2,"13,915",NaN,OT,0
+2013-12-03,San Jose Sharks,4,Toronto Maple Leafs,2,"19,360",NaN,NaN,0
+2013-12-03,Carolina Hurricanes,4,Washington Capitals,1,"18,506",NaN,NaN,0
+2013-12-04,Phoenix Coyotes,1,Calgary Flames,4,"19,289",NaN,NaN,0
+2013-12-04,Philadelphia Flyers,6,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2013-12-04,Montreal Canadiens,4,New Jersey Devils,3,"12,742",NaN,SO,0
+2013-12-05,New York Rangers,3,Buffalo Sabres,1,"18,088",NaN,NaN,0
+2013-12-05,Colorado Avalanche,2,Edmonton Oilers,8,"16,839",NaN,NaN,0
+2013-12-05,Winnipeg Jets,2,Florida Panthers,5,"10,966",NaN,NaN,0
+2013-12-05,Chicago Blackhawks,3,Minnesota Wild,4,"18,852",NaN,NaN,0
+2013-12-05,Boston Bruins,1,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2013-12-05,Carolina Hurricanes,5,Nashville Predators,2,"15,768",NaN,NaN,0
+2013-12-05,San Jose Sharks,1,Pittsburgh Penguins,5,"18,522",NaN,NaN,0
+2013-12-05,New York Islanders,1,St. Louis Blues,5,"14,152",NaN,NaN,0
+2013-12-05,Ottawa Senators,1,Tampa Bay Lightning,3,"16,562",NaN,NaN,0
+2013-12-05,Dallas Stars,2,Toronto Maple Leafs,3,"19,164",NaN,OT,0
+2013-12-06,San Jose Sharks,3,Carolina Hurricanes,5,"14,553",NaN,NaN,0
+2013-12-06,Minnesota Wild,0,Columbus Blue Jackets,4,"11,319",NaN,NaN,0
+2013-12-06,Colorado Avalanche,3,Calgary Flames,2,"19,289",NaN,NaN,0
+2013-12-06,Anaheim Ducks,3,Chicago Blackhawks,2,"21,586",NaN,SO,0
+2013-12-06,Detroit Red Wings,3,New Jersey Devils,1,"13,223",NaN,NaN,0
+2013-12-06,Phoenix Coyotes,2,Vancouver Canucks,3,"18,910",NaN,OT,0
+2013-12-07,Pittsburgh Penguins,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-12-07,Philadelphia Flyers,1,Dallas Stars,5,"8,567",NaN,NaN,0
+2013-12-07,Florida Panthers,2,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2013-12-07,Calgary Flames,2,Edmonton Oilers,1,"16,839",NaN,OT,0
+2013-12-07,New York Islanders,0,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2013-12-07,Buffalo Sabres,2,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-12-07,New Jersey Devils,4,New York Rangers,3,"18,006",NaN,OT,0
+2013-12-07,Toronto Maple Leafs,4,Ottawa Senators,3,"19,559",NaN,SO,0
+2013-12-07,Anaheim Ducks,5,St. Louis Blues,2,"17,646",NaN,NaN,0
+2013-12-07,Winnipeg Jets,2,Tampa Bay Lightning,1,"18,354",NaN,OT,0
+2013-12-07,Nashville Predators,2,Washington Capitals,5,"18,506",NaN,NaN,0
+2013-12-08,Florida Panthers,2,Chicago Blackhawks,6,"21,119",NaN,NaN,0
+2013-12-08,San Jose Sharks,1,Minnesota Wild,3,"18,411",NaN,NaN,0
+2013-12-08,Washington Capitals,4,New York Rangers,1,"18,006",NaN,NaN,0
+2013-12-08,Boston Bruins,5,Toronto Maple Leafs,2,"19,165",NaN,NaN,0
+2013-12-08,Colorado Avalanche,1,Vancouver Canucks,3,"18,910",NaN,NaN,0
+2013-12-09,New York Islanders,2,Anaheim Ducks,5,"14,830",NaN,NaN,0
+2013-12-09,Philadelphia Flyers,4,Ottawa Senators,5,"15,786",NaN,SO,0
+2013-12-09,Columbus Blue Jackets,1,Pittsburgh Penguins,2,"18,520",NaN,NaN,0
+2013-12-09,Carolina Hurricanes,0,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2013-12-10,Ottawa Senators,1,Buffalo Sabres,2,"18,594",NaN,SO,0
+2013-12-10,New Jersey Devils,4,Columbus Blue Jackets,5,"11,905",NaN,NaN,0
+2013-12-10,Boston Bruins,2,Calgary Flames,1,"19,289",NaN,NaN,0
+2013-12-10,Phoenix Coyotes,3,Colorado Avalanche,1,"14,110",NaN,NaN,0
+2013-12-10,Chicago Blackhawks,6,Dallas Stars,2,"12,542",NaN,NaN,0
+2013-12-10,Carolina Hurricanes,4,Edmonton Oilers,5,"16,839",NaN,OT,0
+2013-12-10,Detroit Red Wings,2,Florida Panthers,3,"13,358",NaN,SO,0
+2013-12-10,Los Angeles Kings,6,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2013-12-10,Nashville Predators,4,New York Rangers,1,"18,006",NaN,NaN,0
+2013-12-10,New York Islanders,3,San Jose Sharks,2,"17,562",NaN,SO,0
+2013-12-10,St. Louis Blues,2,Winnipeg Jets,1,"15,004",NaN,NaN,0
+2013-12-10,Tampa Bay Lightning,5,Washington Capitals,6,"18,506",NaN,SO,0
+2013-12-11,Minnesota Wild,1,Anaheim Ducks,2,"15,252",NaN,NaN,0
+2013-12-11,Philadelphia Flyers,2,Chicago Blackhawks,7,"21,144",NaN,NaN,0
+2013-12-11,Los Angeles Kings,3,Toronto Maple Leafs,1,"19,375",NaN,NaN,0
+2013-12-12,Carolina Hurricanes,1,Calgary Flames,2,"19,289",NaN,OT,0
+2013-12-12,Boston Bruins,4,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2013-12-12,Dallas Stars,1,Nashville Predators,3,"16,347",NaN,NaN,0
+2013-12-12,Columbus Blue Jackets,4,New York Rangers,2,"18,006",NaN,NaN,0
+2013-12-12,Buffalo Sabres,1,Ottawa Senators,2,"15,578",NaN,NaN,0
+2013-12-12,Montreal Canadiens,1,Philadelphia Flyers,2,"19,748",NaN,NaN,0
+2013-12-12,New York Islanders,3,Phoenix Coyotes,6,"10,996",NaN,NaN,0
+2013-12-12,Minnesota Wild,1,San Jose Sharks,3,"17,562",NaN,NaN,0
+2013-12-12,Toronto Maple Leafs,3,St. Louis Blues,6,"16,073",NaN,NaN,0
+2013-12-12,Detroit Red Wings,1,Tampa Bay Lightning,2,"19,204",NaN,SO,0
+2013-12-12,Colorado Avalanche,4,Winnipeg Jets,3,"15,004",NaN,SO,0
+2013-12-13,Washington Capitals,2,Florida Panthers,3,"15,097",NaN,SO,0
+2013-12-13,New Jersey Devils,2,Pittsburgh Penguins,3,"18,582",NaN,NaN,0
+2013-12-13,Edmonton Oilers,0,Vancouver Canucks,4,"18,910",NaN,NaN,0
+2013-12-14,Calgary Flames,2,Buffalo Sabres,1,"18,368",NaN,OT,0
+2013-12-14,St. Louis Blues,4,Columbus Blue Jackets,3,"13,801",NaN,OT,0
+2013-12-14,Minnesota Wild,2,Colorado Avalanche,1,"16,188",NaN,SO,0
+2013-12-14,Pittsburgh Penguins,4,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2013-12-14,Tampa Bay Lightning,0,New Jersey Devils,3,"13,832",NaN,NaN,0
+2013-12-14,San Jose Sharks,2,Nashville Predators,3,"16,243",NaN,NaN,0
+2013-12-14,Montreal Canadiens,1,New York Islanders,0,"14,408",NaN,OT,0
+2013-12-14,Los Angeles Kings,5,Ottawa Senators,2,"17,140",NaN,NaN,0
+2013-12-14,Carolina Hurricanes,3,Phoenix Coyotes,1,"11,697",NaN,NaN,0
+2013-12-14,Chicago Blackhawks,3,Toronto Maple Leafs,7,"19,603",NaN,NaN,0
+2013-12-14,Boston Bruins,2,Vancouver Canucks,6,"18,910",NaN,NaN,0
+2013-12-14,Dallas Stars,6,Winnipeg Jets,4,"15,004",NaN,NaN,0
+2013-12-15,Edmonton Oilers,2,Anaheim Ducks,3,"16,301",NaN,NaN,0
+2013-12-15,Los Angeles Kings,1,Chicago Blackhawks,3,"21,426",NaN,NaN,0
+2013-12-15,Tampa Bay Lightning,3,Detroit Red Wings,0,"20,066",NaN,NaN,0
+2013-12-15,Florida Panthers,2,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2013-12-15,Calgary Flames,3,New York Rangers,4,"18,006",NaN,SO,0
+2013-12-15,Philadelphia Flyers,4,Washington Capitals,5,"18,506",NaN,SO,0
+2013-12-16,Winnipeg Jets,3,Columbus Blue Jackets,2,"11,448",NaN,NaN,0
+2013-12-16,Dallas Stars,2,Colorado Avalanche,6,"13,915",NaN,NaN,0
+2013-12-16,St. Louis Blues,2,Ottawa Senators,3,"16,008",NaN,OT,0
+2013-12-16,Toronto Maple Leafs,1,Pittsburgh Penguins,3,"18,573",NaN,NaN,0
+2013-12-17,Calgary Flames,0,Boston Bruins,2,"17,565",NaN,NaN,0
+2013-12-17,Winnipeg Jets,2,Buffalo Sabres,4,"17,795",NaN,NaN,0
+2013-12-17,Colorado Avalanche,2,Dallas Stars,3,"15,143",NaN,NaN,0
+2013-12-17,Anaheim Ducks,5,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2013-12-17,Edmonton Oilers,0,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2013-12-17,Vancouver Canucks,2,Minnesota Wild,3,"18,531",NaN,SO,0
+2013-12-17,Phoenix Coyotes,1,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2013-12-17,Chicago Blackhawks,3,Nashville Predators,1,"16,219",NaN,NaN,0
+2013-12-17,Tampa Bay Lightning,3,New York Islanders,2,"13,618",NaN,SO,0
+2013-12-17,Washington Capitals,2,Philadelphia Flyers,5,"19,788",NaN,NaN,0
+2013-12-17,San Jose Sharks,4,St. Louis Blues,2,"16,323",NaN,NaN,0
+2013-12-17,Florida Panthers,3,Toronto Maple Leafs,1,"19,076",NaN,NaN,0
+2013-12-18,Ottawa Senators,2,New Jersey Devils,5,"14,032",NaN,NaN,0
+2013-12-18,Pittsburgh Penguins,4,New York Rangers,3,"18,006",NaN,SO,0
+2013-12-19,Boston Bruins,2,Buffalo Sabres,4,"18,217",NaN,NaN,0
+2013-12-19,Edmonton Oilers,2,Colorado Avalanche,4,"13,135",NaN,NaN,0
+2013-12-19,Vancouver Canucks,1,Dallas Stars,4,"15,644",NaN,NaN,0
+2013-12-19,Calgary Flames,2,Detroit Red Wings,3,"20,066",NaN,OT,0
+2013-12-19,San Jose Sharks,1,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2013-12-19,Florida Panthers,4,Ottawa Senators,2,"15,927",NaN,NaN,0
+2013-12-19,Columbus Blue Jackets,4,Philadelphia Flyers,5,"19,852",NaN,NaN,0
+2013-12-19,Minnesota Wild,2,Pittsburgh Penguins,5,"18,623",NaN,NaN,0
+2013-12-19,Montreal Canadiens,1,St. Louis Blues,5,"17,189",NaN,NaN,0
+2013-12-19,Nashville Predators,2,Tampa Bay Lightning,4,"17,254",NaN,NaN,0
+2013-12-19,Phoenix Coyotes,1,Toronto Maple Leafs,2,"19,254",NaN,SO,0
+2013-12-20,Washington Capitals,4,Carolina Hurricanes,2,"17,737",NaN,NaN,0
+2013-12-20,Vancouver Canucks,3,Chicago Blackhawks,2,"21,966",NaN,SO,0
+2013-12-20,Anaheim Ducks,3,New Jersey Devils,2,"15,723",NaN,OT,0
+2013-12-20,New York Islanders,5,New York Rangers,3,"18,006",NaN,NaN,0
+2013-12-20,Florida Panthers,2,Winnipeg Jets,5,"15,004",NaN,NaN,0
+2013-12-21,Buffalo Sabres,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2013-12-21,Philadelphia Flyers,3,Columbus Blue Jackets,6,"14,090",NaN,NaN,0
+2013-12-21,St. Louis Blues,6,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2013-12-21,Colorado Avalanche,2,Los Angeles Kings,3,"18,118",NaN,SO,0
+2013-12-21,Montreal Canadiens,4,Nashville Predators,3,"16,095",NaN,OT,0
+2013-12-21,Anaheim Ducks,5,New York Islanders,3,"13,108",NaN,NaN,0
+2013-12-21,Phoenix Coyotes,4,Ottawa Senators,3,"16,716",NaN,OT,0
+2013-12-21,Calgary Flames,3,Pittsburgh Penguins,4,"18,663",NaN,NaN,0
+2013-12-21,Dallas Stars,2,San Jose Sharks,3,"17,562",NaN,SO,0
+2013-12-21,Carolina Hurricanes,2,Tampa Bay Lightning,3,"19,204",NaN,OT,0
+2013-12-21,Detroit Red Wings,5,Toronto Maple Leafs,4,"19,508",NaN,SO,0
+2013-12-21,New Jersey Devils,5,Washington Capitals,4,"18,506",NaN,OT,0
+2013-12-22,Minnesota Wild,1,New York Rangers,4,"18,006",NaN,NaN,0
+2013-12-22,Winnipeg Jets,1,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2013-12-23,Phoenix Coyotes,1,Buffalo Sabres,2,"18,942",NaN,OT,0
+2013-12-23,Columbus Blue Jackets,4,Carolina Hurricanes,3,"16,601",NaN,NaN,0
+2013-12-23,St. Louis Blues,3,Calgary Flames,4,"19,289",NaN,SO,0
+2013-12-23,New Jersey Devils,2,Chicago Blackhawks,5,"22,019",NaN,NaN,0
+2013-12-23,New York Islanders,3,Detroit Red Wings,0,"20,066",NaN,NaN,0
+2013-12-23,Winnipeg Jets,2,Edmonton Oilers,6,"16,839",NaN,NaN,0
+2013-12-23,Tampa Bay Lightning,6,Florida Panthers,1,"15,942",NaN,NaN,0
+2013-12-23,Dallas Stars,5,Los Angeles Kings,2,"18,274",NaN,NaN,0
+2013-12-23,Boston Bruins,6,Nashville Predators,2,"17,207",NaN,NaN,0
+2013-12-23,Toronto Maple Leafs,1,New York Rangers,2,"18,006",NaN,SO,0
+2013-12-23,Pittsburgh Penguins,0,Ottawa Senators,5,"19,838",NaN,NaN,0
+2013-12-23,Minnesota Wild,1,Philadelphia Flyers,4,"19,872",NaN,NaN,0
+2013-12-23,Colorado Avalanche,4,San Jose Sharks,5,"17,562",NaN,SO,0
+2013-12-23,Anaheim Ducks,3,Washington Capitals,2,"18,506",NaN,NaN,0
+2013-12-27,Ottawa Senators,0,Boston Bruins,5,"17,565",NaN,NaN,0
+2013-12-27,Pittsburgh Penguins,4,Carolina Hurricanes,3,"18,124",NaN,OT,0
+2013-12-27,Edmonton Oilers,2,Calgary Flames,0,"19,289",NaN,NaN,0
+2013-12-27,Colorado Avalanche,2,Chicago Blackhawks,7,"22,201",NaN,NaN,0
+2013-12-27,Nashville Predators,1,Dallas Stars,4,"17,197",NaN,NaN,0
+2013-12-27,Columbus Blue Jackets,2,New Jersey Devils,1,"16,592",NaN,SO,0
+2013-12-27,San Jose Sharks,4,Phoenix Coyotes,3,"17,125",NaN,SO,0
+2013-12-27,Buffalo Sabres,3,Toronto Maple Leafs,4,"19,405",NaN,SO,0
+2013-12-27,Minnesota Wild,4,Winnipeg Jets,6,"15,004",NaN,NaN,0
+2013-12-27,New York Rangers,2,Washington Capitals,3,"18,506",NaN,NaN,0
+2013-12-28,Phoenix Coyotes,2,Anaheim Ducks,3,"17,442",NaN,OT,0
+2013-12-28,Philadelphia Flyers,4,Edmonton Oilers,3,"16,839",NaN,SO,0
+2013-12-28,Detroit Red Wings,4,Florida Panthers,3,"18,932",NaN,NaN,0
+2013-12-28,Los Angeles Kings,2,Nashville Predators,3,"17,113",NaN,NaN,0
+2013-12-28,New Jersey Devils,2,New York Islanders,1,"16,012",NaN,NaN,0
+2013-12-28,Boston Bruins,3,Ottawa Senators,4,"20,500",NaN,NaN,0
+2013-12-28,Chicago Blackhawks,5,St. Louis Blues,6,"20,082",NaN,SO,0
+2013-12-28,Montreal Canadiens,2,Tampa Bay Lightning,1,"19,204",NaN,SO,0
+2013-12-29,Washington Capitals,1,Buffalo Sabres,2,"19,070",NaN,SO,0
+2013-12-29,Pittsburgh Penguins,5,Columbus Blue Jackets,3,"18,871",NaN,NaN,0
+2013-12-29,Vancouver Canucks,2,Calgary Flames,0,"19,289",NaN,NaN,0
+2013-12-29,Winnipeg Jets,2,Colorado Avalanche,1,"17,733",NaN,OT,0
+2013-12-29,St. Louis Blues,3,Dallas Stars,2,"15,678",NaN,OT,0
+2013-12-29,Montreal Canadiens,1,Florida Panthers,4,"19,891",NaN,NaN,0
+2013-12-29,New York Islanders,5,Minnesota Wild,4,"18,851",NaN,NaN,0
+2013-12-29,Anaheim Ducks,1,San Jose Sharks,3,"17,562",NaN,NaN,0
+2013-12-29,New York Rangers,4,Tampa Bay Lightning,3,"19,204",NaN,NaN,0
+2013-12-29,Carolina Hurricanes,2,Toronto Maple Leafs,5,"19,452",NaN,NaN,0
+2013-12-30,Los Angeles Kings,0,Chicago Blackhawks,1,"22,161",NaN,NaN,0
+2013-12-30,Detroit Red Wings,4,Nashville Predators,6,"17,212",NaN,NaN,0
+2013-12-30,Washington Capitals,1,Ottawa Senators,3,"20,193",NaN,NaN,0
+2013-12-30,Philadelphia Flyers,4,Vancouver Canucks,3,"18,910",NaN,SO,0
+2013-12-31,San Jose Sharks,3,Anaheim Ducks,6,"17,424",NaN,NaN,0
+2013-12-31,New York Islanders,5,Boston Bruins,3,"17,565",NaN,NaN,0
+2013-12-31,Montreal Canadiens,4,Carolina Hurricanes,5,"16,807",NaN,OT,0
+2013-12-31,Philadelphia Flyers,4,Calgary Flames,1,"19,289",NaN,NaN,0
+2013-12-31,Columbus Blue Jackets,3,Colorado Avalanche,5,"16,177",NaN,NaN,0
+2013-12-31,Los Angeles Kings,2,Dallas Stars,3,"15,610",NaN,NaN,0
+2013-12-31,New York Rangers,2,Florida Panthers,1,"16,083",NaN,SO,0
+2013-12-31,St. Louis Blues,2,Minnesota Wild,1,"18,919",NaN,NaN,0
+2013-12-31,Pittsburgh Penguins,1,New Jersey Devils,2,"16,592",NaN,NaN,0
+2013-12-31,Edmonton Oilers,3,Phoenix Coyotes,4,"17,416",NaN,OT,0
+2013-12-31,Buffalo Sabres,0,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2014-01-01,Toronto Maple Leafs,3,Detroit Red Wings,2,"105,491",NaN,SO,0
+2014-01-01,Tampa Bay Lightning,4,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-01-02,Nashville Predators,2,Boston Bruins,3,"17,565",NaN,OT,0
+2014-01-02,Philadelphia Flyers,1,Colorado Avalanche,2,"16,793",NaN,NaN,0
+2014-01-02,Montreal Canadiens,6,Dallas Stars,4,"13,007",NaN,NaN,0
+2014-01-02,Buffalo Sabres,1,Minnesota Wild,4,"18,229",NaN,NaN,0
+2014-01-02,Chicago Blackhawks,2,New York Islanders,3,"13,618",NaN,OT,0
+2014-01-02,Winnipeg Jets,3,Ottawa Senators,4,"18,691",NaN,NaN,0
+2014-01-02,Columbus Blue Jackets,2,Phoenix Coyotes,0,"10,539",NaN,NaN,0
+2014-01-02,Edmonton Oilers,1,San Jose Sharks,5,"17,562",NaN,NaN,0
+2014-01-02,Los Angeles Kings,0,St. Louis Blues,5,"19,839",NaN,NaN,0
+2014-01-02,Carolina Hurricanes,4,Washington Capitals,3,"18,506",NaN,OT,0
+2014-01-03,Edmonton Oilers,2,Anaheim Ducks,5,"17,174",NaN,NaN,0
+2014-01-03,Tampa Bay Lightning,2,Calgary Flames,0,"19,289",NaN,NaN,0
+2014-01-03,Chicago Blackhawks,5,New Jersey Devils,3,"16,592",NaN,NaN,0
+2014-01-03,New York Rangers,2,Pittsburgh Penguins,5,"18,668",NaN,NaN,0
+2014-01-04,Winnipeg Jets,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2014-01-04,New Jersey Devils,1,Buffalo Sabres,2,"19,070",NaN,NaN,0
+2014-01-04,San Jose Sharks,3,Colorado Avalanche,4,"17,154",NaN,NaN,0
+2014-01-04,Detroit Red Wings,5,Dallas Stars,1,"17,232",NaN,NaN,0
+2014-01-04,Nashville Predators,4,Florida Panthers,5,"15,796",NaN,SO,0
+2014-01-04,Vancouver Canucks,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2014-01-04,Washington Capitals,3,Minnesota Wild,5,"19,022",NaN,NaN,0
+2014-01-04,Ottawa Senators,4,Montreal Canadiens,3,"21,273",NaN,OT,0
+2014-01-04,Carolina Hurricanes,3,New York Islanders,2,"14,208",NaN,NaN,0
+2014-01-04,Philadelphia Flyers,5,Phoenix Coyotes,3,"14,875",NaN,NaN,0
+2014-01-04,Columbus Blue Jackets,2,St. Louis Blues,6,"19,611",NaN,NaN,0
+2014-01-04,New York Rangers,7,Toronto Maple Leafs,1,"19,362",NaN,NaN,0
+2014-01-05,Vancouver Canucks,3,Anaheim Ducks,4,"17,174",NaN,OT,0
+2014-01-05,Nashville Predators,1,Carolina Hurricanes,2,"13,994",NaN,NaN,0
+2014-01-05,San Jose Sharks,3,Chicago Blackhawks,2,"21,599",NaN,SO,0
+2014-01-05,Tampa Bay Lightning,3,Edmonton Oilers,5,"16,839",NaN,NaN,0
+2014-01-05,Winnipeg Jets,5,Pittsburgh Penguins,6,"18,652",NaN,NaN,0
+2014-01-06,Calgary Flames,4,Colorado Avalanche,3,"12,027",NaN,NaN,0
+2014-01-06,Florida Panthers,1,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2014-01-06,Dallas Stars,3,New York Islanders,7,"11,111",NaN,NaN,0
+2014-01-06,Columbus Blue Jackets,4,New York Rangers,3,"18,006",NaN,SO,0
+2014-01-07,Boston Bruins,2,Anaheim Ducks,5,"17,238",NaN,NaN,0
+2014-01-07,St. Louis Blues,5,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2014-01-07,Minnesota Wild,2,Los Angeles Kings,1,"18,118",NaN,SO,0
+2014-01-07,Philadelphia Flyers,3,New Jersey Devils,2,"14,521",NaN,OT,0
+2014-01-07,San Jose Sharks,2,Nashville Predators,3,"15,016",NaN,NaN,0
+2014-01-07,Calgary Flames,0,Phoenix Coyotes,6,"10,229",NaN,NaN,0
+2014-01-07,New York Islanders,5,Toronto Maple Leafs,3,"19,164",NaN,NaN,0
+2014-01-07,Pittsburgh Penguins,5,Vancouver Canucks,4,"18,910",NaN,SO,0
+2014-01-07,Tampa Bay Lightning,4,Winnipeg Jets,2,"15,004",NaN,NaN,0
+2014-01-08,New York Rangers,3,Chicago Blackhawks,2,"21,493",NaN,NaN,0
+2014-01-08,Ottawa Senators,3,Colorado Avalanche,4,"12,487",NaN,OT,0
+2014-01-08,Montreal Canadiens,1,Philadelphia Flyers,3,"19,949",NaN,NaN,0
+2014-01-09,Florida Panthers,2,Buffalo Sabres,1,"17,872",NaN,SO,0
+2014-01-09,Toronto Maple Leafs,1,Carolina Hurricanes,6,"16,583",NaN,NaN,0
+2014-01-09,St. Louis Blues,5,Calgary Flames,0,"19,289",NaN,NaN,0
+2014-01-09,Boston Bruins,2,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2014-01-09,Dallas Stars,0,New Jersey Devils,1,"14,252",NaN,NaN,0
+2014-01-09,Anaheim Ducks,4,Nashville Predators,3,"15,892",NaN,NaN,0
+2014-01-09,Minnesota Wild,4,Phoenix Coyotes,1,"10,075",NaN,NaN,0
+2014-01-09,Detroit Red Wings,1,San Jose Sharks,4,"17,562",NaN,NaN,0
+2014-01-09,Washington Capitals,4,Tampa Bay Lightning,3,"19,204",NaN,NaN,0
+2014-01-10,Carolina Hurricanes,0,Columbus Blue Jackets,3,"16,008",NaN,NaN,0
+2014-01-10,New York Islanders,2,Colorado Avalanche,1,"17,430",NaN,OT,0
+2014-01-10,Pittsburgh Penguins,3,Edmonton Oilers,4,"16,839",NaN,OT,0
+2014-01-10,Dallas Stars,2,New York Rangers,3,"18,006",NaN,NaN,0
+2014-01-10,St. Louis Blues,1,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-01-10,Toronto Maple Leafs,2,Washington Capitals,3,"18,506",NaN,NaN,0
+2014-01-11,Pittsburgh Penguins,2,Calgary Flames,1,"19,289",NaN,NaN,0
+2014-01-11,Detroit Red Wings,3,Los Angeles Kings,1,"18,262",NaN,NaN,0
+2014-01-11,Colorado Avalanche,4,Minnesota Wild,2,"19,117",NaN,NaN,0
+2014-01-11,Chicago Blackhawks,1,Montreal Canadiens,2,"21,273",NaN,OT,0
+2014-01-11,Florida Panthers,1,New Jersey Devils,2,"16,592",NaN,OT,0
+2014-01-11,Ottawa Senators,2,Nashville Predators,1,"17,113",NaN,SO,0
+2014-01-11,Tampa Bay Lightning,6,Philadelphia Flyers,3,"19,987",NaN,NaN,0
+2014-01-11,Anaheim Ducks,5,Phoenix Coyotes,3,"13,289",NaN,NaN,0
+2014-01-11,Boston Bruins,1,San Jose Sharks,0,"17,562",NaN,NaN,0
+2014-01-11,Columbus Blue Jackets,6,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2014-01-12,Detroit Red Wings,0,Anaheim Ducks,1,"17,375",NaN,NaN,0
+2014-01-12,Edmonton Oilers,3,Chicago Blackhawks,5,"21,424",NaN,NaN,0
+2014-01-12,New York Islanders,4,Dallas Stars,2,"13,765",NaN,NaN,0
+2014-01-12,Minnesota Wild,4,Nashville Predators,0,"16,221",NaN,NaN,0
+2014-01-12,Philadelphia Flyers,1,New York Rangers,4,"18,006",NaN,NaN,0
+2014-01-12,New Jersey Devils,2,Toronto Maple Leafs,3,"19,175",NaN,SO,0
+2014-01-12,Buffalo Sabres,2,Washington Capitals,1,"18,506",NaN,SO,0
+2014-01-13,Calgary Flames,2,Carolina Hurricanes,0,"15,276",NaN,NaN,0
+2014-01-13,Tampa Bay Lightning,2,Columbus Blue Jackets,3,"14,070",NaN,NaN,0
+2014-01-13,Vancouver Canucks,0,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2014-01-13,Phoenix Coyotes,1,Winnipeg Jets,5,"15,004",NaN,NaN,0
+2014-01-14,Toronto Maple Leafs,4,Boston Bruins,3,"17,565",NaN,NaN,0
+2014-01-14,Philadelphia Flyers,4,Buffalo Sabres,3,"18,667",NaN,NaN,0
+2014-01-14,Colorado Avalanche,3,Chicago Blackhawks,2,"21,412",NaN,OT,0
+2014-01-14,Edmonton Oilers,2,Dallas Stars,5,"12,823",NaN,NaN,0
+2014-01-14,New York Islanders,2,Florida Panthers,4,"13,730",NaN,NaN,0
+2014-01-14,Ottawa Senators,3,Minnesota Wild,0,"18,117",NaN,NaN,0
+2014-01-14,New Jersey Devils,4,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2014-01-14,Calgary Flames,2,Nashville Predators,4,"15,730",NaN,NaN,0
+2014-01-14,Tampa Bay Lightning,2,New York Rangers,1,"18,006",NaN,NaN,0
+2014-01-14,Phoenix Coyotes,1,St. Louis Blues,2,"16,571",NaN,NaN,0
+2014-01-14,San Jose Sharks,2,Washington Capitals,1,"18,506",NaN,SO,0
+2014-01-15,Vancouver Canucks,1,Anaheim Ducks,9,"17,145",NaN,NaN,0
+2014-01-15,Washington Capitals,3,Pittsburgh Penguins,4,"18,667",NaN,NaN,0
+2014-01-15,Buffalo Sabres,3,Toronto Maple Leafs,4,"19,372",NaN,SO,0
+2014-01-16,Winnipeg Jets,5,Calgary Flames,2,"19,289",NaN,NaN,0
+2014-01-16,New Jersey Devils,1,Colorado Avalanche,2,"14,090",NaN,SO,0
+2014-01-16,Boston Bruins,4,Dallas Stars,2,"16,890",NaN,NaN,0
+2014-01-16,San Jose Sharks,3,Florida Panthers,0,"13,149",NaN,NaN,0
+2014-01-16,Edmonton Oilers,1,Minnesota Wild,4,"18,037",NaN,NaN,0
+2014-01-16,Detroit Red Wings,0,New York Rangers,1,"18,006",NaN,NaN,0
+2014-01-16,Montreal Canadiens,5,Ottawa Senators,4,"19,217",NaN,OT,0
+2014-01-16,Nashville Predators,4,Philadelphia Flyers,3,"19,917",NaN,SO,0
+2014-01-16,Vancouver Canucks,0,Phoenix Coyotes,1,"12,307",NaN,NaN,0
+2014-01-16,Los Angeles Kings,4,St. Louis Blues,1,"19,374",NaN,NaN,0
+2014-01-16,New York Islanders,2,Tampa Bay Lightning,1,"18,333",NaN,SO,0
+2014-01-17,Washington Capitals,1,Columbus Blue Jackets,5,"14,121",NaN,NaN,0
+2014-01-17,Anaheim Ducks,2,Chicago Blackhawks,4,"22,064",NaN,NaN,0
+2014-01-18,Columbus Blue Jackets,4,Buffalo Sabres,3,"19,070",NaN,SO,0
+2014-01-18,Florida Panthers,2,Carolina Hurricanes,3,"15,476",NaN,NaN,0
+2014-01-18,Los Angeles Kings,2,Detroit Red Wings,3,"20,066",NaN,SO,0
+2014-01-18,Dallas Stars,2,Minnesota Wild,3,"19,192",NaN,OT,0
+2014-01-18,Colorado Avalanche,5,Nashville Predators,4,"17,113",NaN,NaN,0
+2014-01-18,New York Rangers,4,Ottawa Senators,1,"19,978",NaN,NaN,0
+2014-01-18,New York Islanders,4,Philadelphia Flyers,6,"19,992",NaN,NaN,0
+2014-01-18,New Jersey Devils,2,Phoenix Coyotes,3,"14,005",NaN,NaN,0
+2014-01-18,Anaheim Ducks,3,St. Louis Blues,2,"19,910",NaN,NaN,0
+2014-01-18,San Jose Sharks,5,Tampa Bay Lightning,4,"19,204",NaN,NaN,0
+2014-01-18,Montreal Canadiens,3,Toronto Maple Leafs,5,"19,667",NaN,NaN,0
+2014-01-18,Calgary Flames,2,Vancouver Canucks,3,"18,910",NaN,SO,0
+2014-01-18,Edmonton Oilers,2,Winnipeg Jets,3,"15,004",NaN,OT,0
+2014-01-19,Tampa Bay Lightning,5,Carolina Hurricanes,3,"16,760",NaN,NaN,0
+2014-01-19,Boston Bruins,2,Chicago Blackhawks,3,"22,197",NaN,SO,0
+2014-01-19,Washington Capitals,1,New York Rangers,4,"18,006",NaN,NaN,0
+2014-01-20,Los Angeles Kings,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2014-01-20,St. Louis Blues,4,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2014-01-20,Dallas Stars,1,Nashville Predators,4,"16,190",NaN,NaN,0
+2014-01-20,Philadelphia Flyers,3,New York Islanders,4,"16,048",NaN,SO,0
+2014-01-20,Toronto Maple Leafs,4,Phoenix Coyotes,2,"14,476",NaN,NaN,0
+2014-01-20,Florida Panthers,5,Pittsburgh Penguins,1,"18,660",NaN,NaN,0
+2014-01-20,Calgary Flames,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2014-01-21,Winnipeg Jets,3,Anaheim Ducks,2,"15,046",NaN,NaN,0
+2014-01-21,Florida Panthers,4,Buffalo Sabres,3,"17,583",NaN,NaN,0
+2014-01-21,Los Angeles Kings,3,Columbus Blue Jackets,5,"13,286",NaN,NaN,0
+2014-01-21,Toronto Maple Leafs,5,Colorado Avalanche,2,"14,877",NaN,NaN,0
+2014-01-21,Minnesota Wild,0,Dallas Stars,4,"11,191",NaN,NaN,0
+2014-01-21,Vancouver Canucks,2,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2014-01-21,St. Louis Blues,1,New Jersey Devils,7,"11,432",NaN,NaN,0
+2014-01-21,New York Islanders,5,New York Rangers,3,"18,006",NaN,NaN,0
+2014-01-21,Ottawa Senators,2,Washington Capitals,0,"18,506",NaN,NaN,0
+2014-01-22,Phoenix Coyotes,2,Calgary Flames,3,"19,289",NaN,NaN,0
+2014-01-22,Chicago Blackhawks,4,Detroit Red Wings,5,"20,066",NaN,SO,0
+2014-01-22,Carolina Hurricanes,3,Philadelphia Flyers,2,"19,592",NaN,NaN,0
+2014-01-22,Montreal Canadiens,1,Pittsburgh Penguins,5,"18,617",NaN,NaN,0
+2014-01-23,Los Angeles Kings,1,Anaheim Ducks,2,"17,503",NaN,NaN,0
+2014-01-23,Carolina Hurricanes,5,Buffalo Sabres,3,"18,468",NaN,NaN,0
+2014-01-23,Philadelphia Flyers,2,Columbus Blue Jackets,5,"15,571",NaN,NaN,0
+2014-01-23,Toronto Maple Leafs,1,Dallas Stars,7,"13,678",NaN,NaN,0
+2014-01-23,Chicago Blackhawks,1,Minnesota Wild,2,"19,226",NaN,NaN,0
+2014-01-23,Pittsburgh Penguins,6,New York Islanders,4,"15,012",NaN,NaN,0
+2014-01-23,St. Louis Blues,2,New York Rangers,1,"18,006",NaN,NaN,0
+2014-01-23,Winnipeg Jets,0,San Jose Sharks,1,"17,562",NaN,NaN,0
+2014-01-23,Ottawa Senators,3,Tampa Bay Lightning,4,"18,751",NaN,SO,0
+2014-01-23,Nashville Predators,2,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2014-01-24,Nashville Predators,4,Calgary Flames,5,"19,289",NaN,SO,0
+2014-01-24,Montreal Canadiens,1,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2014-01-24,Phoenix Coyotes,4,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2014-01-24,Colorado Avalanche,3,Florida Panthers,2,"17,274",NaN,NaN,0
+2014-01-24,Washington Capitals,1,New Jersey Devils,2,"15,742",NaN,NaN,0
+2014-01-25,Ottawa Senators,3,Carolina Hurricanes,6,"11,458",NaN,NaN,0
+2014-01-25,Buffalo Sabres,5,Columbus Blue Jackets,2,"16,272",NaN,NaN,0
+2014-01-25,Pittsburgh Penguins,0,Dallas Stars,3,"18,532",NaN,NaN,0
+2014-01-25,Anaheim Ducks,3,Los Angeles Kings,0,"54,099",NaN,NaN,0
+2014-01-25,Washington Capitals,5,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2014-01-25,St. Louis Blues,4,New York Islanders,3,"15,888",NaN,SO,0
+2014-01-25,Boston Bruins,6,Philadelphia Flyers,1,"19,938",NaN,NaN,0
+2014-01-25,Minnesota Wild,2,San Jose Sharks,3,"17,562",NaN,OT,0
+2014-01-25,Colorado Avalanche,2,Tampa Bay Lightning,5,"19,204",NaN,NaN,0
+2014-01-25,Toronto Maple Leafs,4,Winnipeg Jets,5,"15,004",NaN,OT,0
+2014-01-26,Winnipeg Jets,3,Chicago Blackhawks,1,"21,841",NaN,NaN,0
+2014-01-26,Florida Panthers,5,Detroit Red Wings,4,"20,066",NaN,SO,0
+2014-01-26,Nashville Predators,1,Edmonton Oilers,5,"16,839",NaN,NaN,0
+2014-01-26,New York Rangers,7,New Jersey Devils,3,"50,105",NaN,NaN,0
+2014-01-26,Phoenix Coyotes,4,Vancouver Canucks,5,"18,910",NaN,OT,0
+2014-01-27,Columbus Blue Jackets,2,Carolina Hurricanes,3,"13,641",NaN,NaN,0
+2014-01-27,Colorado Avalanche,4,Dallas Stars,3,"11,678",NaN,NaN,0
+2014-01-27,Boston Bruins,6,New York Islanders,3,"13,819",NaN,NaN,0
+2014-01-27,Buffalo Sabres,0,Pittsburgh Penguins,3,"18,563",NaN,NaN,0
+2014-01-27,Los Angeles Kings,1,San Jose Sharks,0,"17,562",NaN,NaN,0
+2014-01-27,Edmonton Oilers,4,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-01-28,Minnesota Wild,4,Anaheim Ducks,2,"15,020",NaN,NaN,0
+2014-01-28,Florida Panthers,2,Boston Bruins,6,"17,565",NaN,NaN,0
+2014-01-28,Washington Capitals,5,Buffalo Sabres,4,"18,923",NaN,OT,0
+2014-01-28,Ottawa Senators,3,Columbus Blue Jackets,2,"13,373",NaN,NaN,0
+2014-01-28,Chicago Blackhawks,4,Calgary Flames,5,"19,289",NaN,OT,0
+2014-01-28,Carolina Hurricanes,0,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2014-01-28,Detroit Red Wings,0,Philadelphia Flyers,5,"19,987",NaN,NaN,0
+2014-01-28,Los Angeles Kings,0,Phoenix Coyotes,3,"13,681",NaN,NaN,0
+2014-01-28,New Jersey Devils,0,St. Louis Blues,3,"16,099",NaN,NaN,0
+2014-01-28,Tampa Bay Lightning,2,Toronto Maple Leafs,3,"19,475",NaN,NaN,0
+2014-01-28,Nashville Predators,4,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2014-01-29,San Jose Sharks,0,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2014-01-29,New York Rangers,2,New York Islanders,1,"50,027",NaN,NaN,0
+2014-01-29,Chicago Blackhawks,5,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-01-30,Philadelphia Flyers,3,Anaheim Ducks,5,"16,007",NaN,NaN,0
+2014-01-30,Montreal Canadiens,4,Boston Bruins,1,"17,565",NaN,NaN,0
+2014-01-30,Washington Capitals,2,Columbus Blue Jackets,5,"16,047",NaN,NaN,0
+2014-01-30,San Jose Sharks,1,Calgary Flames,4,"19,289",NaN,NaN,0
+2014-01-30,Minnesota Wild,4,Colorado Avalanche,5,"14,697",NaN,NaN,0
+2014-01-30,New Jersey Devils,3,Dallas Stars,2,"14,237",NaN,OT,0
+2014-01-30,Pittsburgh Penguins,4,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2014-01-30,Tampa Bay Lightning,3,Ottawa Senators,5,"19,757",NaN,NaN,0
+2014-01-30,Buffalo Sabres,3,Phoenix Coyotes,2,"13,000",NaN,NaN,0
+2014-01-30,Florida Panthers,3,Toronto Maple Leafs,6,"19,448",NaN,NaN,0
+2014-01-31,St. Louis Blues,1,Carolina Hurricanes,3,"16,035",NaN,NaN,0
+2014-01-31,Washington Capitals,3,Detroit Red Wings,4,"20,066",NaN,SO,0
+2014-01-31,New Jersey Devils,2,Nashville Predators,3,"17,207",NaN,OT,0
+2014-01-31,New York Islanders,1,New York Rangers,4,"18,006",NaN,NaN,0
+2014-01-31,Vancouver Canucks,3,Winnipeg Jets,4,"15,004",NaN,NaN,0
+2014-02-01,Dallas Stars,2,Anaheim Ducks,0,"17,174",NaN,NaN,0
+2014-02-01,Edmonton Oilers,0,Boston Bruins,4,"17,565",NaN,NaN,0
+2014-02-01,Florida Panthers,1,Columbus Blue Jackets,4,"16,762",NaN,NaN,0
+2014-02-01,Minnesota Wild,3,Calgary Flames,4,"19,289",NaN,OT,0
+2014-02-01,Buffalo Sabres,1,Colorado Avalanche,7,"16,649",NaN,NaN,0
+2014-02-01,Philadelphia Flyers,2,Los Angeles Kings,0,"18,118",NaN,NaN,0
+2014-02-01,Tampa Bay Lightning,2,Montreal Canadiens,1,"21,273",NaN,OT,0
+2014-02-01,Pittsburgh Penguins,1,Phoenix Coyotes,3,"17,362",NaN,NaN,0
+2014-02-01,Chicago Blackhawks,1,San Jose Sharks,2,"17,562",NaN,SO,0
+2014-02-01,Nashville Predators,3,St. Louis Blues,4,"19,358",NaN,SO,0
+2014-02-01,Ottawa Senators,3,Toronto Maple Leafs,6,"19,613",NaN,NaN,0
+2014-02-02,Winnipeg Jets,2,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2014-02-02,Detroit Red Wings,5,Washington Capitals,6,"18,506",NaN,OT,0
+2014-02-03,Columbus Blue Jackets,4,Anaheim Ducks,2,"14,044",NaN,NaN,0
+2014-02-03,Edmonton Oilers,3,Buffalo Sabres,2,"18,531",NaN,NaN,0
+2014-02-03,Vancouver Canucks,0,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2014-02-03,Chicago Blackhawks,5,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2014-02-03,Colorado Avalanche,2,New Jersey Devils,1,"14,213",NaN,OT,0
+2014-02-03,Ottawa Senators,1,Pittsburgh Penguins,2,"18,579",NaN,OT,0
+2014-02-03,Philadelphia Flyers,5,San Jose Sharks,2,"17,562",NaN,NaN,0
+2014-02-04,Vancouver Canucks,1,Boston Bruins,3,"17,565",NaN,NaN,0
+2014-02-04,Winnipeg Jets,2,Carolina Hurricanes,1,"14,033",NaN,NaN,0
+2014-02-04,Toronto Maple Leafs,1,Florida Panthers,4,"15,583",NaN,NaN,0
+2014-02-04,Tampa Bay Lightning,1,Minnesota Wild,2,"18,454",NaN,NaN,0
+2014-02-04,Calgary Flames,0,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2014-02-04,Colorado Avalanche,1,New York Rangers,5,"18,006",NaN,NaN,0
+2014-02-04,Dallas Stars,3,Phoenix Coyotes,1,"12,257",NaN,NaN,0
+2014-02-04,Ottawa Senators,5,St. Louis Blues,4,"14,758",NaN,SO,0
+2014-02-04,New York Islanders,1,Washington Capitals,0,"18,506",NaN,NaN,0
+2014-02-05,Chicago Blackhawks,2,Anaheim Ducks,0,"17,446",NaN,NaN,0
+2014-02-05,Pittsburgh Penguins,5,Buffalo Sabres,1,"18,408",NaN,NaN,0
+2014-02-05,Dallas Stars,1,San Jose Sharks,2,"17,562",NaN,OT,0
+2014-02-06,Detroit Red Wings,3,Florida Panthers,1,"15,623",NaN,NaN,0
+2014-02-06,Columbus Blue Jackets,1,Los Angeles Kings,2,"18,118",NaN,OT,0
+2014-02-06,Nashville Predators,2,Minnesota Wild,3,"18,766",NaN,OT,0
+2014-02-06,Vancouver Canucks,2,Montreal Canadiens,5,"21,273",NaN,NaN,0
+2014-02-06,Calgary Flames,4,New York Islanders,2,"12,888",NaN,NaN,0
+2014-02-06,Edmonton Oilers,2,New York Rangers,1,"18,006",NaN,NaN,0
+2014-02-06,Buffalo Sabres,2,Ottawa Senators,3,"18,426",NaN,NaN,0
+2014-02-06,Colorado Avalanche,1,Philadelphia Flyers,3,"19,982",NaN,NaN,0
+2014-02-06,Boston Bruins,2,St. Louis Blues,3,"19,671",NaN,OT,0
+2014-02-06,Toronto Maple Leafs,4,Tampa Bay Lightning,1,"19,204",NaN,NaN,0
+2014-02-06,Winnipeg Jets,2,Washington Capitals,4,"18,506",NaN,NaN,0
+2014-02-07,Florida Panthers,1,Carolina Hurricanes,5,"16,132",NaN,NaN,0
+2014-02-07,Edmonton Oilers,1,New Jersey Devils,2,"16,592",NaN,OT,0
+2014-02-07,Chicago Blackhawks,0,Phoenix Coyotes,2,"17,525",NaN,NaN,0
+2014-02-07,New York Rangers,4,Pittsburgh Penguins,3,"18,661",NaN,SO,0
+2014-02-07,Columbus Blue Jackets,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2014-02-08,Ottawa Senators,2,Boston Bruins,7,"17,565",NaN,NaN,0
+2014-02-08,Montreal Canadiens,4,Carolina Hurricanes,1,"18,680",NaN,NaN,0
+2014-02-08,Phoenix Coyotes,1,Dallas Stars,2,"18,532",NaN,NaN,0
+2014-02-08,Anaheim Ducks,5,Nashville Predators,2,"17,139",NaN,NaN,0
+2014-02-08,Colorado Avalanche,5,New York Islanders,2,"15,360",NaN,NaN,0
+2014-02-08,Calgary Flames,1,Philadelphia Flyers,2,"19,874",NaN,NaN,0
+2014-02-08,Winnipeg Jets,3,St. Louis Blues,4,"19,052",NaN,SO,0
+2014-02-08,Detroit Red Wings,2,Tampa Bay Lightning,4,"19,204",NaN,NaN,0
+2014-02-08,Vancouver Canucks,1,Toronto Maple Leafs,3,"19,662",NaN,NaN,0
+2014-02-08,New Jersey Devils,0,Washington Capitals,3,"18,506",NaN,NaN,0
+2014-02-25,Carolina Hurricanes,2,Buffalo Sabres,3,"18,719",NaN,NaN,0
+2014-02-26,Boston Bruins,4,Buffalo Sabres,5,"19,070",NaN,OT,0
+2014-02-26,Los Angeles Kings,6,Colorado Avalanche,4,"16,754",NaN,NaN,0
+2014-02-26,Detroit Red Wings,2,Montreal Canadiens,1,"21,273",NaN,OT,0
+2014-02-26,St. Louis Blues,0,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2014-02-27,Los Angeles Kings,2,Calgary Flames,0,"19,289",NaN,NaN,0
+2014-02-27,Carolina Hurricanes,1,Dallas Stars,4,"16,122",NaN,NaN,0
+2014-02-27,Minnesota Wild,3,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2014-02-27,Washington Capitals,5,Florida Panthers,4,"14,180",NaN,NaN,0
+2014-02-27,Columbus Blue Jackets,2,New Jersey Devils,5,"15,185",NaN,NaN,0
+2014-02-27,Tampa Bay Lightning,2,Nashville Predators,3,"17,113",NaN,NaN,0
+2014-02-27,Toronto Maple Leafs,4,New York Islanders,5,"13,922",NaN,OT,0
+2014-02-27,Chicago Blackhawks,1,New York Rangers,2,"18,006",NaN,NaN,0
+2014-02-27,Detroit Red Wings,6,Ottawa Senators,1,"18,931",NaN,NaN,0
+2014-02-27,San Jose Sharks,7,Philadelphia Flyers,3,"19,879",NaN,NaN,0
+2014-02-27,Montreal Canadiens,6,Pittsburgh Penguins,5,"18,636",NaN,SO,0
+2014-02-27,Phoenix Coyotes,2,Winnipeg Jets,3,"15,004",NaN,SO,0
+2014-02-28,St. Louis Blues,0,Anaheim Ducks,1,"17,369",NaN,NaN,0
+2014-02-28,San Jose Sharks,2,Buffalo Sabres,4,"19,070",NaN,NaN,0
+2014-02-28,Phoenix Coyotes,2,Colorado Avalanche,4,"17,649",NaN,NaN,0
+2014-02-28,Minnesota Wild,2,Vancouver Canucks,1,"18,910",NaN,SO,0
+2014-03-01,Washington Capitals,4,Boston Bruins,2,"17,565",NaN,NaN,0
+2014-03-01,Florida Panthers,3,Columbus Blue Jackets,6,"15,441",NaN,NaN,0
+2014-03-01,Pittsburgh Penguins,1,Chicago Blackhawks,5,"62,921",NaN,NaN,0
+2014-03-01,Tampa Bay Lightning,4,Dallas Stars,2,"15,897",NaN,NaN,0
+2014-03-01,Calgary Flames,2,Edmonton Oilers,1,"16,839",NaN,OT,0
+2014-03-01,Carolina Hurricanes,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2014-03-01,Toronto Maple Leafs,3,Montreal Canadiens,4,"21,273",NaN,OT,0
+2014-03-01,Winnipeg Jets,3,Nashville Predators,1,"17,113",NaN,NaN,0
+2014-03-01,New Jersey Devils,6,New York Islanders,1,"15,512",NaN,NaN,0
+2014-03-01,New York Rangers,2,Philadelphia Flyers,4,"19,988",NaN,NaN,0
+2014-03-02,Carolina Hurricanes,3,Anaheim Ducks,5,"17,174",NaN,NaN,0
+2014-03-02,Tampa Bay Lightning,3,Colorado Avalanche,6,"15,592",NaN,NaN,0
+2014-03-02,San Jose Sharks,4,New Jersey Devils,2,"16,012",NaN,NaN,0
+2014-03-02,Florida Panthers,5,New York Islanders,3,"13,008",NaN,NaN,0
+2014-03-02,Boston Bruins,6,New York Rangers,3,"18,006",NaN,NaN,0
+2014-03-02,St. Louis Blues,4,Phoenix Coyotes,2,"13,955",NaN,NaN,0
+2014-03-02,Ottawa Senators,4,Vancouver Canucks,2,"54,194",NaN,NaN,0
+2014-03-02,Philadelphia Flyers,5,Washington Capitals,4,"18,506",NaN,OT,0
+2014-03-03,Buffalo Sabres,2,Dallas Stars,3,"14,235",NaN,NaN,0
+2014-03-03,Montreal Canadiens,1,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2014-03-03,Calgary Flames,2,Minnesota Wild,3,"18,543",NaN,NaN,0
+2014-03-03,Columbus Blue Jackets,2,Toronto Maple Leafs,1,"19,577",NaN,NaN,0
+2014-03-04,Florida Panthers,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2014-03-04,Dallas Stars,2,Columbus Blue Jackets,4,"15,661",NaN,NaN,0
+2014-03-04,Colorado Avalanche,4,Chicago Blackhawks,2,"21,361",NaN,NaN,0
+2014-03-04,Ottawa Senators,2,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2014-03-04,Detroit Red Wings,3,New Jersey Devils,4,"16,592",NaN,NaN,0
+2014-03-04,Pittsburgh Penguins,3,Nashville Predators,1,"17,113",NaN,NaN,0
+2014-03-04,Vancouver Canucks,0,Phoenix Coyotes,1,"13,449",NaN,NaN,0
+2014-03-04,Carolina Hurricanes,3,San Jose Sharks,2,"17,562",NaN,OT,0
+2014-03-04,Tampa Bay Lightning,2,St. Louis Blues,4,"18,602",NaN,NaN,0
+2014-03-04,New York Islanders,3,Winnipeg Jets,2,"15,004",NaN,OT,0
+2014-03-05,Montreal Canadiens,4,Anaheim Ducks,3,"17,174",NaN,SO,0
+2014-03-05,Ottawa Senators,1,Calgary Flames,4,"19,289",NaN,NaN,0
+2014-03-05,Toronto Maple Leafs,3,New York Rangers,2,"18,006",NaN,OT,0
+2014-03-05,Washington Capitals,4,Philadelphia Flyers,6,"19,919",NaN,NaN,0
+2014-03-06,Washington Capitals,0,Boston Bruins,3,"17,565",NaN,NaN,0
+2014-03-06,Columbus Blue Jackets,1,Chicago Blackhawks,6,"21,179",NaN,NaN,0
+2014-03-06,Vancouver Canucks,1,Dallas Stars,6,"14,634",NaN,NaN,0
+2014-03-06,Colorado Avalanche,3,Detroit Red Wings,2,"20,066",NaN,OT,0
+2014-03-06,New York Islanders,2,Edmonton Oilers,3,"16,839",NaN,OT,0
+2014-03-06,St. Louis Blues,2,Nashville Predators,1,"16,180",NaN,NaN,0
+2014-03-06,Montreal Canadiens,2,Phoenix Coyotes,5,"15,282",NaN,NaN,0
+2014-03-06,Pittsburgh Penguins,3,San Jose Sharks,5,"17,562",NaN,NaN,0
+2014-03-06,Buffalo Sabres,3,Tampa Bay Lightning,1,"19,204",NaN,NaN,0
+2014-03-06,Los Angeles Kings,3,Winnipeg Jets,1,"15,004",NaN,NaN,0
+2014-03-07,Pittsburgh Penguins,3,Anaheim Ducks,2,"17,518",NaN,SO,0
+2014-03-07,New York Rangers,4,Carolina Hurricanes,2,"17,547",NaN,NaN,0
+2014-03-07,New York Islanders,3,Calgary Flames,4,"19,289",NaN,NaN,0
+2014-03-07,New Jersey Devils,4,Detroit Red Wings,7,"20,066",NaN,NaN,0
+2014-03-07,Buffalo Sabres,0,Florida Panthers,2,"14,402",NaN,NaN,0
+2014-03-08,St. Louis Blues,2,Colorado Avalanche,1,"18,137",NaN,NaN,0
+2014-03-08,Minnesota Wild,3,Dallas Stars,4,"19,109",NaN,NaN,0
+2014-03-08,Carolina Hurricanes,4,New Jersey Devils,5,"16,162",NaN,NaN,0
+2014-03-08,Columbus Blue Jackets,1,Nashville Predators,0,"17,113",NaN,NaN,0
+2014-03-08,Montreal Canadiens,0,San Jose Sharks,4,"17,562",NaN,NaN,0
+2014-03-08,Boston Bruins,4,Tampa Bay Lightning,3,"19,204",NaN,SO,0
+2014-03-08,Philadelphia Flyers,3,Toronto Maple Leafs,4,"19,583",NaN,OT,0
+2014-03-08,Calgary Flames,1,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-03-08,Ottawa Senators,5,Winnipeg Jets,3,"15,004",NaN,NaN,0
+2014-03-08,Phoenix Coyotes,2,Washington Capitals,3,"18,506",NaN,NaN,0
+2014-03-09,Chicago Blackhawks,2,Buffalo Sabres,1,"19,070",NaN,NaN,0
+2014-03-09,Los Angeles Kings,4,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2014-03-09,Boston Bruins,5,Florida Panthers,2,"18,858",NaN,NaN,0
+2014-03-09,St. Louis Blues,3,Minnesota Wild,2,"18,909",NaN,SO,0
+2014-03-09,Detroit Red Wings,0,New York Rangers,3,"18,006",NaN,NaN,0
+2014-03-10,Toronto Maple Leafs,3,Anaheim Ducks,1,"17,229",NaN,NaN,0
+2014-03-10,Los Angeles Kings,3,Calgary Flames,2,"19,289",NaN,NaN,0
+2014-03-10,Winnipeg Jets,2,Colorado Avalanche,3,"15,250",NaN,OT,0
+2014-03-10,Nashville Predators,4,Ottawa Senators,3,"19,063",NaN,OT,0
+2014-03-10,Phoenix Coyotes,4,Tampa Bay Lightning,3,"18,167",NaN,SO,0
+2014-03-10,New York Islanders,7,Vancouver Canucks,4,"18,910",NaN,NaN,0
+2014-03-10,Pittsburgh Penguins,3,Washington Capitals,2,"18,506",NaN,NaN,0
+2014-03-11,Nashville Predators,4,Buffalo Sabres,1,"18,659",NaN,NaN,0
+2014-03-11,New York Rangers,1,Carolina Hurricanes,3,"15,667",NaN,NaN,0
+2014-03-11,Detroit Red Wings,1,Columbus Blue Jackets,4,"14,330",NaN,NaN,0
+2014-03-11,Phoenix Coyotes,3,Florida Panthers,1,"12,211",NaN,NaN,0
+2014-03-11,Edmonton Oilers,4,Minnesota Wild,3,"18,650",NaN,SO,0
+2014-03-11,New Jersey Devils,2,Philadelphia Flyers,1,"19,967",NaN,NaN,0
+2014-03-11,Washington Capitals,0,Pittsburgh Penguins,2,"18,646",NaN,NaN,0
+2014-03-11,Toronto Maple Leafs,2,San Jose Sharks,6,"17,562",NaN,NaN,0
+2014-03-11,Dallas Stars,3,St. Louis Blues,2,"16,763",NaN,OT,0
+2014-03-12,Anaheim Ducks,2,Calgary Flames,7,"19,289",NaN,NaN,0
+2014-03-12,Chicago Blackhawks,2,Colorado Avalanche,3,"18,007",NaN,NaN,0
+2014-03-12,Boston Bruins,4,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2014-03-12,Vancouver Canucks,3,Winnipeg Jets,2,"15,004",NaN,SO,0
+2014-03-13,Phoenix Coyotes,1,Boston Bruins,2,"17,565",NaN,NaN,0
+2014-03-13,Buffalo Sabres,2,Carolina Hurricanes,4,"13,654",NaN,NaN,0
+2014-03-13,San Jose Sharks,4,Columbus Blue Jackets,3,"13,851",NaN,SO,0
+2014-03-13,Toronto Maple Leafs,3,Los Angeles Kings,2,"18,319",NaN,NaN,0
+2014-03-13,New York Rangers,1,Minnesota Wild,2,"18,885",NaN,NaN,0
+2014-03-13,Edmonton Oilers,2,St. Louis Blues,6,"18,084",NaN,NaN,0
+2014-03-13,Florida Panthers,4,Tampa Bay Lightning,5,"18,324",NaN,NaN,0
+2014-03-14,Nashville Predators,3,Chicago Blackhawks,2,"22,106",NaN,NaN,0
+2014-03-14,Anaheim Ducks,6,Colorado Avalanche,4,"18,030",NaN,NaN,0
+2014-03-14,Calgary Flames,4,Dallas Stars,3,"18,532",NaN,SO,0
+2014-03-14,Edmonton Oilers,1,Detroit Red Wings,2,"20,066",NaN,SO,0
+2014-03-14,New Jersey Devils,3,Florida Panthers,5,"14,496",NaN,NaN,0
+2014-03-14,San Jose Sharks,4,New York Islanders,3,"13,128",NaN,NaN,0
+2014-03-14,New York Rangers,4,Winnipeg Jets,2,"15,004",NaN,NaN,0
+2014-03-14,Vancouver Canucks,3,Washington Capitals,4,"18,506",NaN,NaN,0
+2014-03-15,Carolina Hurricanes,1,Boston Bruins,5,"17,565",NaN,NaN,0
+2014-03-15,Anaheim Ducks,2,Los Angeles Kings,1,"18,278",NaN,NaN,0
+2014-03-15,Columbus Blue Jackets,2,Minnesota Wild,1,"19,042",NaN,SO,0
+2014-03-15,Ottawa Senators,4,Montreal Canadiens,5,"21,273",NaN,OT,0
+2014-03-15,St. Louis Blues,4,Nashville Predators,1,"17,113",NaN,NaN,0
+2014-03-15,Buffalo Sabres,1,New York Islanders,4,"14,388",NaN,NaN,0
+2014-03-15,Pittsburgh Penguins,0,Philadelphia Flyers,4,"19,993",NaN,NaN,0
+2014-03-15,Calgary Flames,2,Phoenix Coyotes,3,"16,373",NaN,NaN,0
+2014-03-15,New Jersey Devils,0,Tampa Bay Lightning,3,"19,204",NaN,NaN,0
+2014-03-16,Montreal Canadiens,2,Buffalo Sabres,0,"19,070",NaN,NaN,0
+2014-03-16,Edmonton Oilers,2,Carolina Hurricanes,1,"16,588",NaN,NaN,0
+2014-03-16,Detroit Red Wings,1,Chicago Blackhawks,4,"22,128",NaN,NaN,0
+2014-03-16,Vancouver Canucks,4,Florida Panthers,3,"14,215",NaN,SO,0
+2014-03-16,San Jose Sharks,1,New York Rangers,0,"18,006",NaN,NaN,0
+2014-03-16,Colorado Avalanche,3,Ottawa Senators,1,"19,501",NaN,NaN,0
+2014-03-16,Philadelphia Flyers,4,Pittsburgh Penguins,3,"18,647",NaN,NaN,0
+2014-03-16,Dallas Stars,2,Winnipeg Jets,7,"15,004",NaN,NaN,0
+2014-03-16,Toronto Maple Leafs,2,Washington Capitals,4,"18,506",NaN,NaN,0
+2014-03-17,Minnesota Wild,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2014-03-17,Phoenix Coyotes,4,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2014-03-17,Winnipeg Jets,1,St. Louis Blues,3,"16,665",NaN,NaN,0
+2014-03-17,Vancouver Canucks,3,Tampa Bay Lightning,4,"19,204",NaN,NaN,0
+2014-03-18,Washington Capitals,3,Anaheim Ducks,2,"17,174",NaN,NaN,0
+2014-03-18,Carolina Hurricanes,3,Columbus Blue Jackets,1,"15,938",NaN,NaN,0
+2014-03-18,Buffalo Sabres,1,Calgary Flames,3,"19,289",NaN,NaN,0
+2014-03-18,Toronto Maple Leafs,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2014-03-18,Nashville Predators,1,Edmonton Oilers,5,"16,839",NaN,NaN,0
+2014-03-18,Colorado Avalanche,3,Montreal Canadiens,6,"21,273",NaN,NaN,0
+2014-03-18,Boston Bruins,4,New Jersey Devils,2,"16,138",NaN,NaN,0
+2014-03-18,Minnesota Wild,6,New York Islanders,0,"14,888",NaN,NaN,0
+2014-03-18,New York Rangers,8,Ottawa Senators,4,"17,326",NaN,NaN,0
+2014-03-18,Chicago Blackhawks,2,Philadelphia Flyers,3,"19,932",NaN,OT,0
+2014-03-18,Dallas Stars,1,Pittsburgh Penguins,5,"18,659",NaN,NaN,0
+2014-03-18,Florida Panthers,3,San Jose Sharks,2,"17,562",NaN,NaN,0
+2014-03-19,St. Louis Blues,0,Chicago Blackhawks,4,"21,640",NaN,NaN,0
+2014-03-19,Tampa Bay Lightning,5,Toronto Maple Leafs,3,"19,585",NaN,NaN,0
+2014-03-19,Nashville Predators,0,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-03-19,Colorado Avalanche,4,Winnipeg Jets,5,"15,004",NaN,OT,0
+2014-03-20,Pittsburgh Penguins,4,Detroit Red Wings,5,"20,066",NaN,OT,0
+2014-03-20,Buffalo Sabres,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2014-03-20,Washington Capitals,1,Los Angeles Kings,2,"18,118",NaN,SO,0
+2014-03-20,Columbus Blue Jackets,3,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2014-03-20,Minnesota Wild,3,New Jersey Devils,4,"14,772",NaN,OT,0
+2014-03-20,Tampa Bay Lightning,5,Ottawa Senators,4,"17,136",NaN,NaN,0
+2014-03-20,Dallas Stars,2,Philadelphia Flyers,4,"19,831",NaN,NaN,0
+2014-03-20,Florida Panthers,1,Phoenix Coyotes,2,"14,442",NaN,NaN,0
+2014-03-20,Anaheim Ducks,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2014-03-21,New York Rangers,3,Columbus Blue Jackets,1,"18,513",NaN,NaN,0
+2014-03-21,Nashville Predators,6,Calgary Flames,5,"19,289",NaN,NaN,0
+2014-03-21,Carolina Hurricanes,2,Chicago Blackhawks,3,"21,857",NaN,NaN,0
+2014-03-21,Boston Bruins,2,Colorado Avalanche,0,"18,007",NaN,NaN,0
+2014-03-22,Ottawa Senators,1,Dallas Stars,3,"16,714",NaN,NaN,0
+2014-03-22,Calgary Flames,8,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2014-03-22,Florida Panthers,0,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2014-03-22,Detroit Red Wings,3,Minnesota Wild,2,"19,176",NaN,NaN,0
+2014-03-22,New York Rangers,2,New Jersey Devils,0,"17,829",NaN,NaN,0
+2014-03-22,St. Louis Blues,1,Philadelphia Flyers,4,"19,942",NaN,NaN,0
+2014-03-22,Boston Bruins,4,Phoenix Coyotes,2,"17,468",NaN,NaN,0
+2014-03-22,Tampa Bay Lightning,3,Pittsburgh Penguins,4,"18,668",NaN,OT,0
+2014-03-22,Washington Capitals,3,San Jose Sharks,2,"17,562",NaN,SO,0
+2014-03-22,Montreal Canadiens,4,Toronto Maple Leafs,3,"19,789",NaN,NaN,0
+2014-03-22,Carolina Hurricanes,3,Winnipeg Jets,2,"15,004",NaN,NaN,0
+2014-03-23,Florida Panthers,2,Anaheim Ducks,6,"17,281",NaN,NaN,0
+2014-03-23,Nashville Predators,2,Chicago Blackhawks,0,"21,727",NaN,NaN,0
+2014-03-23,Minnesota Wild,4,Detroit Red Wings,3,"20,066",NaN,OT,0
+2014-03-23,Toronto Maple Leafs,2,New Jersey Devils,3,"15,328",NaN,NaN,0
+2014-03-23,Columbus Blue Jackets,0,New York Islanders,2,"15,008",NaN,NaN,0
+2014-03-23,St. Louis Blues,1,Pittsburgh Penguins,0,"18,662",NaN,NaN,0
+2014-03-23,Buffalo Sabres,2,Vancouver Canucks,4,"18,910",NaN,NaN,0
+2014-03-24,Montreal Canadiens,2,Boston Bruins,1,"17,565",NaN,SO,0
+2014-03-24,San Jose Sharks,1,Calgary Flames,2,"19,829",NaN,SO,0
+2014-03-24,Winnipeg Jets,1,Dallas Stars,2,"15,967",NaN,NaN,0
+2014-03-24,Phoenix Coyotes,3,New York Rangers,4,"18,006",NaN,OT,0
+2014-03-24,Los Angeles Kings,3,Philadelphia Flyers,2,"19,876",NaN,NaN,0
+2014-03-24,Ottawa Senators,4,Tampa Bay Lightning,3,"18,486",NaN,SO,0
+2014-03-25,New York Islanders,5,Carolina Hurricanes,4,"15,176",NaN,NaN,0
+2014-03-25,Detroit Red Wings,2,Columbus Blue Jackets,4,"15,103",NaN,NaN,0
+2014-03-25,Dallas Stars,2,Chicago Blackhawks,4,"21,493",NaN,NaN,0
+2014-03-25,San Jose Sharks,5,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2014-03-25,Ottawa Senators,2,Florida Panthers,3,"13,435",NaN,SO,0
+2014-03-25,Buffalo Sabres,0,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2014-03-25,Colorado Avalanche,5,Nashville Predators,4,"16,438",NaN,SO,0
+2014-03-25,Phoenix Coyotes,3,Pittsburgh Penguins,2,"18,632",NaN,NaN,0
+2014-03-25,St. Louis Blues,5,Toronto Maple Leafs,3,"19,505",NaN,NaN,0
+2014-03-25,Los Angeles Kings,5,Washington Capitals,4,"18,506",NaN,SO,0
+2014-03-26,Anaheim Ducks,3,Calgary Flames,2,"19,289",NaN,NaN,0
+2014-03-26,Vancouver Canucks,5,Minnesota Wild,2,"19,014",NaN,NaN,0
+2014-03-26,Philadelphia Flyers,1,New York Rangers,3,"18,006",NaN,NaN,0
+2014-03-27,Chicago Blackhawks,0,Boston Bruins,3,"17,565",NaN,NaN,0
+2014-03-27,Vancouver Canucks,2,Colorado Avalanche,3,"16,965",NaN,OT,0
+2014-03-27,Montreal Canadiens,5,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2014-03-27,Carolina Hurricanes,3,Florida Panthers,0,"12,379",NaN,NaN,0
+2014-03-27,Phoenix Coyotes,3,New Jersey Devils,2,"15,583",NaN,SO,0
+2014-03-27,Buffalo Sabres,1,Nashville Predators,6,"16,729",NaN,NaN,0
+2014-03-27,Los Angeles Kings,3,Pittsburgh Penguins,2,"18,650",NaN,NaN,0
+2014-03-27,Winnipeg Jets,4,San Jose Sharks,3,"17,562",NaN,NaN,0
+2014-03-27,Minnesota Wild,1,St. Louis Blues,5,"19,646",NaN,NaN,0
+2014-03-27,New York Islanders,2,Tampa Bay Lightning,3,"18,554",NaN,SO,0
+2014-03-28,Pittsburgh Penguins,2,Columbus Blue Jackets,1,"18,908",NaN,NaN,0
+2014-03-28,New York Rangers,3,Calgary Flames,4,"19,289",NaN,NaN,0
+2014-03-28,Nashville Predators,3,Dallas Stars,7,"18,532",NaN,NaN,0
+2014-03-28,Anaheim Ducks,3,Edmonton Oilers,4,"16,839",NaN,OT,0
+2014-03-28,Chicago Blackhawks,3,Ottawa Senators,5,"18,922",NaN,NaN,0
+2014-03-28,Toronto Maple Leafs,2,Philadelphia Flyers,4,"19,963",NaN,NaN,0
+2014-03-29,Tampa Bay Lightning,4,Buffalo Sabres,3,"19,070",NaN,OT,0
+2014-03-29,Columbus Blue Jackets,3,Carolina Hurricanes,2,"16,714",NaN,OT,0
+2014-03-29,San Jose Sharks,2,Colorado Avalanche,3,"18,077",NaN,NaN,0
+2014-03-29,Montreal Canadiens,4,Florida Panthers,1,"17,119",NaN,NaN,0
+2014-03-29,Winnipeg Jets,2,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2014-03-29,New Jersey Devils,1,New York Islanders,2,"15,108",NaN,SO,0
+2014-03-29,Minnesota Wild,3,Phoenix Coyotes,1,"16,691",NaN,NaN,0
+2014-03-29,Dallas Stars,4,St. Louis Blues,2,"19,703",NaN,NaN,0
+2014-03-29,Detroit Red Wings,4,Toronto Maple Leafs,2,"20,270",NaN,NaN,0
+2014-03-29,Anaheim Ducks,5,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2014-03-29,Boston Bruins,4,Washington Capitals,2,"18,506",NaN,NaN,0
+2014-03-30,Tampa Bay Lightning,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2014-03-30,New York Rangers,5,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2014-03-30,Washington Capitals,3,Nashville Predators,4,"16,553",NaN,SO,0
+2014-03-30,Calgary Flames,3,Ottawa Senators,6,"18,505",NaN,NaN,0
+2014-03-30,Boston Bruins,4,Philadelphia Flyers,3,"19,958",NaN,SO,0
+2014-03-30,Chicago Blackhawks,1,Pittsburgh Penguins,4,"18,655",NaN,NaN,0
+2014-03-31,Winnipeg Jets,4,Anaheim Ducks,5,"17,174",NaN,OT,0
+2014-03-31,Minnesota Wild,3,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2014-03-31,Florida Panthers,3,New Jersey Devils,6,"15,209",NaN,NaN,0
+2014-03-31,Carolina Hurricanes,1,Ottawa Senators,2,"16,732",NaN,SO,0
+2014-04-01,New Jersey Devils,2,Buffalo Sabres,3,"19,070",NaN,SO,0
+2014-04-01,Colorado Avalanche,3,Columbus Blue Jackets,2,"16,550",NaN,OT,0
+2014-04-01,Florida Panthers,2,New York Islanders,4,"11,812",NaN,NaN,0
+2014-04-01,Winnipeg Jets,2,Phoenix Coyotes,1,"13,724",NaN,SO,0
+2014-04-01,Carolina Hurricanes,4,Pittsburgh Penguins,1,"18,635",NaN,NaN,0
+2014-04-01,Edmonton Oilers,4,San Jose Sharks,5,"17,562",NaN,NaN,0
+2014-04-01,Philadelphia Flyers,0,St. Louis Blues,1,"18,647",NaN,SO,0
+2014-04-01,Montreal Canadiens,1,Tampa Bay Lightning,3,"18,808",NaN,NaN,0
+2014-04-01,Calgary Flames,2,Toronto Maple Leafs,3,"19,482",NaN,NaN,0
+2014-04-01,New York Rangers,3,Vancouver Canucks,1,"18,910",NaN,NaN,0
+2014-04-01,Dallas Stars,5,Washington Capitals,0,"18,506",NaN,NaN,0
+2014-04-02,Edmonton Oilers,2,Anaheim Ducks,3,"17,174",NaN,NaN,0
+2014-04-02,Boston Bruins,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2014-04-02,Phoenix Coyotes,0,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2014-04-02,New York Islanders,2,Ottawa Senators,1,"16,516",NaN,NaN,0
+2014-04-03,Dallas Stars,1,Carolina Hurricanes,4,"15,730",NaN,NaN,0
+2014-04-03,Minnesota Wild,2,Chicago Blackhawks,3,"21,791",NaN,SO,0
+2014-04-03,New York Rangers,2,Colorado Avalanche,3,"16,721",NaN,SO,0
+2014-04-03,Columbus Blue Jackets,2,Philadelphia Flyers,0,"19,981",NaN,NaN,0
+2014-04-03,Los Angeles Kings,1,San Jose Sharks,2,"17,562",NaN,NaN,0
+2014-04-03,Buffalo Sabres,1,St. Louis Blues,2,"16,146",NaN,NaN,0
+2014-04-03,Calgary Flames,4,Tampa Bay Lightning,1,"17,495",NaN,NaN,0
+2014-04-03,Boston Bruins,3,Toronto Maple Leafs,4,"19,609",NaN,OT,0
+2014-04-03,Pittsburgh Penguins,4,Winnipeg Jets,2,"15,004",NaN,NaN,0
+2014-04-04,Nashville Predators,5,Anaheim Ducks,2,"17,174",NaN,NaN,0
+2014-04-04,Chicago Blackhawks,4,Columbus Blue Jackets,3,"18,695",NaN,NaN,0
+2014-04-04,Buffalo Sabres,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2014-04-04,Calgary Flames,2,Florida Panthers,1,"12,055",NaN,NaN,0
+2014-04-04,Washington Capitals,1,New Jersey Devils,2,"15,218",NaN,NaN,0
+2014-04-04,Montreal Canadiens,7,Ottawa Senators,4,"19,241",NaN,NaN,0
+2014-04-04,Edmonton Oilers,3,Phoenix Coyotes,2,"14,732",NaN,SO,0
+2014-04-05,Philadelphia Flyers,2,Boston Bruins,5,"17,565",NaN,NaN,0
+2014-04-05,New Jersey Devils,3,Carolina Hurricanes,1,"16,123",NaN,NaN,0
+2014-04-05,Pittsburgh Penguins,0,Minnesota Wild,4,"19,409",NaN,NaN,0
+2014-04-05,Detroit Red Wings,3,Montreal Canadiens,5,"21,273",NaN,NaN,0
+2014-04-05,Washington Capitals,4,New York Islanders,3,"16,008",NaN,SO,0
+2014-04-05,Ottawa Senators,3,New York Rangers,2,"18,006",NaN,NaN,0
+2014-04-05,Nashville Predators,3,San Jose Sharks,0,"17,562",NaN,NaN,0
+2014-04-05,Colorado Avalanche,4,St. Louis Blues,0,"19,153",NaN,NaN,0
+2014-04-05,Dallas Stars,5,Tampa Bay Lightning,2,"19,204",NaN,NaN,0
+2014-04-05,Winnipeg Jets,4,Toronto Maple Leafs,2,"19,544",NaN,NaN,0
+2014-04-05,Los Angeles Kings,1,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-04-06,New York Islanders,0,Columbus Blue Jackets,4,"15,667",NaN,NaN,0
+2014-04-06,St. Louis Blues,2,Chicago Blackhawks,4,"22,184",NaN,NaN,0
+2014-04-06,Pittsburgh Penguins,3,Colorado Avalanche,2,"18,007",NaN,SO,0
+2014-04-06,Anaheim Ducks,2,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2014-04-06,Dallas Stars,2,Florida Panthers,3,"13,366",NaN,NaN,0
+2014-04-06,Buffalo Sabres,2,Philadelphia Flyers,5,"19,603",NaN,NaN,0
+2014-04-07,Calgary Flames,1,New Jersey Devils,0,"14,297",NaN,NaN,0
+2014-04-07,Anaheim Ducks,3,Vancouver Canucks,0,"18,910",NaN,NaN,0
+2014-04-07,Minnesota Wild,1,Winnipeg Jets,0,"15,004",NaN,NaN,0
+2014-04-08,Detroit Red Wings,4,Buffalo Sabres,2,"18,710",NaN,NaN,0
+2014-04-08,Phoenix Coyotes,3,Columbus Blue Jackets,4,"16,289",NaN,OT,0
+2014-04-08,Nashville Predators,2,Dallas Stars,3,"16,219",NaN,SO,0
+2014-04-08,Colorado Avalanche,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2014-04-08,Philadelphia Flyers,5,Florida Panthers,2,"12,487",NaN,NaN,0
+2014-04-08,Boston Bruins,3,Minnesota Wild,4,"18,893",NaN,SO,0
+2014-04-08,Ottawa Senators,4,New York Islanders,1,"12,922",NaN,NaN,0
+2014-04-08,Carolina Hurricanes,1,New York Rangers,4,"18,006",NaN,NaN,0
+2014-04-08,Washington Capitals,4,St. Louis Blues,1,"17,447",NaN,NaN,0
+2014-04-08,Toronto Maple Leafs,0,Tampa Bay Lightning,3,"18,896",NaN,NaN,0
+2014-04-09,San Jose Sharks,2,Anaheim Ducks,5,"17,322",NaN,NaN,0
+2014-04-09,Los Angeles Kings,3,Calgary Flames,4,"19,289",NaN,SO,0
+2014-04-09,Montreal Canadiens,2,Chicago Blackhawks,3,"21,571",NaN,OT,0
+2014-04-09,Columbus Blue Jackets,3,Dallas Stars,1,"16,125",NaN,NaN,0
+2014-04-09,Detroit Red Wings,3,Pittsburgh Penguins,4,"18,620",NaN,SO,0
+2014-04-10,Washington Capitals,5,Carolina Hurricanes,2,"15,735",NaN,NaN,0
+2014-04-10,Los Angeles Kings,3,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2014-04-10,Toronto Maple Leafs,2,Florida Panthers,4,"13,110",NaN,NaN,0
+2014-04-10,St. Louis Blues,2,Minnesota Wild,4,"18,664",NaN,NaN,0
+2014-04-10,New York Islanders,2,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2014-04-10,Phoenix Coyotes,0,Nashville Predators,2,"17,174",NaN,NaN,0
+2014-04-10,Buffalo Sabres,1,New York Rangers,2,"18,006",NaN,NaN,0
+2014-04-10,New Jersey Devils,1,Ottawa Senators,2,"19,270",NaN,SO,0
+2014-04-10,Philadelphia Flyers,2,Tampa Bay Lightning,4,"19,204",NaN,NaN,0
+2014-04-10,Colorado Avalanche,4,Vancouver Canucks,2,"18,910",NaN,NaN,0
+2014-04-10,Boston Bruins,1,Winnipeg Jets,2,"15,004",NaN,SO,0
+2014-04-11,Winnipeg Jets,5,Calgary Flames,3,"19,289",NaN,NaN,0
+2014-04-11,St. Louis Blues,0,Dallas Stars,3,"18,532",NaN,NaN,0
+2014-04-11,Carolina Hurricanes,2,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2014-04-11,New York Islanders,3,New Jersey Devils,2,"15,858",NaN,SO,0
+2014-04-11,Colorado Avalanche,1,San Jose Sharks,5,"17,562",NaN,NaN,0
+2014-04-11,Columbus Blue Jackets,2,Tampa Bay Lightning,3,"18,686",NaN,NaN,0
+2014-04-11,Chicago Blackhawks,0,Washington Capitals,4,"18,506",NaN,NaN,0
+2014-04-12,Buffalo Sabres,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2014-04-12,Vancouver Canucks,2,Edmonton Oilers,5,"16,839",NaN,NaN,0
+2014-04-12,Columbus Blue Jackets,3,Florida Panthers,2,"14,241",NaN,NaN,0
+2014-04-12,Anaheim Ducks,4,Los Angeles Kings,3,"18,372",NaN,SO,0
+2014-04-12,New York Rangers,0,Montreal Canadiens,1,"21,273",NaN,OT,0
+2014-04-12,Chicago Blackhawks,5,Nashville Predators,7,"17,355",NaN,NaN,0
+2014-04-12,Toronto Maple Leafs,0,Ottawa Senators,1,"20,500",NaN,NaN,0
+2014-04-12,San Jose Sharks,3,Phoenix Coyotes,2,"15,438",NaN,NaN,0
+2014-04-12,Philadelphia Flyers,4,Pittsburgh Penguins,3,"18,673",NaN,OT,0
+2014-04-13,Colorado Avalanche,2,Anaheim Ducks,3,"17,528",NaN,OT,0
+2014-04-13,New York Islanders,4,Buffalo Sabres,3,"18,804",NaN,SO,0
+2014-04-13,Nashville Predators,7,Minnesota Wild,3,"18,658",NaN,NaN,0
+2014-04-13,Boston Bruins,2,New Jersey Devils,3,"16,592",NaN,NaN,0
+2014-04-13,Carolina Hurricanes,6,Philadelphia Flyers,5,"19,727",NaN,SO,0
+2014-04-13,Dallas Stars,1,Phoenix Coyotes,2,"15,146",NaN,NaN,0
+2014-04-13,Ottawa Senators,3,Pittsburgh Penguins,2,"18,663",NaN,SO,0
+2014-04-13,Detroit Red Wings,3,St. Louis Blues,0,"18,430",NaN,NaN,0
+2014-04-13,Calgary Flames,1,Vancouver Canucks,5,"18,910",NaN,NaN,0
+2014-04-13,Tampa Bay Lightning,1,Washington Capitals,0,"18,506",NaN,SO,0

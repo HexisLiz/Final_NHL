@@ -1,0 +1,1231 @@
+game_date,visitor_team,visitor_goals,home_team,home_goals,attendance,game_lenght,game_decided,seasonality
+2010-10-07,Chicago Blackhawks,3,Colorado Avalanche,4,"18,007",NaN,OT,0
+2010-10-07,Calgary Flames,0,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2010-10-07,Carolina Hurricanes,4,Minnesota Wild,3,"12,355",NaN,NaN,0
+2010-10-07,Philadelphia Flyers,3,Pittsburgh Penguins,2,"18,289",NaN,NaN,0
+2010-10-07,Montreal Canadiens,2,Toronto Maple Leafs,3,"19,646",NaN,NaN,0
+2010-10-08,Washington Capitals,2,Atlanta Thrashers,4,"15,596",NaN,NaN,0
+2010-10-08,Minnesota Wild,1,Carolina Hurricanes,2,"13,465",NaN,SO,0
+2010-10-08,San Jose Sharks,3,Columbus Blue Jackets,2,"11,324",NaN,NaN,0
+2010-10-08,Anaheim Ducks,0,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2010-10-08,Dallas Stars,4,New Jersey Devils,3,"17,625",NaN,OT,0
+2010-10-08,Buffalo Sabres,2,Ottawa Senators,1,"19,350",NaN,NaN,0
+2010-10-09,Phoenix Coyotes,5,Boston Bruins,2,"15,299",NaN,NaN,0
+2010-10-09,New York Rangers,6,Buffalo Sabres,3,"18,690",NaN,NaN,0
+2010-10-09,Detroit Red Wings,3,Chicago Blackhawks,2,"22,161",NaN,NaN,0
+2010-10-09,Anaheim Ducks,1,Nashville Predators,4,"17,113",NaN,NaN,0
+2010-10-09,Dallas Stars,5,New York Islanders,4,"13,351",NaN,SO,0
+2010-10-09,Montreal Canadiens,3,Pittsburgh Penguins,2,"18,106",NaN,NaN,0
+2010-10-09,Columbus Blue Jackets,3,San Jose Sharks,2,"9,537",NaN,OT,0
+2010-10-09,Philadelphia Flyers,1,St. Louis Blues,2,"19,150",NaN,OT,0
+2010-10-09,Atlanta Thrashers,3,Tampa Bay Lightning,5,"19,791",NaN,NaN,0
+2010-10-09,Ottawa Senators,1,Toronto Maple Leafs,5,"19,157",NaN,NaN,0
+2010-10-09,Los Angeles Kings,2,Vancouver Canucks,1,"18,860",NaN,SO,0
+2010-10-09,New Jersey Devils,2,Washington Capitals,7,"18,398",NaN,NaN,0
+2010-10-10,Los Angeles Kings,1,Calgary Flames,3,"19,289",NaN,NaN,0
+2010-10-10,Florida Panthers,2,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2010-10-10,Boston Bruins,3,Phoenix Coyotes,0,"12,990",NaN,NaN,0
+2010-10-11,Chicago Blackhawks,4,Buffalo Sabres,3,"17,896",NaN,NaN,0
+2010-10-11,Pittsburgh Penguins,3,New Jersey Devils,1,"12,880",NaN,NaN,0
+2010-10-11,New York Rangers,4,New York Islanders,6,"11,748",NaN,NaN,0
+2010-10-11,Colorado Avalanche,2,Philadelphia Flyers,4,"19,652",NaN,NaN,0
+2010-10-11,Anaheim Ducks,1,St. Louis Blues,5,"19,150",NaN,NaN,0
+2010-10-11,Florida Panthers,1,Vancouver Canucks,2,"18,860",NaN,NaN,0
+2010-10-11,Ottawa Senators,2,Washington Capitals,3,"18,398",NaN,OT,0
+2010-10-12,Colorado Avalanche,5,Detroit Red Wings,4,"19,651",NaN,SO,0
+2010-10-12,Atlanta Thrashers,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2010-10-13,Vancouver Canucks,3,Anaheim Ducks,4,"17,174",NaN,NaN,0
+2010-10-13,New Jersey Devils,1,Buffalo Sabres,0,"18,690",NaN,OT,0
+2010-10-13,Nashville Predators,3,Chicago Blackhawks,2,"20,680",NaN,NaN,0
+2010-10-13,Tampa Bay Lightning,4,Montreal Canadiens,3,"21,273",NaN,OT,0
+2010-10-13,Toronto Maple Leafs,4,Pittsburgh Penguins,3,"18,112",NaN,NaN,0
+2010-10-13,New York Islanders,1,Washington Capitals,2,"18,398",NaN,NaN,0
+2010-10-14,Florida Panthers,3,Calgary Flames,0,"19,289",NaN,NaN,0
+2010-10-14,Detroit Red Wings,1,Dallas Stars,4,"18,532",NaN,NaN,0
+2010-10-14,Edmonton Oilers,2,Minnesota Wild,4,"18,449",NaN,NaN,0
+2010-10-14,St. Louis Blues,3,Nashville Predators,4,"15,103",NaN,NaN,0
+2010-10-14,Carolina Hurricanes,2,Ottawa Senators,3,"16,270",NaN,NaN,0
+2010-10-14,Tampa Bay Lightning,3,Philadelphia Flyers,2,"19,592",NaN,NaN,0
+2010-10-15,Atlanta Thrashers,5,Anaheim Ducks,4,"13,123",NaN,SO,0
+2010-10-15,Montreal Canadiens,2,Buffalo Sabres,1,"17,264",NaN,NaN,0
+2010-10-15,Chicago Blackhawks,5,Columbus Blue Jackets,2,"18,305",NaN,NaN,0
+2010-10-15,Vancouver Canucks,1,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2010-10-15,Colorado Avalanche,3,New Jersey Devils,2,"12,221",NaN,NaN,0
+2010-10-15,Toronto Maple Leafs,4,New York Rangers,3,"18,200",NaN,OT,0
+2010-10-15,New York Islanders,2,Pittsburgh Penguins,3,"18,195",NaN,OT,0
+2010-10-16,Edmonton Oilers,3,Calgary Flames,5,"19,289",NaN,NaN,0
+2010-10-16,Buffalo Sabres,3,Chicago Blackhawks,4,"21,293",NaN,NaN,0
+2010-10-16,St. Louis Blues,2,Dallas Stars,3,"11,750",NaN,SO,0
+2010-10-16,Tampa Bay Lightning,0,Florida Panthers,6,"17,040",NaN,NaN,0
+2010-10-16,Columbus Blue Jackets,3,Minnesota Wild,2,"17,336",NaN,NaN,0
+2010-10-16,Ottawa Senators,3,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2010-10-16,Boston Bruins,4,New Jersey Devils,1,"13,056",NaN,NaN,0
+2010-10-16,Washington Capitals,3,Nashville Predators,2,"16,144",NaN,OT,0
+2010-10-16,Colorado Avalanche,2,New York Islanders,5,"10,127",NaN,NaN,0
+2010-10-16,Pittsburgh Penguins,5,Philadelphia Flyers,1,"19,684",NaN,NaN,0
+2010-10-16,Detroit Red Wings,2,Phoenix Coyotes,1,"17,125",NaN,OT,0
+2010-10-16,Atlanta Thrashers,4,San Jose Sharks,2,"17,562",NaN,NaN,0
+2010-10-17,Phoenix Coyotes,2,Anaheim Ducks,3,"13,574",NaN,NaN,0
+2010-10-17,Carolina Hurricanes,1,Vancouver Canucks,5,"18,860",NaN,NaN,0
+2010-10-18,St. Louis Blues,2,Chicago Blackhawks,3,"20,641",NaN,OT,0
+2010-10-18,Colorado Avalanche,3,New York Rangers,1,"17,711",NaN,NaN,0
+2010-10-18,Ottawa Senators,2,Pittsburgh Penguins,5,"18,101",NaN,NaN,0
+2010-10-18,Dallas Stars,4,Tampa Bay Lightning,5,"13,277",NaN,NaN,0
+2010-10-18,New York Islanders,2,Toronto Maple Leafs,1,"19,086",NaN,OT,0
+2010-10-19,Vancouver Canucks,2,Minnesota Wild,6,"16,806",NaN,NaN,0
+2010-10-19,Calgary Flames,1,Nashville Predators,0,"15,684",NaN,OT,0
+2010-10-19,Carolina Hurricanes,5,San Jose Sharks,2,"17,562",NaN,NaN,0
+2010-10-19,Boston Bruins,3,Washington Capitals,1,"18,398",NaN,NaN,0
+2010-10-20,Buffalo Sabres,4,Atlanta Thrashers,1,"8,820",NaN,NaN,0
+2010-10-20,Anaheim Ducks,1,Columbus Blue Jackets,3,"9,802",NaN,NaN,0
+2010-10-20,Vancouver Canucks,1,Chicago Blackhawks,2,"20,859",NaN,SO,0
+2010-10-20,Carolina Hurricanes,3,Los Angeles Kings,4,"17,769",NaN,NaN,0
+2010-10-21,Washington Capitals,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2010-10-21,San Jose Sharks,4,Colorado Avalanche,2,"12,803",NaN,NaN,0
+2010-10-21,Calgary Flames,2,Detroit Red Wings,4,"18,399",NaN,NaN,0
+2010-10-21,Minnesota Wild,4,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2010-10-21,Dallas Stars,4,Florida Panthers,1,"11,580",NaN,NaN,0
+2010-10-21,New Jersey Devils,3,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2010-10-21,Pittsburgh Penguins,4,Nashville Predators,3,"17,113",NaN,OT,0
+2010-10-21,Anaheim Ducks,3,Philadelphia Flyers,2,"19,012",NaN,NaN,0
+2010-10-21,Los Angeles Kings,2,Phoenix Coyotes,4,"6,706",NaN,NaN,0
+2010-10-21,New York Islanders,3,Tampa Bay Lightning,2,"13,333",NaN,OT,0
+2010-10-21,New York Rangers,2,Toronto Maple Leafs,1,"19,310",NaN,NaN,0
+2010-10-22,Tampa Bay Lightning,5,Atlanta Thrashers,2,"9,138",NaN,NaN,0
+2010-10-22,Ottawa Senators,4,Buffalo Sabres,2,"18,009",NaN,NaN,0
+2010-10-22,Calgary Flames,6,Columbus Blue Jackets,2,"10,784",NaN,NaN,0
+2010-10-22,Chicago Blackhawks,2,St. Louis Blues,4,"19,150",NaN,NaN,0
+2010-10-22,Minnesota Wild,1,Vancouver Canucks,5,"18,860",NaN,NaN,0
+2010-10-23,New York Rangers,3,Boston Bruins,2,"17,565",NaN,NaN,0
+2010-10-23,Columbus Blue Jackets,3,Chicago Blackhawks,2,"21,265",NaN,NaN,0
+2010-10-23,Los Angeles Kings,6,Colorado Avalanche,4,"15,478",NaN,NaN,0
+2010-10-23,Nashville Predators,1,Dallas Stars,0,"13,583",NaN,NaN,0
+2010-10-23,Anaheim Ducks,4,Detroit Red Wings,5,"19,401",NaN,NaN,0
+2010-10-23,San Jose Sharks,6,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2010-10-23,New York Islanders,3,Florida Panthers,4,"15,071",NaN,NaN,0
+2010-10-23,Buffalo Sabres,6,New Jersey Devils,1,"14,228",NaN,NaN,0
+2010-10-23,Montreal Canadiens,3,Ottawa Senators,0,"20,301",NaN,NaN,0
+2010-10-23,Toronto Maple Leafs,2,Philadelphia Flyers,5,"19,382",NaN,NaN,0
+2010-10-23,Carolina Hurricanes,4,Phoenix Coyotes,3,"8,189",NaN,OT,0
+2010-10-23,Pittsburgh Penguins,0,St. Louis Blues,1,"19,150",NaN,OT,0
+2010-10-23,Atlanta Thrashers,3,Washington Capitals,4,"18,398",NaN,OT,0
+2010-10-24,San Jose Sharks,0,Calgary Flames,4,"19,289",NaN,NaN,0
+2010-10-24,New Jersey Devils,1,New York Rangers,3,"18,200",NaN,NaN,0
+2010-10-24,Nashville Predators,4,Tampa Bay Lightning,3,"14,454",NaN,NaN,0
+2010-10-25,Philadelphia Flyers,1,Columbus Blue Jackets,2,"11,727",NaN,NaN,0
+2010-10-25,Los Angeles Kings,3,Minnesota Wild,2,"17,094",NaN,SO,0
+2010-10-25,Phoenix Coyotes,2,Montreal Canadiens,3,"21,273",NaN,OT,0
+2010-10-26,Edmonton Oilers,4,Calgary Flames,5,"19,289",NaN,SO,0
+2010-10-26,Anaheim Ducks,5,Dallas Stars,2,"12,378",NaN,NaN,0
+2010-10-26,Phoenix Coyotes,2,Ottawa Senators,5,"16,686",NaN,NaN,0
+2010-10-26,Buffalo Sabres,3,Philadelphia Flyers,6,"19,361",NaN,NaN,0
+2010-10-26,Florida Panthers,1,Toronto Maple Leafs,3,"19,239",NaN,NaN,0
+2010-10-26,Colorado Avalanche,3,Vancouver Canucks,4,"18,860",NaN,OT,0
+2010-10-27,Washington Capitals,3,Carolina Hurricanes,0,"18,680",NaN,NaN,0
+2010-10-27,Los Angeles Kings,1,Chicago Blackhawks,3,"20,667",NaN,NaN,0
+2010-10-27,New York Islanders,3,Montreal Canadiens,5,"21,273",NaN,NaN,0
+2010-10-27,Atlanta Thrashers,6,New York Rangers,4,"17,900",NaN,NaN,0
+2010-10-27,New Jersey Devils,2,San Jose Sharks,5,"17,562",NaN,NaN,0
+2010-10-27,Pittsburgh Penguins,3,Tampa Bay Lightning,5,"17,226",NaN,NaN,0
+2010-10-28,Toronto Maple Leafs,0,Boston Bruins,2,"17,565",NaN,NaN,0
+2010-10-28,Edmonton Oilers,2,Columbus Blue Jackets,3,"9,128",NaN,SO,0
+2010-10-28,Colorado Avalanche,6,Calgary Flames,5,"19,289",NaN,NaN,0
+2010-10-28,Los Angeles Kings,5,Dallas Stars,2,"11,306",NaN,NaN,0
+2010-10-28,Phoenix Coyotes,4,Detroit Red Wings,2,"18,165",NaN,NaN,0
+2010-10-28,Washington Capitals,1,Minnesota Wild,2,"17,352",NaN,NaN,0
+2010-10-28,St. Louis Blues,3,Nashville Predators,0,"15,506",NaN,NaN,0
+2010-10-28,Florida Panthers,3,Ottawa Senators,5,"16,294",NaN,NaN,0
+2010-10-29,New Jersey Devils,2,Anaheim Ducks,1,"14,724",NaN,NaN,0
+2010-10-29,Buffalo Sabres,3,Atlanta Thrashers,4,"10,172",NaN,OT,0
+2010-10-29,Edmonton Oilers,7,Chicago Blackhawks,4,"21,061",NaN,NaN,0
+2010-10-29,Montreal Canadiens,3,New York Islanders,1,"11,922",NaN,NaN,0
+2010-10-29,Carolina Hurricanes,4,New York Rangers,3,"17,819",NaN,NaN,0
+2010-10-29,Philadelphia Flyers,3,Pittsburgh Penguins,2,"18,275",NaN,NaN,0
+2010-10-30,Pittsburgh Penguins,3,Carolina Hurricanes,0,"18,680",NaN,NaN,0
+2010-10-30,Washington Capitals,7,Calgary Flames,2,"19,289",NaN,NaN,0
+2010-10-30,Columbus Blue Jackets,1,Colorado Avalanche,5,"13,017",NaN,NaN,0
+2010-10-30,Buffalo Sabres,0,Dallas Stars,4,"15,015",NaN,NaN,0
+2010-10-30,Nashville Predators,2,Detroit Red Wings,5,"18,711",NaN,NaN,0
+2010-10-30,New Jersey Devils,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2010-10-30,Chicago Blackhawks,3,Minnesota Wild,1,"18,376",NaN,NaN,0
+2010-10-30,Florida Panthers,3,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2010-10-30,Boston Bruins,4,Ottawa Senators,0,"18,959",NaN,NaN,0
+2010-10-30,New York Islanders,1,Philadelphia Flyers,6,"19,613",NaN,NaN,0
+2010-10-30,Tampa Bay Lightning,3,Phoenix Coyotes,0,"8,171",NaN,NaN,0
+2010-10-30,Anaheim Ducks,2,San Jose Sharks,5,"17,562",NaN,NaN,0
+2010-10-30,Atlanta Thrashers,3,St. Louis Blues,4,"19,150",NaN,SO,0
+2010-10-30,New York Rangers,2,Toronto Maple Leafs,0,"19,063",NaN,NaN,0
+2010-11-01,Chicago Blackhawks,2,New York Rangers,3,"18,200",NaN,NaN,0
+2010-11-01,Carolina Hurricanes,2,Philadelphia Flyers,3,"19,038",NaN,NaN,0
+2010-11-01,New Jersey Devils,0,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2010-11-02,Montreal Canadiens,0,Columbus Blue Jackets,3,"10,466",NaN,NaN,0
+2010-11-02,Vancouver Canucks,4,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2010-11-02,San Jose Sharks,0,Minnesota Wild,1,"16,502",NaN,NaN,0
+2010-11-02,Ottawa Senators,3,Toronto Maple Leafs,2,"19,409",NaN,NaN,0
+2010-11-03,Tampa Bay Lightning,2,Anaheim Ducks,3,"13,034",NaN,OT,0
+2010-11-03,Boston Bruins,5,Buffalo Sabres,2,"18,428",NaN,NaN,0
+2010-11-03,New York Islanders,2,Carolina Hurricanes,7,"13,043",NaN,NaN,0
+2010-11-03,Detroit Red Wings,2,Calgary Flames,1,"19,289",NaN,NaN,0
+2010-11-03,New Jersey Devils,5,Chicago Blackhawks,3,"21,044",NaN,NaN,0
+2010-11-03,Pittsburgh Penguins,2,Dallas Stars,5,"15,637",NaN,NaN,0
+2010-11-03,Atlanta Thrashers,4,Florida Panthers,3,"11,212",NaN,NaN,0
+2010-11-03,Nashville Predators,3,Phoenix Coyotes,4,"6,761",NaN,NaN,0
+2010-11-03,Toronto Maple Leafs,4,Washington Capitals,5,"18,398",NaN,SO,0
+2010-11-04,Columbus Blue Jackets,3,Atlanta Thrashers,0,"8,461",NaN,NaN,0
+2010-11-04,Vancouver Canucks,3,Colorado Avalanche,1,"12,732",NaN,NaN,0
+2010-11-04,Tampa Bay Lightning,0,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2010-11-04,New York Islanders,1,Ottawa Senators,4,"17,752",NaN,NaN,0
+2010-11-04,New York Rangers,1,Philadelphia Flyers,4,"19,652",NaN,NaN,0
+2010-11-04,San Jose Sharks,0,St. Louis Blues,2,"19,150",NaN,NaN,0
+2010-11-05,Pittsburgh Penguins,2,Anaheim Ducks,3,"17,174",NaN,NaN,0
+2010-11-05,Montreal Canadiens,3,Buffalo Sabres,2,"18,026",NaN,NaN,0
+2010-11-05,Phoenix Coyotes,3,Dallas Stars,6,"12,255",NaN,NaN,0
+2010-11-05,Detroit Red Wings,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2010-11-05,Carolina Hurricanes,4,Florida Panthers,7,"14,761",NaN,NaN,0
+2010-11-05,Calgary Flames,1,Minnesota Wild,2,"17,124",NaN,NaN,0
+2010-11-05,New York Rangers,3,New Jersey Devils,0,"17,625",NaN,NaN,0
+2010-11-05,Boston Bruins,3,Washington Capitals,5,"18,389",NaN,NaN,0
+2010-11-06,Chicago Blackhawks,5,Atlanta Thrashers,4,"16,022",NaN,SO,0
+2010-11-06,St. Louis Blues,2,Boston Bruins,1,"17,565",NaN,SO,0
+2010-11-06,Florida Panthers,2,Carolina Hurricanes,3,"17,704",NaN,NaN,0
+2010-11-06,Minnesota Wild,3,Columbus Blue Jackets,2,"13,457",NaN,NaN,0
+2010-11-06,Dallas Stars,0,Colorado Avalanche,5,"16,172",NaN,NaN,0
+2010-11-06,Nashville Predators,1,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2010-11-06,Ottawa Senators,3,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2010-11-06,Philadelphia Flyers,2,New York Islanders,1,"13,078",NaN,NaN,0
+2010-11-06,Pittsburgh Penguins,4,Phoenix Coyotes,3,"14,642",NaN,SO,0
+2010-11-06,Tampa Bay Lightning,2,San Jose Sharks,5,"17,562",NaN,NaN,0
+2010-11-06,Buffalo Sabres,3,Toronto Maple Leafs,2,"19,329",NaN,SO,0
+2010-11-06,Detroit Red Wings,4,Vancouver Canucks,6,"18,860",NaN,NaN,0
+2010-11-07,Nashville Predators,4,Anaheim Ducks,5,"13,520",NaN,NaN,0
+2010-11-07,Edmonton Oilers,2,Chicago Blackhawks,1,"21,025",NaN,NaN,0
+2010-11-07,St. Louis Blues,2,New York Rangers,0,"17,376",NaN,NaN,0
+2010-11-07,Philadelphia Flyers,2,Washington Capitals,3,"18,398",NaN,OT,0
+2010-11-08,Phoenix Coyotes,2,Detroit Red Wings,3,"19,207",NaN,OT,0
+2010-11-09,Edmonton Oilers,1,Carolina Hurricanes,7,"11,890",NaN,NaN,0
+2010-11-09,Calgary Flames,4,Colorado Avalanche,2,"12,219",NaN,NaN,0
+2010-11-09,Vancouver Canucks,0,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2010-11-09,Washington Capitals,5,New York Rangers,3,"18,200",NaN,NaN,0
+2010-11-09,Atlanta Thrashers,2,Ottawa Senators,5,"16,583",NaN,NaN,0
+2010-11-09,Anaheim Ducks,3,San Jose Sharks,2,"17,562",NaN,OT,0
+2010-11-09,Toronto Maple Leafs,0,Tampa Bay Lightning,4,"16,791",NaN,NaN,0
+2010-11-10,New York Islanders,0,Anaheim Ducks,1,"14,393",NaN,NaN,0
+2010-11-10,St. Louis Blues,1,Columbus Blue Jackets,8,"10,265",NaN,NaN,0
+2010-11-10,Phoenix Coyotes,2,Chicago Blackhawks,1,"21,181",NaN,NaN,0
+2010-11-10,Toronto Maple Leafs,1,Florida Panthers,4,"15,243",NaN,NaN,0
+2010-11-10,Buffalo Sabres,5,New Jersey Devils,4,"14,566",NaN,SO,0
+2010-11-10,Boston Bruins,7,Pittsburgh Penguins,4,"18,113",NaN,NaN,0
+2010-11-11,Minnesota Wild,1,Atlanta Thrashers,5,"10,055",NaN,NaN,0
+2010-11-11,Montreal Canadiens,3,Boston Bruins,1,"17,565",NaN,NaN,0
+2010-11-11,Philadelphia Flyers,8,Carolina Hurricanes,1,"14,719",NaN,NaN,0
+2010-11-11,Edmonton Oilers,2,Detroit Red Wings,6,"20,066",NaN,NaN,0
+2010-11-11,Dallas Stars,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2010-11-11,Buffalo Sabres,2,New York Rangers,3,"17,848",NaN,OT,0
+2010-11-11,Vancouver Canucks,6,Ottawa Senators,2,"19,191",NaN,NaN,0
+2010-11-11,New York Islanders,1,San Jose Sharks,2,"17,562",NaN,SO,0
+2010-11-11,Nashville Predators,3,St. Louis Blues,2,"19,150",NaN,SO,0
+2010-11-11,Tampa Bay Lightning,3,Washington Capitals,6,"18,398",NaN,NaN,0
+2010-11-12,Dallas Stars,2,Anaheim Ducks,4,"13,831",NaN,NaN,0
+2010-11-12,Colorado Avalanche,5,Columbus Blue Jackets,1,"13,594",NaN,NaN,0
+2010-11-12,Minnesota Wild,1,Florida Panthers,2,"15,043",NaN,NaN,0
+2010-11-12,Edmonton Oilers,3,New Jersey Devils,4,"14,650",NaN,OT,0
+2010-11-12,Calgary Flames,4,Phoenix Coyotes,5,"11,117",NaN,NaN,0
+2010-11-12,Tampa Bay Lightning,1,Pittsburgh Penguins,5,"18,275",NaN,NaN,0
+2010-11-13,Pittsburgh Penguins,4,Atlanta Thrashers,2,"16,710",NaN,NaN,0
+2010-11-13,Ottawa Senators,2,Boston Bruins,0,"17,565",NaN,NaN,0
+2010-11-13,Washington Capitals,2,Buffalo Sabres,3,"18,690",NaN,OT,0
+2010-11-13,Colorado Avalanche,1,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2010-11-13,New York Islanders,1,Los Angeles Kings,5,"18,118",NaN,NaN,0
+2010-11-13,Carolina Hurricanes,2,Montreal Canadiens,7,"21,273",NaN,NaN,0
+2010-11-13,Chicago Blackhawks,3,Nashville Predators,4,"17,113",NaN,SO,0
+2010-11-13,Florida Panthers,2,Philadelphia Flyers,5,"19,616",NaN,NaN,0
+2010-11-13,St. Louis Blues,3,Phoenix Coyotes,5,"9,412",NaN,NaN,0
+2010-11-13,Calgary Flames,3,San Jose Sharks,4,"17,562",NaN,NaN,0
+2010-11-13,Vancouver Canucks,5,Toronto Maple Leafs,3,"19,534",NaN,NaN,0
+2010-11-14,Anaheim Ducks,2,Chicago Blackhawks,3,"21,244",NaN,OT,0
+2010-11-14,Edmonton Oilers,2,New York Rangers,8,"17,658",NaN,NaN,0
+2010-11-14,Minnesota Wild,4,Tampa Bay Lightning,1,"14,868",NaN,NaN,0
+2010-11-14,Atlanta Thrashers,4,Washington Capitals,6,"18,398",NaN,NaN,0
+2010-11-15,New Jersey Devils,0,Boston Bruins,3,"17,565",NaN,NaN,0
+2010-11-15,Vancouver Canucks,3,Buffalo Sabres,4,"18,690",NaN,OT,0
+2010-11-15,St. Louis Blues,3,Colorado Avalanche,6,"12,670",NaN,NaN,0
+2010-11-15,Ottawa Senators,1,Philadelphia Flyers,5,"19,256",NaN,NaN,0
+2010-11-15,New York Rangers,3,Pittsburgh Penguins,2,"18,125",NaN,OT,0
+2010-11-15,Los Angeles Kings,3,San Jose Sharks,6,"17,562",NaN,NaN,0
+2010-11-16,Anaheim Ducks,1,Dallas Stars,2,"13,443",NaN,NaN,0
+2010-11-16,Philadelphia Flyers,0,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2010-11-16,Nashville Predators,4,Toronto Maple Leafs,5,"19,069",NaN,NaN,0
+2010-11-17,Florida Panthers,2,Atlanta Thrashers,1,"10,168",NaN,NaN,0
+2010-11-17,Ottawa Senators,1,Carolina Hurricanes,7,"12,938",NaN,NaN,0
+2010-11-17,Phoenix Coyotes,3,Calgary Flames,1,"19,289",NaN,NaN,0
+2010-11-17,San Jose Sharks,3,Colorado Avalanche,4,"12,436",NaN,OT,0
+2010-11-17,St. Louis Blues,3,Detroit Red Wings,7,"20,066",NaN,NaN,0
+2010-11-17,Chicago Blackhawks,5,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2010-11-17,Columbus Blue Jackets,5,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2010-11-17,Anaheim Ducks,1,Minnesota Wild,2,"16,890",NaN,OT,0
+2010-11-17,Tampa Bay Lightning,4,New York Islanders,2,"8,025",NaN,NaN,0
+2010-11-17,Boston Bruins,3,New York Rangers,2,"18,200",NaN,NaN,0
+2010-11-17,Vancouver Canucks,1,Pittsburgh Penguins,3,"18,252",NaN,NaN,0
+2010-11-17,Buffalo Sabres,2,Washington Capitals,4,"18,398",NaN,NaN,0
+2010-11-18,Florida Panthers,0,Boston Bruins,4,"17,565",NaN,NaN,0
+2010-11-18,San Jose Sharks,4,Dallas Stars,5,"14,720",NaN,OT,0
+2010-11-18,Nashville Predators,3,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2010-11-18,Tampa Bay Lightning,8,Philadelphia Flyers,7,"19,672",NaN,NaN,0
+2010-11-18,New Jersey Devils,1,Toronto Maple Leafs,3,"19,271",NaN,NaN,0
+2010-11-19,Columbus Blue Jackets,4,Anaheim Ducks,3,"13,667",NaN,NaN,0
+2010-11-19,Washington Capitals,0,Atlanta Thrashers,5,"11,115",NaN,NaN,0
+2010-11-19,Los Angeles Kings,2,Buffalo Sabres,4,"18,418",NaN,NaN,0
+2010-11-19,Chicago Blackhawks,2,Calgary Flames,7,"19,289",NaN,NaN,0
+2010-11-19,New York Rangers,1,Colorado Avalanche,5,"16,002",NaN,NaN,0
+2010-11-19,Minnesota Wild,4,Detroit Red Wings,3,"20,066",NaN,OT,0
+2010-11-19,Phoenix Coyotes,4,Edmonton Oilers,3,"16,839",NaN,SO,0
+2010-11-19,Carolina Hurricanes,4,Pittsburgh Penguins,5,"18,264",NaN,SO,0
+2010-11-19,Ottawa Senators,2,St. Louis Blues,5,"19,150",NaN,NaN,0
+2010-11-20,Los Angeles Kings,4,Boston Bruins,3,"17,565",NaN,SO,0
+2010-11-20,Tampa Bay Lightning,2,Buffalo Sabres,1,"17,833",NaN,NaN,0
+2010-11-20,Nashville Predators,2,Carolina Hurricanes,1,"15,384",NaN,SO,0
+2010-11-20,Colorado Avalanche,4,Dallas Stars,3,"17,441",NaN,SO,0
+2010-11-20,New York Rangers,5,Minnesota Wild,2,"18,695",NaN,NaN,0
+2010-11-20,Toronto Maple Leafs,0,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2010-11-20,Florida Panthers,4,New York Islanders,1,"9,157",NaN,NaN,0
+2010-11-20,Columbus Blue Jackets,3,San Jose Sharks,0,"17,562",NaN,NaN,0
+2010-11-20,New Jersey Devils,2,St. Louis Blues,3,"19,150",NaN,NaN,0
+2010-11-20,Chicago Blackhawks,7,Vancouver Canucks,1,"18,860",NaN,NaN,0
+2010-11-20,Philadelphia Flyers,5,Washington Capitals,4,"18,398",NaN,SO,0
+2010-11-21,Edmonton Oilers,4,Anaheim Ducks,2,"14,267",NaN,NaN,0
+2010-11-21,New York Islanders,1,Atlanta Thrashers,2,"10,066",NaN,OT,0
+2010-11-21,Calgary Flames,4,Detroit Red Wings,5,"19,636",NaN,OT,0
+2010-11-21,Phoenix Coyotes,3,Vancouver Canucks,2,"18,860",NaN,NaN,0
+2010-11-22,Nashville Predators,0,Columbus Blue Jackets,2,"10,095",NaN,NaN,0
+2010-11-22,Pittsburgh Penguins,3,Florida Panthers,2,"16,543",NaN,NaN,0
+2010-11-22,Washington Capitals,0,New Jersey Devils,5,"14,107",NaN,NaN,0
+2010-11-22,Calgary Flames,1,New York Rangers,2,"17,845",NaN,NaN,0
+2010-11-22,Los Angeles Kings,2,Ottawa Senators,3,"18,315",NaN,NaN,0
+2010-11-22,Montreal Canadiens,2,Philadelphia Flyers,3,"19,753",NaN,NaN,0
+2010-11-22,Boston Bruins,1,Tampa Bay Lightning,3,"16,241",NaN,NaN,0
+2010-11-22,Dallas Stars,1,Toronto Maple Leafs,4,"19,266",NaN,NaN,0
+2010-11-23,Edmonton Oilers,0,Phoenix Coyotes,5,"9,354",NaN,NaN,0
+2010-11-24,Detroit Red Wings,1,Atlanta Thrashers,5,"15,337",NaN,NaN,0
+2010-11-24,Pittsburgh Penguins,1,Buffalo Sabres,0,"18,250",NaN,NaN,0
+2010-11-24,Washington Capitals,3,Carolina Hurricanes,2,"15,200",NaN,NaN,0
+2010-11-24,Boston Bruins,3,Florida Panthers,1,"16,712",NaN,NaN,0
+2010-11-24,Philadelphia Flyers,6,Minnesota Wild,1,"16,516",NaN,NaN,0
+2010-11-24,Los Angeles Kings,1,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2010-11-24,Calgary Flames,1,New Jersey Devils,2,"13,202",NaN,SO,0
+2010-11-24,St. Louis Blues,2,Nashville Predators,1,"16,603",NaN,SO,0
+2010-11-24,Columbus Blue Jackets,4,New York Islanders,3,"8,652",NaN,OT,0
+2010-11-24,Dallas Stars,2,Ottawa Senators,1,"16,281",NaN,NaN,0
+2010-11-24,Chicago Blackhawks,2,San Jose Sharks,5,"17,562",NaN,NaN,0
+2010-11-24,New York Rangers,3,Tampa Bay Lightning,5,"17,806",NaN,NaN,0
+2010-11-24,Colorado Avalanche,2,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2010-11-25,Colorado Avalanche,2,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2010-11-26,Chicago Blackhawks,4,Anaheim Ducks,1,"16,146",NaN,NaN,0
+2010-11-26,Montreal Canadiens,0,Atlanta Thrashers,3,"13,068",NaN,NaN,0
+2010-11-26,Carolina Hurricanes,3,Boston Bruins,0,"17,565",NaN,NaN,0
+2010-11-26,Toronto Maple Leafs,1,Buffalo Sabres,3,"18,004",NaN,NaN,0
+2010-11-26,Detroit Red Wings,2,Columbus Blue Jackets,1,"18,391",NaN,NaN,0
+2010-11-26,St. Louis Blues,2,Dallas Stars,3,"16,675",NaN,NaN,0
+2010-11-26,New York Rangers,3,Florida Panthers,0,"17,013",NaN,NaN,0
+2010-11-26,Nashville Predators,2,Minnesota Wild,5,"17,814",NaN,NaN,0
+2010-11-26,New Jersey Devils,0,New York Islanders,2,"10,897",NaN,NaN,0
+2010-11-26,Calgary Flames,3,Philadelphia Flyers,2,"19,872",NaN,SO,0
+2010-11-26,Ottawa Senators,1,Pittsburgh Penguins,2,"18,299",NaN,NaN,0
+2010-11-26,San Jose Sharks,1,Vancouver Canucks,6,"18,860",NaN,NaN,0
+2010-11-26,Tampa Bay Lightning,0,Washington Capitals,6,"18,398",NaN,NaN,0
+2010-11-27,Minnesota Wild,4,Colorado Avalanche,7,"18,007",NaN,NaN,0
+2010-11-27,San Jose Sharks,4,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2010-11-27,Chicago Blackhawks,2,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2010-11-27,Buffalo Sabres,1,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2010-11-27,Philadelphia Flyers,1,New Jersey Devils,2,"17,625",NaN,SO,0
+2010-11-27,New York Rangers,2,Nashville Predators,1,"17,113",NaN,SO,0
+2010-11-27,Toronto Maple Leafs,0,Ottawa Senators,3,"20,275",NaN,NaN,0
+2010-11-27,Anaheim Ducks,6,Phoenix Coyotes,4,"12,708",NaN,NaN,0
+2010-11-27,Calgary Flames,1,Pittsburgh Penguins,4,"18,317",NaN,NaN,0
+2010-11-27,Dallas Stars,2,St. Louis Blues,1,"19,150",NaN,NaN,0
+2010-11-27,Florida Panthers,4,Tampa Bay Lightning,3,"15,854",NaN,SO,0
+2010-11-28,Boston Bruins,1,Atlanta Thrashers,4,"12,085",NaN,NaN,0
+2010-11-28,Columbus Blue Jackets,2,Detroit Red Wings,4,"18,860",NaN,NaN,0
+2010-11-28,Carolina Hurricanes,2,Washington Capitals,3,"18,398",NaN,SO,0
+2010-11-29,Los Angeles Kings,0,Anaheim Ducks,2,"17,174",NaN,NaN,0
+2010-11-29,Dallas Stars,4,Carolina Hurricanes,1,"15,382",NaN,NaN,0
+2010-11-29,Minnesota Wild,0,Calgary Flames,3,"19,289",NaN,NaN,0
+2010-11-29,Pittsburgh Penguins,3,New York Rangers,1,"18,200",NaN,NaN,0
+2010-11-29,Edmonton Oilers,4,Ottawa Senators,1,"17,002",NaN,NaN,0
+2010-11-30,St. Louis Blues,5,Chicago Blackhawks,7,"21,140",NaN,NaN,0
+2010-11-30,Atlanta Thrashers,3,Colorado Avalanche,2,"12,131",NaN,OT,0
+2010-11-30,Phoenix Coyotes,0,Nashville Predators,3,"14,333",NaN,NaN,0
+2010-11-30,Detroit Red Wings,5,San Jose Sharks,3,"17,562",NaN,NaN,0
+2010-11-30,Tampa Bay Lightning,4,Toronto Maple Leafs,3,"19,063",NaN,OT,0
+2010-12-01,Florida Panthers,3,Anaheim Ducks,5,"12,504",NaN,NaN,0
+2010-12-01,Nashville Predators,4,Columbus Blue Jackets,3,"9,892",NaN,SO,0
+2010-12-01,Vancouver Canucks,7,Calgary Flames,2,"19,289",NaN,NaN,0
+2010-12-01,Phoenix Coyotes,4,Minnesota Wild,2,"17,101",NaN,NaN,0
+2010-12-01,Edmonton Oilers,4,Montreal Canadiens,3,"21,273",NaN,OT,0
+2010-12-01,Boston Bruins,3,Philadelphia Flyers,0,"19,684",NaN,NaN,0
+2010-12-01,Washington Capitals,4,St. Louis Blues,1,"19,150",NaN,NaN,0
+2010-12-02,Tampa Bay Lightning,1,Boston Bruins,8,"17,565",NaN,NaN,0
+2010-12-02,Washington Capitals,1,Dallas Stars,2,"13,943",NaN,NaN,0
+2010-12-02,Florida Panthers,2,Los Angeles Kings,3,"17,720",NaN,NaN,0
+2010-12-02,Montreal Canadiens,5,New Jersey Devils,1,"11,434",NaN,NaN,0
+2010-12-02,New York Rangers,6,New York Islanders,5,"13,742",NaN,NaN,0
+2010-12-02,San Jose Sharks,4,Ottawa Senators,0,"18,017",NaN,NaN,0
+2010-12-02,Atlanta Thrashers,2,Pittsburgh Penguins,3,"18,223",NaN,NaN,0
+2010-12-02,Edmonton Oilers,5,Toronto Maple Leafs,0,"19,465",NaN,NaN,0
+2010-12-03,Detroit Red Wings,4,Anaheim Ducks,0,"15,173",NaN,NaN,0
+2010-12-03,Columbus Blue Jackets,0,Buffalo Sabres,5,"18,529",NaN,NaN,0
+2010-12-03,Colorado Avalanche,1,Carolina Hurricanes,2,"16,277",NaN,OT,0
+2010-12-03,Vancouver Canucks,3,Chicago Blackhawks,0,"21,737",NaN,NaN,0
+2010-12-03,Calgary Flames,3,Minnesota Wild,2,"17,130",NaN,SO,0
+2010-12-03,New York Islanders,0,New York Rangers,2,"18,200",NaN,NaN,0
+2010-12-04,Pittsburgh Penguins,7,Columbus Blue Jackets,2,"19,143",NaN,NaN,0
+2010-12-04,Minnesota Wild,3,Dallas Stars,4,"14,344",NaN,OT,0
+2010-12-04,St. Louis Blues,1,Edmonton Oilers,2,"16,839",NaN,OT,0
+2010-12-04,Detroit Red Wings,2,Los Angeles Kings,3,"18,118",NaN,OT,0
+2010-12-04,San Jose Sharks,1,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2010-12-04,Carolina Hurricanes,2,Nashville Predators,5,"15,016",NaN,NaN,0
+2010-12-04,Buffalo Sabres,1,Ottawa Senators,0,"16,364",NaN,SO,0
+2010-12-04,New Jersey Devils,3,Philadelphia Flyers,5,"19,657",NaN,NaN,0
+2010-12-04,Florida Panthers,2,Phoenix Coyotes,1,"10,334",NaN,SO,0
+2010-12-04,Colorado Avalanche,5,Tampa Bay Lightning,6,"18,212",NaN,NaN,0
+2010-12-04,Boston Bruins,2,Toronto Maple Leafs,3,"19,483",NaN,SO,0
+2010-12-04,Atlanta Thrashers,3,Washington Capitals,1,"18,398",NaN,NaN,0
+2010-12-05,Phoenix Coyotes,3,Anaheim Ducks,0,"14,062",NaN,NaN,0
+2010-12-05,Calgary Flames,2,Chicago Blackhawks,4,"21,112",NaN,NaN,0
+2010-12-05,Philadelphia Flyers,3,New York Islanders,2,"7,773",NaN,NaN,0
+2010-12-05,Ottawa Senators,3,New York Rangers,1,"18,200",NaN,NaN,0
+2010-12-05,St. Louis Blues,3,Vancouver Canucks,2,"18,860",NaN,NaN,0
+2010-12-06,Nashville Predators,2,Atlanta Thrashers,3,"10,024",NaN,OT,0
+2010-12-06,Dallas Stars,2,Columbus Blue Jackets,3,"10,932",NaN,SO,0
+2010-12-06,San Jose Sharks,5,Detroit Red Wings,2,"19,010",NaN,NaN,0
+2010-12-06,New Jersey Devils,1,Pittsburgh Penguins,2,"18,185",NaN,NaN,0
+2010-12-06,Toronto Maple Leafs,5,Washington Capitals,4,"18,398",NaN,SO,0
+2010-12-07,Buffalo Sabres,2,Boston Bruins,3,"17,565",NaN,OT,0
+2010-12-07,Tampa Bay Lightning,2,Calgary Flames,4,"19,289",NaN,NaN,0
+2010-12-07,Anaheim Ducks,3,Edmonton Oilers,2,"16,839",NaN,SO,0
+2010-12-07,Colorado Avalanche,3,Florida Panthers,4,"12,791",NaN,OT,0
+2010-12-07,Ottawa Senators,1,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2010-12-08,Dallas Stars,3,Chicago Blackhawks,5,"21,184",NaN,NaN,0
+2010-12-08,Nashville Predators,3,Detroit Red Wings,2,"17,359",NaN,NaN,0
+2010-12-08,San Jose Sharks,5,Philadelphia Flyers,4,"19,801",NaN,SO,0
+2010-12-08,Toronto Maple Leafs,2,Pittsburgh Penguins,5,"18,158",NaN,NaN,0
+2010-12-08,Anaheim Ducks,4,Vancouver Canucks,5,"18,860",NaN,SO,0
+2010-12-09,New York Islanders,2,Boston Bruins,5,"17,565",NaN,NaN,0
+2010-12-09,San Jose Sharks,3,Buffalo Sabres,6,"18,017",NaN,NaN,0
+2010-12-09,Calgary Flames,1,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2010-12-09,New York Rangers,5,Ottawa Senators,3,"16,324",NaN,NaN,0
+2010-12-09,Minnesota Wild,3,Phoenix Coyotes,2,"7,749",NaN,NaN,0
+2010-12-09,Columbus Blue Jackets,1,St. Louis Blues,4,"19,150",NaN,NaN,0
+2010-12-09,Philadelphia Flyers,4,Toronto Maple Leafs,1,"19,365",NaN,NaN,0
+2010-12-09,Florida Panthers,3,Washington Capitals,0,"18,398",NaN,NaN,0
+2010-12-10,Calgary Flames,2,Anaheim Ducks,3,"13,775",NaN,SO,0
+2010-12-10,Colorado Avalanche,4,Atlanta Thrashers,2,"14,034",NaN,NaN,0
+2010-12-10,Carolina Hurricanes,1,Dallas Stars,2,"13,012",NaN,SO,0
+2010-12-10,Montreal Canadiens,2,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2010-12-10,Tampa Bay Lightning,3,Edmonton Oilers,4,"16,839",NaN,SO,0
+2010-12-10,New Jersey Devils,2,Ottawa Senators,3,"16,471",NaN,NaN,0
+2010-12-11,Philadelphia Flyers,2,Boston Bruins,1,"17,565",NaN,OT,0
+2010-12-11,Pittsburgh Penguins,5,Buffalo Sabres,2,"18,690",NaN,NaN,0
+2010-12-11,New York Rangers,1,Columbus Blue Jackets,3,"15,780",NaN,NaN,0
+2010-12-11,Minnesota Wild,3,Los Angeles Kings,2,"18,118",NaN,OT,0
+2010-12-11,Detroit Red Wings,4,New Jersey Devils,1,"17,625",NaN,NaN,0
+2010-12-11,Florida Panthers,0,Nashville Predators,3,"16,128",NaN,NaN,0
+2010-12-11,Atlanta Thrashers,5,New York Islanders,4,"10,056",NaN,NaN,0
+2010-12-11,Dallas Stars,2,Phoenix Coyotes,5,"11,410",NaN,NaN,0
+2010-12-11,Chicago Blackhawks,1,San Jose Sharks,2,"17,562",NaN,OT,0
+2010-12-11,Carolina Hurricanes,2,St. Louis Blues,1,"19,150",NaN,SO,0
+2010-12-11,Montreal Canadiens,1,Toronto Maple Leafs,3,"19,656",NaN,NaN,0
+2010-12-11,Tampa Bay Lightning,5,Vancouver Canucks,4,"18,860",NaN,OT,0
+2010-12-11,Colorado Avalanche,3,Washington Capitals,2,"18,398",NaN,NaN,0
+2010-12-12,Minnesota Wild,2,Anaheim Ducks,6,"14,338",NaN,NaN,0
+2010-12-12,Vancouver Canucks,2,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2010-12-12,Washington Capitals,0,New York Rangers,7,"18,200",NaN,NaN,0
+2010-12-13,Columbus Blue Jackets,2,Calgary Flames,3,"19,289",NaN,OT,0
+2010-12-13,Chicago Blackhawks,5,Colorado Avalanche,7,"15,924",NaN,NaN,0
+2010-12-13,Los Angeles Kings,5,Detroit Red Wings,0,"17,810",NaN,NaN,0
+2010-12-13,New York Islanders,0,Nashville Predators,5,"14,314",NaN,NaN,0
+2010-12-13,Atlanta Thrashers,4,Ottawa Senators,3,"18,184",NaN,OT,0
+2010-12-13,Dallas Stars,3,San Jose Sharks,2,"17,562",NaN,SO,0
+2010-12-14,Toronto Maple Leafs,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2010-12-14,Pittsburgh Penguins,2,Philadelphia Flyers,3,"19,824",NaN,NaN,0
+2010-12-15,Boston Bruins,2,Buffalo Sabres,3,"18,197",NaN,NaN,0
+2010-12-15,Colorado Avalanche,4,Chicago Blackhawks,3,"21,121",NaN,NaN,0
+2010-12-15,St. Louis Blues,2,Detroit Red Wings,5,"18,769",NaN,NaN,0
+2010-12-15,Carolina Hurricanes,4,Florida Panthers,3,"14,651",NaN,NaN,0
+2010-12-15,Philadelphia Flyers,5,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2010-12-15,Phoenix Coyotes,0,New Jersey Devils,3,"13,208",NaN,NaN,0
+2010-12-15,San Jose Sharks,2,Nashville Predators,3,"14,731",NaN,NaN,0
+2010-12-15,New York Rangers,4,Pittsburgh Penguins,1,"18,242",NaN,NaN,0
+2010-12-15,Atlanta Thrashers,1,Tampa Bay Lightning,2,"14,441",NaN,SO,0
+2010-12-15,Columbus Blue Jackets,2,Vancouver Canucks,3,"18,860",NaN,OT,0
+2010-12-15,Anaheim Ducks,2,Washington Capitals,1,"18,398",NaN,OT,0
+2010-12-16,Carolina Hurricanes,3,Atlanta Thrashers,2,"11,043",NaN,SO,0
+2010-12-16,Toronto Maple Leafs,2,Calgary Flames,5,"19,289",NaN,NaN,0
+2010-12-16,San Jose Sharks,4,Dallas Stars,3,"14,899",NaN,OT,0
+2010-12-16,Columbus Blue Jackets,3,Edmonton Oilers,6,"16,839",NaN,NaN,0
+2010-12-16,Ottawa Senators,3,Minnesota Wild,1,"17,366",NaN,NaN,0
+2010-12-16,Boston Bruins,3,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2010-12-16,Anaheim Ducks,2,New York Islanders,3,"7,659",NaN,NaN,0
+2010-12-16,Phoenix Coyotes,3,New York Rangers,4,"17,675",NaN,SO,0
+2010-12-16,Los Angeles Kings,4,St. Louis Blues,6,"19,150",NaN,NaN,0
+2010-12-17,Detroit Red Wings,1,Chicago Blackhawks,4,"21,904",NaN,NaN,0
+2010-12-17,Ottawa Senators,5,Colorado Avalanche,6,"15,113",NaN,OT,0
+2010-12-17,Buffalo Sabres,2,Florida Panthers,6,"16,894",NaN,NaN,0
+2010-12-17,Nashville Predators,3,New Jersey Devils,1,"14,137",NaN,NaN,0
+2010-12-18,New Jersey Devils,1,Atlanta Thrashers,7,"17,024",NaN,NaN,0
+2010-12-18,Washington Capitals,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2010-12-18,Anaheim Ducks,2,Carolina Hurricanes,4,"16,603",NaN,NaN,0
+2010-12-18,Dallas Stars,2,Columbus Blue Jackets,1,"13,973",NaN,NaN,0
+2010-12-18,Minnesota Wild,3,Calgary Flames,1,"19,289",NaN,NaN,0
+2010-12-18,Los Angeles Kings,6,Nashville Predators,1,"16,734",NaN,NaN,0
+2010-12-18,Phoenix Coyotes,4,New York Islanders,3,"8,433",NaN,SO,0
+2010-12-18,New York Rangers,1,Philadelphia Flyers,4,"19,898",NaN,NaN,0
+2010-12-18,San Jose Sharks,4,St. Louis Blues,1,"19,150",NaN,NaN,0
+2010-12-18,Buffalo Sabres,1,Tampa Bay Lightning,3,"17,141",NaN,NaN,0
+2010-12-18,Toronto Maple Leafs,1,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2010-12-19,Los Angeles Kings,2,Chicago Blackhawks,3,"21,523",NaN,NaN,0
+2010-12-19,Montreal Canadiens,2,Colorado Avalanche,3,"18,007",NaN,NaN,0
+2010-12-19,Dallas Stars,4,Detroit Red Wings,3,"20,066",NaN,OT,0
+2010-12-19,Washington Capitals,3,Ottawa Senators,2,"19,516",NaN,NaN,0
+2010-12-20,Anaheim Ducks,3,Boston Bruins,0,"17,565",NaN,NaN,0
+2010-12-20,Calgary Flames,1,Minnesota Wild,4,"18,315",NaN,NaN,0
+2010-12-20,Florida Panthers,5,Philadelphia Flyers,0,"19,864",NaN,NaN,0
+2010-12-20,Phoenix Coyotes,1,Pittsburgh Penguins,6,"18,262",NaN,NaN,0
+2010-12-20,Vancouver Canucks,3,St. Louis Blues,1,"19,150",NaN,NaN,0
+2010-12-20,Carolina Hurricanes,1,Tampa Bay Lightning,5,"17,210",NaN,NaN,0
+2010-12-20,Atlanta Thrashers,6,Toronto Maple Leafs,3,"19,301",NaN,NaN,0
+2010-12-21,St. Louis Blues,4,Atlanta Thrashers,2,"14,662",NaN,NaN,0
+2010-12-21,Anaheim Ducks,2,Buffalo Sabres,5,"18,690",NaN,NaN,0
+2010-12-21,Calgary Flames,1,Columbus Blue Jackets,3,"12,443",NaN,NaN,0
+2010-12-21,Los Angeles Kings,5,Colorado Avalanche,0,"15,891",NaN,NaN,0
+2010-12-21,Montreal Canadiens,2,Dallas Stars,5,"17,805",NaN,NaN,0
+2010-12-21,Edmonton Oilers,1,San Jose Sharks,2,"17,562",NaN,NaN,0
+2010-12-21,New Jersey Devils,1,Washington Capitals,5,"18,398",NaN,NaN,0
+2010-12-22,Nashville Predators,1,Chicago Blackhawks,4,"21,526",NaN,NaN,0
+2010-12-22,Vancouver Canucks,4,Detroit Red Wings,5,"20,066",NaN,OT,0
+2010-12-22,Tampa Bay Lightning,1,New York Islanders,2,"7,324",NaN,OT,0
+2010-12-22,Florida Panthers,2,Pittsburgh Penguins,5,"18,238",NaN,NaN,0
+2010-12-23,Atlanta Thrashers,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2010-12-23,Florida Panthers,4,Buffalo Sabres,3,"18,690",NaN,NaN,0
+2010-12-23,Montreal Canadiens,3,Carolina Hurricanes,2,"16,981",NaN,NaN,0
+2010-12-23,Vancouver Canucks,7,Columbus Blue Jackets,3,"12,159",NaN,NaN,0
+2010-12-23,Minnesota Wild,3,Colorado Avalanche,1,"16,323",NaN,NaN,0
+2010-12-23,Calgary Flames,3,Dallas Stars,2,"15,520",NaN,SO,0
+2010-12-23,Edmonton Oilers,2,Los Angeles Kings,3,"18,118",NaN,SO,0
+2010-12-23,New York Islanders,5,New Jersey Devils,1,"13,312",NaN,NaN,0
+2010-12-23,Ottawa Senators,2,Nashville Predators,1,"17,113",NaN,NaN,0
+2010-12-23,Tampa Bay Lightning,4,New York Rangers,3,"18,200",NaN,SO,0
+2010-12-23,Phoenix Coyotes,1,San Jose Sharks,4,"17,562",NaN,NaN,0
+2010-12-23,Detroit Red Wings,3,St. Louis Blues,4,"19,150",NaN,NaN,0
+2010-12-23,Pittsburgh Penguins,3,Washington Capitals,2,"18,398",NaN,SO,0
+2010-12-26,Tampa Bay Lightning,3,Atlanta Thrashers,2,"14,610",NaN,OT,0
+2010-12-26,Washington Capitals,3,Carolina Hurricanes,2,"10,477",NaN,NaN,0
+2010-12-26,Columbus Blue Jackets,1,Chicago Blackhawks,4,"21,492",NaN,NaN,0
+2010-12-26,Phoenix Coyotes,1,Dallas Stars,0,"17,515",NaN,NaN,0
+2010-12-26,Anaheim Ducks,1,Los Angeles Kings,4,"18,313",NaN,NaN,0
+2010-12-26,Detroit Red Wings,4,Minnesota Wild,1,"19,227",NaN,NaN,0
+2010-12-26,Toronto Maple Leafs,4,New Jersey Devils,1,"5,329",NaN,NaN,0
+2010-12-26,Montreal Canadiens,1,New York Islanders,4,"3,136",NaN,NaN,0
+2010-12-26,Pittsburgh Penguins,1,Ottawa Senators,3,"20,146",NaN,NaN,0
+2010-12-26,Nashville Predators,0,St. Louis Blues,2,"19,150",NaN,NaN,0
+2010-12-26,Edmonton Oilers,2,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2010-12-27,Minnesota Wild,3,Columbus Blue Jackets,4,"14,454",NaN,SO,0
+2010-12-27,Buffalo Sabres,2,Calgary Flames,5,"19,289",NaN,NaN,0
+2010-12-27,Detroit Red Wings,4,Colorado Avalanche,3,"18,007",NaN,OT,0
+2010-12-27,Boston Bruins,3,Florida Panthers,2,"19,250",NaN,SO,0
+2010-12-27,New York Islanders,2,New York Rangers,7,"18,200",NaN,NaN,0
+2010-12-27,Los Angeles Kings,4,San Jose Sharks,0,"17,562",NaN,NaN,0
+2010-12-28,Buffalo Sabres,4,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2010-12-28,Dallas Stars,4,Nashville Predators,2,"17,113",NaN,NaN,0
+2010-12-28,Anaheim Ducks,3,Phoenix Coyotes,1,"14,032",NaN,NaN,0
+2010-12-28,Atlanta Thrashers,3,Pittsburgh Penguins,6,"18,322",NaN,NaN,0
+2010-12-28,Chicago Blackhawks,1,St. Louis Blues,3,"19,150",NaN,NaN,0
+2010-12-28,Boston Bruins,4,Tampa Bay Lightning,3,"20,204",NaN,NaN,0
+2010-12-28,Carolina Hurricanes,4,Toronto Maple Leafs,3,"19,309",NaN,NaN,0
+2010-12-28,Philadelphia Flyers,2,Vancouver Canucks,6,"18,860",NaN,NaN,0
+2010-12-28,Montreal Canadiens,0,Washington Capitals,3,"18,398",NaN,NaN,0
+2010-12-29,Detroit Red Wings,7,Dallas Stars,3,"18,532",NaN,NaN,0
+2010-12-29,San Jose Sharks,3,Minnesota Wild,5,"19,131",NaN,NaN,0
+2010-12-29,New York Rangers,3,New Jersey Devils,1,"17,625",NaN,NaN,0
+2010-12-29,Pittsburgh Penguins,1,New York Islanders,2,"14,345",NaN,SO,0
+2010-12-29,Carolina Hurricanes,4,Ottawa Senators,0,"20,221",NaN,NaN,0
+2010-12-29,Los Angeles Kings,3,Phoenix Coyotes,6,"15,153",NaN,NaN,0
+2010-12-30,Boston Bruins,2,Atlanta Thrashers,3,"17,624",NaN,SO,0
+2010-12-30,San Jose Sharks,5,Chicago Blackhawks,3,"22,112",NaN,NaN,0
+2010-12-30,Colorado Avalanche,4,Edmonton Oilers,3,"16,839",NaN,SO,0
+2010-12-30,Philadelphia Flyers,7,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2010-12-30,Montreal Canadiens,1,Tampa Bay Lightning,4,"20,191",NaN,NaN,0
+2010-12-30,Columbus Blue Jackets,3,Toronto Maple Leafs,2,"19,148",NaN,NaN,0
+2010-12-31,Philadelphia Flyers,2,Anaheim Ducks,5,"17,103",NaN,NaN,0
+2010-12-31,Ottawa Senators,3,Columbus Blue Jackets,4,"17,652",NaN,OT,0
+2010-12-31,Colorado Avalanche,2,Calgary Flames,3,"19,289",NaN,NaN,0
+2010-12-31,Vancouver Canucks,4,Dallas Stars,1,"17,733",NaN,NaN,0
+2010-12-31,New York Islanders,4,Detroit Red Wings,3,"20,066",NaN,OT,0
+2010-12-31,Montreal Canadiens,3,Florida Panthers,2,"20,072",NaN,OT,0
+2010-12-31,Nashville Predators,4,Minnesota Wild,1,"18,285",NaN,NaN,0
+2010-12-31,Atlanta Thrashers,1,New Jersey Devils,3,"13,492",NaN,NaN,0
+2010-12-31,Phoenix Coyotes,3,St. Louis Blues,4,"19,150",NaN,NaN,0
+2011-01-01,Boston Bruins,6,Buffalo Sabres,7,"18,690",NaN,SO,0
+2011-01-01,New Jersey Devils,3,Carolina Hurricanes,6,"16,107",NaN,NaN,0
+2011-01-01,Calgary Flames,2,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-01-01,San Jose Sharks,1,Los Angeles Kings,0,"18,118",NaN,NaN,0
+2011-01-01,Toronto Maple Leafs,5,Ottawa Senators,1,"20,027",NaN,NaN,0
+2011-01-01,Washington Capitals,3,Pittsburgh Penguins,1,"68,111",NaN,NaN,0
+2011-01-01,New York Rangers,1,Tampa Bay Lightning,2,"18,242",NaN,OT,0
+2011-01-02,Chicago Blackhawks,1,Anaheim Ducks,2,"16,004",NaN,NaN,0
+2011-01-02,Vancouver Canucks,2,Colorado Avalanche,1,"15,323",NaN,NaN,0
+2011-01-02,Philadelphia Flyers,3,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2011-01-02,New York Rangers,0,Florida Panthers,3,"16,752",NaN,NaN,0
+2011-01-02,Phoenix Coyotes,5,Minnesota Wild,6,"17,240",NaN,OT,0
+2011-01-02,Atlanta Thrashers,4,Montreal Canadiens,3,"21,273",NaN,OT,0
+2011-01-02,Columbus Blue Jackets,1,Nashville Predators,4,"14,593",NaN,NaN,0
+2011-01-02,Dallas Stars,4,St. Louis Blues,2,"19,150",NaN,NaN,0
+2011-01-03,Florida Panthers,4,Carolina Hurricanes,3,"16,637",NaN,OT,0
+2011-01-03,New York Islanders,5,Calgary Flames,2,"19,289",NaN,NaN,0
+2011-01-03,Chicago Blackhawks,4,Los Angeles Kings,3,"17,916",NaN,NaN,0
+2011-01-03,Vancouver Canucks,4,San Jose Sharks,3,"17,562",NaN,NaN,0
+2011-01-03,Boston Bruins,2,Toronto Maple Leafs,1,"19,052",NaN,NaN,0
+2011-01-04,Buffalo Sabres,3,Colorado Avalanche,4,"12,548",NaN,OT,0
+2011-01-04,Detroit Red Wings,5,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2011-01-04,Minnesota Wild,2,New Jersey Devils,1,"13,257",NaN,NaN,0
+2011-01-04,Columbus Blue Jackets,2,Phoenix Coyotes,4,"8,222",NaN,NaN,0
+2011-01-04,Tampa Bay Lightning,1,Washington Capitals,0,"18,398",NaN,OT,0
+2011-01-05,Nashville Predators,4,Anaheim Ducks,1,"12,216",NaN,NaN,0
+2011-01-05,Dallas Stars,4,Chicago Blackhawks,2,"21,245",NaN,NaN,0
+2011-01-05,Atlanta Thrashers,3,Florida Panthers,2,"12,803",NaN,NaN,0
+2011-01-05,Carolina Hurricanes,1,New York Rangers,2,"18,200",NaN,OT,0
+2011-01-05,Tampa Bay Lightning,1,Pittsburgh Penguins,8,"18,261",NaN,NaN,0
+2011-01-05,Calgary Flames,1,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2011-01-06,Minnesota Wild,3,Boston Bruins,1,"17,565",NaN,NaN,0
+2011-01-06,Phoenix Coyotes,2,Colorado Avalanche,0,"12,308",NaN,NaN,0
+2011-01-06,New York Islanders,1,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2011-01-06,Nashville Predators,5,Los Angeles Kings,2,"17,823",NaN,NaN,0
+2011-01-06,Pittsburgh Penguins,1,Montreal Canadiens,2,"21,273",NaN,SO,0
+2011-01-06,Philadelphia Flyers,4,New Jersey Devils,2,"15,098",NaN,NaN,0
+2011-01-06,Buffalo Sabres,3,San Jose Sharks,0,"17,562",NaN,NaN,0
+2011-01-06,St. Louis Blues,5,Toronto Maple Leafs,6,"19,283",NaN,SO,0
+2011-01-07,Columbus Blue Jackets,0,Anaheim Ducks,6,"12,815",NaN,NaN,0
+2011-01-07,Toronto Maple Leafs,9,Atlanta Thrashers,3,"14,592",NaN,NaN,0
+2011-01-07,Detroit Red Wings,5,Calgary Flames,4,"19,289",NaN,SO,0
+2011-01-07,Ottawa Senators,2,Chicago Blackhawks,3,"21,657",NaN,SO,0
+2011-01-07,New York Rangers,3,Dallas Stars,2,"14,934",NaN,SO,0
+2011-01-07,Carolina Hurricanes,5,Florida Panthers,3,"14,262",NaN,NaN,0
+2011-01-07,Edmonton Oilers,1,Vancouver Canucks,6,"18,860",NaN,NaN,0
+2011-01-08,New York Islanders,4,Colorado Avalanche,3,"15,171",NaN,OT,0
+2011-01-08,Columbus Blue Jackets,4,Los Angeles Kings,6,"18,118",NaN,NaN,0
+2011-01-08,Boston Bruins,2,Montreal Canadiens,3,"21,273",NaN,OT,0
+2011-01-08,Tampa Bay Lightning,2,Ottawa Senators,1,"19,698",NaN,NaN,0
+2011-01-08,New Jersey Devils,1,Philadelphia Flyers,2,"19,859",NaN,NaN,0
+2011-01-08,Buffalo Sabres,2,Phoenix Coyotes,1,"13,905",NaN,OT,0
+2011-01-08,Minnesota Wild,4,Pittsburgh Penguins,0,"18,263",NaN,NaN,0
+2011-01-08,Nashville Predators,2,San Jose Sharks,1,"17,562",NaN,NaN,0
+2011-01-08,New York Rangers,2,St. Louis Blues,1,"19,150",NaN,NaN,0
+2011-01-08,Detroit Red Wings,2,Vancouver Canucks,1,"18,860",NaN,SO,0
+2011-01-08,Florida Panthers,2,Washington Capitals,3,"18,398",NaN,NaN,0
+2011-01-09,San Jose Sharks,0,Anaheim Ducks,1,"16,172",NaN,NaN,0
+2011-01-09,Atlanta Thrashers,3,Carolina Hurricanes,4,"17,907",NaN,OT,0
+2011-01-09,New York Islanders,0,Chicago Blackhawks,5,"21,205",NaN,NaN,0
+2011-01-09,Dallas Stars,4,Minnesota Wild,0,"18,082",NaN,NaN,0
+2011-01-09,Tampa Bay Lightning,3,New Jersey Devils,6,"16,197",NaN,NaN,0
+2011-01-10,Detroit Red Wings,4,Colorado Avalanche,5,"17,535",NaN,NaN,0
+2011-01-10,Toronto Maple Leafs,3,Los Angeles Kings,2,"17,834",NaN,NaN,0
+2011-01-10,Boston Bruins,4,Pittsburgh Penguins,2,"18,245",NaN,NaN,0
+2011-01-10,Phoenix Coyotes,4,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-01-11,Ottawa Senators,0,Boston Bruins,6,"17,565",NaN,NaN,0
+2011-01-11,Philadelphia Flyers,5,Buffalo Sabres,2,"18,155",NaN,NaN,0
+2011-01-11,Calgary Flames,5,Carolina Hurricanes,6,"10,096",NaN,SO,0
+2011-01-11,Phoenix Coyotes,4,Columbus Blue Jackets,3,"11,109",NaN,NaN,0
+2011-01-11,Edmonton Oilers,2,Dallas Stars,3,"12,463",NaN,NaN,0
+2011-01-11,Washington Capitals,3,Florida Panthers,4,"14,790",NaN,OT,0
+2011-01-11,Minnesota Wild,1,Nashville Predators,5,"15,311",NaN,NaN,0
+2011-01-11,Vancouver Canucks,4,New York Islanders,3,"8,913",NaN,SO,0
+2011-01-11,Montreal Canadiens,2,New York Rangers,1,"18,200",NaN,NaN,0
+2011-01-11,Toronto Maple Leafs,4,San Jose Sharks,2,"17,562",NaN,NaN,0
+2011-01-12,St. Louis Blues,4,Anaheim Ducks,7,"12,499",NaN,NaN,0
+2011-01-12,Colorado Avalanche,0,Chicago Blackhawks,4,"21,356",NaN,NaN,0
+2011-01-12,Pittsburgh Penguins,5,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2011-01-12,Washington Capitals,0,Tampa Bay Lightning,3,"18,135",NaN,NaN,0
+2011-01-13,Philadelphia Flyers,5,Boston Bruins,7,"17,565",NaN,NaN,0
+2011-01-13,Carolina Hurricanes,2,Buffalo Sabres,3,"18,276",NaN,NaN,0
+2011-01-13,Nashville Predators,2,Florida Panthers,3,"12,228",NaN,NaN,0
+2011-01-13,St. Louis Blues,3,Los Angeles Kings,1,"17,932",NaN,NaN,0
+2011-01-13,Ottawa Senators,6,New York Islanders,4,"8,670",NaN,NaN,0
+2011-01-13,Vancouver Canucks,0,New York Rangers,1,"18,200",NaN,NaN,0
+2011-01-13,Toronto Maple Leafs,1,Phoenix Coyotes,5,"11,205",NaN,NaN,0
+2011-01-13,Edmonton Oilers,5,San Jose Sharks,2,"17,562",NaN,NaN,0
+2011-01-14,Philadelphia Flyers,5,Atlanta Thrashers,2,"15,081",NaN,NaN,0
+2011-01-14,Detroit Red Wings,2,Columbus Blue Jackets,3,"18,684",NaN,SO,0
+2011-01-14,Colorado Avalanche,4,Minnesota Wild,1,"18,218",NaN,NaN,0
+2011-01-14,Calgary Flames,3,Ottawa Senators,2,"19,984",NaN,NaN,0
+2011-01-14,New Jersey Devils,5,Tampa Bay Lightning,2,"18,736",NaN,NaN,0
+2011-01-14,Vancouver Canucks,4,Washington Capitals,2,"18,398",NaN,NaN,0
+2011-01-15,Pittsburgh Penguins,3,Boston Bruins,2,"17,565",NaN,NaN,0
+2011-01-15,Tampa Bay Lightning,4,Carolina Hurricanes,6,"18,680",NaN,NaN,0
+2011-01-15,Atlanta Thrashers,1,Dallas Stars,6,"17,702",NaN,NaN,0
+2011-01-15,Columbus Blue Jackets,5,Detroit Red Wings,6,"20,066",NaN,OT,0
+2011-01-15,New Jersey Devils,2,Florida Panthers,3,"17,825",NaN,OT,0
+2011-01-15,Edmonton Oilers,2,Los Angeles Kings,5,"18,118",NaN,NaN,0
+2011-01-15,New York Rangers,2,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2011-01-15,Chicago Blackhawks,2,Nashville Predators,3,"17,113",NaN,SO,0
+2011-01-15,Buffalo Sabres,3,New York Islanders,5,"12,223",NaN,NaN,0
+2011-01-15,Anaheim Ducks,2,Phoenix Coyotes,6,"10,951",NaN,NaN,0
+2011-01-15,St. Louis Blues,2,San Jose Sharks,4,"17,562",NaN,NaN,0
+2011-01-15,Calgary Flames,2,Toronto Maple Leafs,1,"19,462",NaN,SO,0
+2011-01-16,Edmonton Oilers,2,Anaheim Ducks,3,"15,764",NaN,NaN,0
+2011-01-16,Nashville Predators,3,Chicago Blackhawks,6,"21,387",NaN,NaN,0
+2011-01-16,Vancouver Canucks,0,Minnesota Wild,4,"18,458",NaN,NaN,0
+2011-01-16,Philadelphia Flyers,3,New York Rangers,2,"18,200",NaN,NaN,0
+2011-01-16,Ottawa Senators,1,Washington Capitals,3,"18,398",NaN,NaN,0
+2011-01-17,Carolina Hurricanes,0,Boston Bruins,7,"17,565",NaN,NaN,0
+2011-01-17,Los Angeles Kings,1,Dallas Stars,2,"14,163",NaN,NaN,0
+2011-01-17,Atlanta Thrashers,3,Florida Panthers,2,"11,477",NaN,SO,0
+2011-01-17,Calgary Flames,4,Montreal Canadiens,5,"21,273",NaN,OT,0
+2011-01-17,New Jersey Devils,5,New York Islanders,2,"13,119",NaN,NaN,0
+2011-01-17,San Jose Sharks,4,Phoenix Coyotes,2,"9,672",NaN,NaN,0
+2011-01-18,Montreal Canadiens,1,Buffalo Sabres,2,"18,225",NaN,OT,0
+2011-01-18,Boston Bruins,3,Carolina Hurricanes,2,"17,419",NaN,NaN,0
+2011-01-18,Vancouver Canucks,3,Colorado Avalanche,4,"12,791",NaN,OT,0
+2011-01-18,Minnesota Wild,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-01-18,Anaheim Ducks,2,Ottawa Senators,1,"19,515",NaN,SO,0
+2011-01-18,Washington Capitals,2,Philadelphia Flyers,3,"19,824",NaN,OT,0
+2011-01-18,Nashville Predators,5,Phoenix Coyotes,2,"8,236",NaN,NaN,0
+2011-01-18,Detroit Red Wings,1,Pittsburgh Penguins,4,"18,284",NaN,NaN,0
+2011-01-18,Los Angeles Kings,1,St. Louis Blues,2,"19,150",NaN,NaN,0
+2011-01-18,Columbus Blue Jackets,2,Tampa Bay Lightning,3,"13,291",NaN,SO,0
+2011-01-19,Minnesota Wild,6,Calgary Flames,0,"19,289",NaN,NaN,0
+2011-01-19,Columbus Blue Jackets,3,Florida Panthers,2,"11,629",NaN,OT,0
+2011-01-19,Toronto Maple Leafs,0,New York Rangers,7,"18,200",NaN,NaN,0
+2011-01-20,Tampa Bay Lightning,3,Atlanta Thrashers,2,"12,314",NaN,SO,0
+2011-01-20,Buffalo Sabres,4,Boston Bruins,2,"17,565",NaN,NaN,0
+2011-01-20,New York Rangers,1,Carolina Hurricanes,4,"15,861",NaN,NaN,0
+2011-01-20,Nashville Predators,5,Colorado Avalanche,1,"12,638",NaN,NaN,0
+2011-01-20,Dallas Stars,4,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2011-01-20,Phoenix Coyotes,2,Los Angeles Kings,0,"18,118",NaN,NaN,0
+2011-01-20,Pittsburgh Penguins,0,New Jersey Devils,2,"14,890",NaN,NaN,0
+2011-01-20,Washington Capitals,2,New York Islanders,1,"9,119",NaN,NaN,0
+2011-01-20,Ottawa Senators,2,Philadelphia Flyers,6,"19,721",NaN,NaN,0
+2011-01-20,Detroit Red Wings,4,St. Louis Blues,3,"19,150",NaN,OT,0
+2011-01-20,Anaheim Ducks,2,Toronto Maple Leafs,5,"19,399",NaN,NaN,0
+2011-01-20,San Jose Sharks,2,Vancouver Canucks,1,"18,860",NaN,SO,0
+2011-01-21,New York Islanders,5,Buffalo Sabres,2,"18,690",NaN,NaN,0
+2011-01-21,Dallas Stars,4,Calgary Flames,7,"19,289",NaN,NaN,0
+2011-01-21,Tampa Bay Lightning,2,Florida Panthers,1,"17,328",NaN,SO,0
+2011-01-21,Montreal Canadiens,7,Ottawa Senators,1,"20,337",NaN,NaN,0
+2011-01-22,New York Rangers,3,Atlanta Thrashers,2,"17,061",NaN,SO,0
+2011-01-22,Boston Bruins,6,Colorado Avalanche,2,"18,007",NaN,NaN,0
+2011-01-22,Chicago Blackhawks,4,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2011-01-22,Anaheim Ducks,4,Montreal Canadiens,3,"21,273",NaN,SO,0
+2011-01-22,New Jersey Devils,3,Philadelphia Flyers,1,"19,847",NaN,NaN,0
+2011-01-22,Los Angeles Kings,4,Phoenix Coyotes,3,"13,210",NaN,NaN,0
+2011-01-22,Carolina Hurricanes,2,Pittsburgh Penguins,3,"18,305",NaN,NaN,0
+2011-01-22,Minnesota Wild,3,San Jose Sharks,4,"17,562",NaN,NaN,0
+2011-01-22,Columbus Blue Jackets,5,St. Louis Blues,2,"19,150",NaN,NaN,0
+2011-01-22,Washington Capitals,4,Toronto Maple Leafs,1,"19,554",NaN,NaN,0
+2011-01-22,Calgary Flames,4,Vancouver Canucks,3,"18,860",NaN,SO,0
+2011-01-23,Philadelphia Flyers,4,Chicago Blackhawks,1,"21,660",NaN,NaN,0
+2011-01-23,Nashville Predators,3,Edmonton Oilers,2,"16,839",NaN,SO,0
+2011-01-23,Florida Panthers,2,New Jersey Devils,5,"15,109",NaN,NaN,0
+2011-01-23,Buffalo Sabres,5,New York Islanders,3,"10,120",NaN,NaN,0
+2011-01-23,Atlanta Thrashers,1,Tampa Bay Lightning,7,"13,916",NaN,NaN,0
+2011-01-24,Toronto Maple Leafs,4,Carolina Hurricanes,6,"16,201",NaN,NaN,0
+2011-01-24,Nashville Predators,1,Calgary Flames,3,"19,289",NaN,NaN,0
+2011-01-24,St. Louis Blues,3,Colorado Avalanche,4,"12,338",NaN,NaN,0
+2011-01-24,Boston Bruins,0,Los Angeles Kings,2,"18,118",NaN,NaN,0
+2011-01-24,Dallas Stars,1,Vancouver Canucks,7,"18,860",NaN,NaN,0
+2011-01-24,New York Rangers,2,Washington Capitals,1,"18,398",NaN,SO,0
+2011-01-25,Anaheim Ducks,3,Columbus Blue Jackets,2,"11,700",NaN,NaN,0
+2011-01-25,Minnesota Wild,4,Chicago Blackhawks,2,"21,247",NaN,NaN,0
+2011-01-25,Florida Panthers,4,New York Rangers,3,"18,200",NaN,NaN,0
+2011-01-25,Buffalo Sabres,3,Ottawa Senators,2,"18,990",NaN,OT,0
+2011-01-25,Montreal Canadiens,2,Philadelphia Flyers,5,"19,878",NaN,NaN,0
+2011-01-25,Edmonton Oilers,4,Phoenix Coyotes,3,"10,057",NaN,NaN,0
+2011-01-25,New York Islanders,0,Pittsburgh Penguins,1,"18,225",NaN,NaN,0
+2011-01-25,Toronto Maple Leafs,0,Tampa Bay Lightning,2,"14,335",NaN,NaN,0
+2011-01-26,Washington Capitals,0,Atlanta Thrashers,1,"14,513",NaN,NaN,0
+2011-01-26,Florida Panthers,1,Boston Bruins,2,"17,565",NaN,NaN,0
+2011-01-26,St. Louis Blues,1,Calgary Flames,4,"19,289",NaN,NaN,0
+2011-01-26,Phoenix Coyotes,5,Colorado Avalanche,2,"13,740",NaN,NaN,0
+2011-01-26,Edmonton Oilers,1,Dallas Stars,3,"13,875",NaN,NaN,0
+2011-01-26,New Jersey Devils,1,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2011-01-26,San Jose Sharks,2,Los Angeles Kings,3,"18,118",NaN,SO,0
+2011-01-26,Carolina Hurricanes,4,New York Islanders,2,"4,976",NaN,NaN,0
+2011-01-26,Nashville Predators,1,Vancouver Canucks,2,"18,860",NaN,NaN,0
+2011-02-01,New York Islanders,4,Atlanta Thrashers,1,"11,176",NaN,NaN,0
+2011-02-01,Boston Bruins,3,Carolina Hurricanes,2,"18,126",NaN,NaN,0
+2011-02-01,Chicago Blackhawks,7,Columbus Blue Jackets,4,"12,568",NaN,NaN,0
+2011-02-01,Vancouver Canucks,4,Dallas Stars,1,"12,884",NaN,NaN,0
+2011-02-01,Los Angeles Kings,0,Minnesota Wild,1,"17,504",NaN,SO,0
+2011-02-01,Ottawa Senators,1,New Jersey Devils,2,"7,218",NaN,NaN,0
+2011-02-01,Calgary Flames,3,Nashville Predators,2,"14,360",NaN,SO,0
+2011-02-01,Pittsburgh Penguins,4,New York Rangers,3,"18,200",NaN,SO,0
+2011-02-01,Phoenix Coyotes,3,San Jose Sharks,5,"17,562",NaN,NaN,0
+2011-02-01,Philadelphia Flyers,0,Tampa Bay Lightning,4,"16,635",NaN,NaN,0
+2011-02-01,Florida Panthers,3,Toronto Maple Leafs,4,"19,018",NaN,SO,0
+2011-02-01,Montreal Canadiens,3,Washington Capitals,2,"18,398",NaN,SO,0
+2011-02-02,San Jose Sharks,4,Anaheim Ducks,3,"14,486",NaN,NaN,0
+2011-02-02,Los Angeles Kings,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-02-02,Florida Panthers,2,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2011-02-02,Detroit Red Wings,7,Ottawa Senators,5,"18,011",NaN,NaN,0
+2011-02-02,Vancouver Canucks,6,Phoenix Coyotes,0,"13,157",NaN,NaN,0
+2011-02-02,New York Islanders,0,Pittsburgh Penguins,3,"18,142",NaN,NaN,0
+2011-02-03,Calgary Flames,4,Atlanta Thrashers,2,"12,984",NaN,NaN,0
+2011-02-03,Dallas Stars,3,Boston Bruins,6,"17,565",NaN,NaN,0
+2011-02-03,Minnesota Wild,4,Colorado Avalanche,3,"13,818",NaN,NaN,0
+2011-02-03,New Jersey Devils,3,New York Rangers,2,"18,200",NaN,NaN,0
+2011-02-03,Nashville Predators,2,Philadelphia Flyers,3,"19,702",NaN,NaN,0
+2011-02-03,Carolina Hurricanes,0,Toronto Maple Leafs,3,"19,220",NaN,NaN,0
+2011-02-04,Columbus Blue Jackets,3,Detroit Red Wings,0,"20,066",NaN,NaN,0
+2011-02-04,Florida Panthers,4,New Jersey Devils,3,"13,557",NaN,OT,0
+2011-02-04,Buffalo Sabres,2,Pittsburgh Penguins,3,"18,315",NaN,NaN,0
+2011-02-04,Edmonton Oilers,3,St. Louis Blues,5,"19,150",NaN,NaN,0
+2011-02-04,Washington Capitals,5,Tampa Bay Lightning,2,"20,216",NaN,NaN,0
+2011-02-04,Chicago Blackhawks,3,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2011-02-05,San Jose Sharks,2,Boston Bruins,0,"17,565",NaN,NaN,0
+2011-02-05,Toronto Maple Leafs,2,Buffalo Sabres,6,"18,264",NaN,NaN,0
+2011-02-05,Atlanta Thrashers,3,Carolina Hurricanes,4,"16,874",NaN,OT,0
+2011-02-05,Edmonton Oilers,3,Columbus Blue Jackets,4,"18,370",NaN,NaN,0
+2011-02-05,Los Angeles Kings,4,Calgary Flames,3,"19,289",NaN,SO,0
+2011-02-05,Anaheim Ducks,3,Colorado Avalanche,0,"16,785",NaN,NaN,0
+2011-02-05,New York Rangers,0,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2011-02-05,Detroit Red Wings,0,Nashville Predators,3,"17,113",NaN,NaN,0
+2011-02-05,Ottawa Senators,3,New York Islanders,5,"10,415",NaN,NaN,0
+2011-02-05,Dallas Stars,1,Philadelphia Flyers,3,"19,881",NaN,NaN,0
+2011-02-05,Minnesota Wild,0,Phoenix Coyotes,1,"14,587",NaN,NaN,0
+2011-02-06,New Jersey Devils,4,Montreal Canadiens,1,"21,273",NaN,NaN,0
+2011-02-06,St. Louis Blues,3,Tampa Bay Lightning,4,"14,896",NaN,OT,0
+2011-02-06,Pittsburgh Penguins,0,Washington Capitals,3,"18,398",NaN,NaN,0
+2011-02-07,Chicago Blackhawks,1,Calgary Flames,3,"19,289",NaN,NaN,0
+2011-02-07,New York Rangers,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2011-02-07,Edmonton Oilers,4,Nashville Predators,0,"14,388",NaN,NaN,0
+2011-02-07,Colorado Avalanche,0,Phoenix Coyotes,3,"9,508",NaN,NaN,0
+2011-02-07,Atlanta Thrashers,4,Toronto Maple Leafs,5,"19,104",NaN,NaN,0
+2011-02-07,Ottawa Senators,2,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2011-02-08,St. Louis Blues,2,Florida Panthers,1,"12,228",NaN,NaN,0
+2011-02-08,Carolina Hurricanes,2,New Jersey Devils,3,"12,126",NaN,OT,0
+2011-02-08,Toronto Maple Leafs,5,New York Islanders,3,"7,249",NaN,NaN,0
+2011-02-08,Columbus Blue Jackets,4,Pittsburgh Penguins,1,"18,147",NaN,NaN,0
+2011-02-08,Buffalo Sabres,7,Tampa Bay Lightning,4,"14,444",NaN,NaN,0
+2011-02-08,San Jose Sharks,2,Washington Capitals,0,"18,398",NaN,NaN,0
+2011-02-09,Montreal Canadiens,6,Boston Bruins,8,"17,565",NaN,NaN,0
+2011-02-09,San Jose Sharks,3,Columbus Blue Jackets,2,"11,906",NaN,NaN,0
+2011-02-09,Ottawa Senators,2,Calgary Flames,5,"19,289",NaN,NaN,0
+2011-02-09,Phoenix Coyotes,3,Dallas Stars,2,"11,488",NaN,OT,0
+2011-02-09,Nashville Predators,4,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2011-02-09,Chicago Blackhawks,4,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-02-09,Colorado Avalanche,2,Minnesota Wild,3,"18,194",NaN,NaN,0
+2011-02-09,Anaheim Ducks,4,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2011-02-10,Buffalo Sabres,3,Florida Panthers,2,"14,559",NaN,OT,0
+2011-02-10,New York Islanders,4,Montreal Canadiens,3,"21,273",NaN,SO,0
+2011-02-10,Carolina Hurricanes,1,Philadelphia Flyers,2,"19,726",NaN,NaN,0
+2011-02-10,Los Angeles Kings,1,Pittsburgh Penguins,2,"18,208",NaN,OT,0
+2011-02-10,New Jersey Devils,2,Toronto Maple Leafs,1,"19,260",NaN,OT,0
+2011-02-11,New York Rangers,2,Atlanta Thrashers,3,"15,093",NaN,NaN,0
+2011-02-11,Detroit Red Wings,6,Boston Bruins,1,"17,565",NaN,NaN,0
+2011-02-11,Colorado Avalanche,1,Columbus Blue Jackets,3,"16,408",NaN,NaN,0
+2011-02-11,Anaheim Ducks,5,Calgary Flames,4,"19,289",NaN,OT,0
+2011-02-11,Chicago Blackhawks,3,Dallas Stars,4,"17,569",NaN,SO,0
+2011-02-11,San Jose Sharks,1,New Jersey Devils,2,"17,102",NaN,NaN,0
+2011-02-11,Pittsburgh Penguins,3,New York Islanders,9,"12,888",NaN,NaN,0
+2011-02-11,Minnesota Wild,5,St. Louis Blues,4,"19,150",NaN,SO,0
+2011-02-12,Ottawa Senators,5,Edmonton Oilers,3,"16,839",NaN,NaN,0
+2011-02-12,St. Louis Blues,1,Minnesota Wild,3,"19,322",NaN,NaN,0
+2011-02-12,Toronto Maple Leafs,0,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2011-02-12,Colorado Avalanche,3,Nashville Predators,5,"17,113",NaN,NaN,0
+2011-02-12,Chicago Blackhawks,2,Phoenix Coyotes,3,"17,283",NaN,SO,0
+2011-02-12,Carolina Hurricanes,3,Tampa Bay Lightning,4,"19,910",NaN,OT,0
+2011-02-12,Calgary Flames,2,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2011-02-12,Los Angeles Kings,4,Washington Capitals,1,"18,398",NaN,NaN,0
+2011-02-13,Carolina Hurricanes,3,Atlanta Thrashers,2,"13,032",NaN,NaN,0
+2011-02-13,New York Islanders,7,Buffalo Sabres,6,"18,690",NaN,OT,0
+2011-02-13,Columbus Blue Jackets,2,Dallas Stars,1,"16,377",NaN,NaN,0
+2011-02-13,Boston Bruins,2,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2011-02-13,Anaheim Ducks,4,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2011-02-13,San Jose Sharks,2,Florida Panthers,3,"16,217",NaN,NaN,0
+2011-02-13,Pittsburgh Penguins,3,New York Rangers,5,"18,200",NaN,NaN,0
+2011-02-13,Los Angeles Kings,1,Philadelphia Flyers,0,"19,724",NaN,NaN,0
+2011-02-14,Calgary Flames,9,Colorado Avalanche,1,"14,035",NaN,NaN,0
+2011-02-14,Washington Capitals,2,Phoenix Coyotes,3,"13,856",NaN,NaN,0
+2011-02-14,Vancouver Canucks,2,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-02-15,Toronto Maple Leafs,4,Boston Bruins,3,"17,565",NaN,NaN,0
+2011-02-15,Dallas Stars,1,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2011-02-15,Vancouver Canucks,4,Minnesota Wild,1,"18,106",NaN,NaN,0
+2011-02-15,Buffalo Sabres,3,Montreal Canadiens,2,"21,273",NaN,SO,0
+2011-02-15,San Jose Sharks,2,Nashville Predators,1,"14,132",NaN,OT,0
+2011-02-15,New York Islanders,4,Ottawa Senators,3,"17,565",NaN,SO,0
+2011-02-15,Philadelphia Flyers,4,Tampa Bay Lightning,3,"16,950",NaN,SO,0
+2011-02-16,Washington Capitals,7,Anaheim Ducks,6,"15,579",NaN,NaN,0
+2011-02-16,Toronto Maple Leafs,2,Buffalo Sabres,1,"18,414",NaN,NaN,0
+2011-02-16,Los Angeles Kings,4,Columbus Blue Jackets,3,"12,442",NaN,SO,0
+2011-02-16,Dallas Stars,2,Calgary Flames,4,"19,289",NaN,NaN,0
+2011-02-16,Minnesota Wild,1,Chicago Blackhawks,3,"21,535",NaN,NaN,0
+2011-02-16,Pittsburgh Penguins,3,Colorado Avalanche,2,"17,357",NaN,OT,0
+2011-02-16,Philadelphia Flyers,4,Florida Panthers,2,"17,077",NaN,NaN,0
+2011-02-16,Carolina Hurricanes,2,New Jersey Devils,3,"14,445",NaN,NaN,0
+2011-02-17,Montreal Canadiens,1,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2011-02-17,Vancouver Canucks,1,Nashville Predators,3,"15,337",NaN,NaN,0
+2011-02-17,Boston Bruins,6,New York Islanders,3,"12,478",NaN,NaN,0
+2011-02-17,Los Angeles Kings,3,New York Rangers,4,"18,200",NaN,SO,0
+2011-02-17,Atlanta Thrashers,3,Phoenix Coyotes,4,"10,576",NaN,NaN,0
+2011-02-17,Washington Capitals,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2011-02-17,Detroit Red Wings,6,Tampa Bay Lightning,2,"20,849",NaN,NaN,0
+2011-02-18,St. Louis Blues,3,Buffalo Sabres,0,"18,493",NaN,NaN,0
+2011-02-18,Philadelphia Flyers,2,Carolina Hurricanes,3,"18,726",NaN,NaN,0
+2011-02-18,Columbus Blue Jackets,4,Chicago Blackhawks,3,"21,708",NaN,NaN,0
+2011-02-18,Detroit Red Wings,4,Florida Panthers,3,"19,947",NaN,NaN,0
+2011-02-18,Anaheim Ducks,1,Minnesota Wild,5,"18,967",NaN,NaN,0
+2011-02-18,New York Rangers,0,New Jersey Devils,1,"17,625",NaN,NaN,0
+2011-02-18,Boston Bruins,4,Ottawa Senators,2,"18,521",NaN,NaN,0
+2011-02-19,New Jersey Devils,4,Carolina Hurricanes,1,"17,890",NaN,NaN,0
+2011-02-19,Atlanta Thrashers,3,Edmonton Oilers,5,"16,839",NaN,NaN,0
+2011-02-19,Phoenix Coyotes,3,Nashville Predators,2,"17,113",NaN,NaN,0
+2011-02-19,Los Angeles Kings,0,New York Islanders,3,"13,119",NaN,NaN,0
+2011-02-19,Colorado Avalanche,0,San Jose Sharks,4,"17,562",NaN,NaN,0
+2011-02-19,Anaheim Ducks,3,St. Louis Blues,9,"19,150",NaN,NaN,0
+2011-02-19,Florida Panthers,3,Tampa Bay Lightning,2,"18,710",NaN,SO,0
+2011-02-19,Ottawa Senators,1,Toronto Maple Leafs,0,"19,460",NaN,SO,0
+2011-02-19,Dallas Stars,2,Vancouver Canucks,5,"18,860",NaN,NaN,0
+2011-02-20,Washington Capitals,2,Buffalo Sabres,1,"18,690",NaN,NaN,0
+2011-02-20,Montreal Canadiens,0,Calgary Flames,4,"41,022",NaN,NaN,0
+2011-02-20,Pittsburgh Penguins,2,Chicago Blackhawks,3,"22,195",NaN,SO,0
+2011-02-20,Detroit Red Wings,2,Minnesota Wild,1,"18,912",NaN,SO,0
+2011-02-20,Philadelphia Flyers,4,New York Rangers,2,"18,200",NaN,NaN,0
+2011-02-21,Florida Panthers,1,New York Islanders,5,"13,729",NaN,NaN,0
+2011-02-21,Washington Capitals,1,Pittsburgh Penguins,0,"18,263",NaN,NaN,0
+2011-02-21,Chicago Blackhawks,5,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-02-22,New York Rangers,4,Carolina Hurricanes,3,"17,932",NaN,SO,0
+2011-02-22,Nashville Predators,0,Columbus Blue Jackets,4,"12,457",NaN,NaN,0
+2011-02-22,Boston Bruins,3,Calgary Flames,1,"19,289",NaN,NaN,0
+2011-02-22,New Jersey Devils,1,Dallas Stars,0,"13,652",NaN,NaN,0
+2011-02-22,San Jose Sharks,4,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2011-02-22,Edmonton Oilers,1,Minnesota Wild,4,"17,321",NaN,NaN,0
+2011-02-22,Phoenix Coyotes,3,Philadelphia Flyers,2,"19,875",NaN,OT,0
+2011-02-22,Colorado Avalanche,4,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-02-22,New York Islanders,1,Toronto Maple Leafs,2,"19,459",NaN,NaN,0
+2011-02-22,Montreal Canadiens,3,Vancouver Canucks,2,"18,860",NaN,NaN,0
+2011-02-23,Los Angeles Kings,3,Anaheim Ducks,2,"17,174",NaN,NaN,0
+2011-02-23,Atlanta Thrashers,1,Buffalo Sabres,4,"18,690",NaN,NaN,0
+2011-02-23,Edmonton Oilers,5,Colorado Avalanche,1,"14,801",NaN,NaN,0
+2011-02-23,Florida Panthers,1,Ottawa Senators,5,"16,520",NaN,NaN,0
+2011-02-23,San Jose Sharks,3,Pittsburgh Penguins,2,"18,253",NaN,OT,0
+2011-02-23,Phoenix Coyotes,3,Tampa Bay Lightning,8,"15,104",NaN,NaN,0
+2011-02-24,Dallas Stars,4,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2011-02-24,Minnesota Wild,2,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2011-02-24,Toronto Maple Leafs,5,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2011-02-24,Chicago Blackhawks,3,Nashville Predators,0,"17,113",NaN,NaN,0
+2011-02-24,New York Islanders,3,Philadelphia Flyers,4,"19,776",NaN,OT,0
+2011-02-24,St. Louis Blues,2,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2011-02-25,Minnesota Wild,3,Anaheim Ducks,2,"13,617",NaN,OT,0
+2011-02-25,Florida Panthers,2,Atlanta Thrashers,1,"14,046",NaN,SO,0
+2011-02-25,Ottawa Senators,2,Buffalo Sabres,4,"18,690",NaN,NaN,0
+2011-02-25,Pittsburgh Penguins,1,Carolina Hurricanes,4,"18,719",NaN,NaN,0
+2011-02-25,Phoenix Coyotes,3,Columbus Blue Jackets,5,"16,771",NaN,NaN,0
+2011-02-25,San Jose Sharks,4,Calgary Flames,3,"19,289",NaN,SO,0
+2011-02-25,St. Louis Blues,5,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2011-02-25,New Jersey Devils,1,Tampa Bay Lightning,2,"19,563",NaN,NaN,0
+2011-02-25,New York Rangers,6,Washington Capitals,0,"18,398",NaN,NaN,0
+2011-02-26,Detroit Red Wings,3,Buffalo Sabres,2,"18,690",NaN,SO,0
+2011-02-26,Nashville Predators,2,Dallas Stars,3,"15,860",NaN,NaN,0
+2011-02-26,Colorado Avalanche,3,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2011-02-26,Carolina Hurricanes,3,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2011-02-26,Washington Capitals,3,New York Islanders,2,"16,250",NaN,NaN,0
+2011-02-26,Philadelphia Flyers,1,Ottawa Senators,4,"19,934",NaN,NaN,0
+2011-02-26,Pittsburgh Penguins,6,Toronto Maple Leafs,5,"19,551",NaN,SO,0
+2011-02-26,Boston Bruins,3,Vancouver Canucks,1,"18,860",NaN,NaN,0
+2011-02-27,Colorado Avalanche,2,Anaheim Ducks,3,"14,510",NaN,NaN,0
+2011-02-27,Toronto Maple Leafs,2,Atlanta Thrashers,3,"13,147",NaN,OT,0
+2011-02-27,St. Louis Blues,0,Calgary Flames,1,"19,289",NaN,NaN,0
+2011-02-27,Phoenix Coyotes,3,Chicago Blackhawks,4,"21,473",NaN,SO,0
+2011-02-27,Boston Bruins,3,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2011-02-27,New Jersey Devils,2,Florida Panthers,1,"16,592",NaN,NaN,0
+2011-02-27,Columbus Blue Jackets,2,Nashville Predators,3,"16,340",NaN,NaN,0
+2011-02-27,Tampa Bay Lightning,2,New York Rangers,1,"18,200",NaN,NaN,0
+2011-02-28,Detroit Red Wings,7,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2011-02-28,Chicago Blackhawks,4,Minnesota Wild,2,"19,155",NaN,NaN,0
+2011-03-01,Montreal Canadiens,3,Atlanta Thrashers,1,"11,156",NaN,NaN,0
+2011-03-01,Florida Panthers,1,Carolina Hurricanes,2,"16,252",NaN,NaN,0
+2011-03-01,Nashville Predators,1,Edmonton Oilers,2,"16,839",NaN,SO,0
+2011-03-01,Buffalo Sabres,3,New York Rangers,2,"18,200",NaN,NaN,0
+2011-03-01,Boston Bruins,1,Ottawa Senators,0,"16,826",NaN,NaN,0
+2011-03-01,Dallas Stars,3,Phoenix Coyotes,2,"15,751",NaN,NaN,0
+2011-03-01,Colorado Avalanche,1,San Jose Sharks,2,"17,562",NaN,SO,0
+2011-03-01,Calgary Flames,6,St. Louis Blues,0,"19,150",NaN,NaN,0
+2011-03-01,Columbus Blue Jackets,1,Vancouver Canucks,2,"18,860",NaN,SO,0
+2011-03-01,New York Islanders,1,Washington Capitals,2,"18,398",NaN,OT,0
+2011-03-02,Detroit Red Wings,1,Anaheim Ducks,2,"15,098",NaN,OT,0
+2011-03-02,Calgary Flames,4,Chicago Blackhawks,6,"20,896",NaN,NaN,0
+2011-03-02,Tampa Bay Lightning,1,New Jersey Devils,2,"12,857",NaN,NaN,0
+2011-03-02,Minnesota Wild,1,New York Islanders,4,"7,098",NaN,NaN,0
+2011-03-02,Pittsburgh Penguins,2,Toronto Maple Leafs,3,"19,473",NaN,OT,0
+2011-03-03,Ottawa Senators,3,Atlanta Thrashers,1,"10,461",NaN,NaN,0
+2011-03-03,Tampa Bay Lightning,1,Boston Bruins,2,"17,565",NaN,NaN,0
+2011-03-03,Buffalo Sabres,2,Carolina Hurricanes,3,"15,213",NaN,OT,0
+2011-03-03,Columbus Blue Jackets,2,Edmonton Oilers,4,"16,839",NaN,NaN,0
+2011-03-03,Montreal Canadiens,4,Florida Panthers,0,"19,722",NaN,NaN,0
+2011-03-03,Phoenix Coyotes,0,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2011-03-03,Minnesota Wild,3,New York Rangers,1,"18,200",NaN,NaN,0
+2011-03-03,Toronto Maple Leafs,3,Philadelphia Flyers,2,"19,811",NaN,NaN,0
+2011-03-03,Detroit Red Wings,1,San Jose Sharks,3,"17,562",NaN,NaN,0
+2011-03-03,Nashville Predators,3,Vancouver Canucks,0,"18,860",NaN,NaN,0
+2011-03-03,St. Louis Blues,2,Washington Capitals,3,"18,398",NaN,NaN,0
+2011-03-04,Dallas Stars,3,Anaheim Ducks,4,"12,883",NaN,OT,0
+2011-03-04,Columbus Blue Jackets,3,Calgary Flames,4,"19,289",NaN,NaN,0
+2011-03-04,Carolina Hurricanes,2,Chicago Blackhawks,5,"21,830",NaN,NaN,0
+2011-03-04,Pittsburgh Penguins,1,New Jersey Devils,2,"17,625",NaN,OT,0
+2011-03-04,New York Rangers,4,Ottawa Senators,1,"17,497",NaN,NaN,0
+2011-03-05,Florida Panthers,3,Atlanta Thrashers,4,"15,799",NaN,OT,0
+2011-03-05,Pittsburgh Penguins,3,Boston Bruins,2,"17,565",NaN,OT,0
+2011-03-05,Edmonton Oilers,5,Colorado Avalanche,1,"15,869",NaN,NaN,0
+2011-03-05,Vancouver Canucks,3,Los Angeles Kings,1,"18,118",NaN,NaN,0
+2011-03-05,St. Louis Blues,2,New York Islanders,5,"10,354",NaN,NaN,0
+2011-03-05,Buffalo Sabres,5,Philadelphia Flyers,3,"19,901",NaN,NaN,0
+2011-03-05,Detroit Red Wings,4,Phoenix Coyotes,5,"17,382",NaN,SO,0
+2011-03-05,Dallas Stars,3,San Jose Sharks,2,"17,562",NaN,NaN,0
+2011-03-05,Montreal Canadiens,4,Tampa Bay Lightning,2,"20,274",NaN,NaN,0
+2011-03-05,Chicago Blackhawks,5,Toronto Maple Leafs,3,"19,646",NaN,NaN,0
+2011-03-06,Vancouver Canucks,3,Anaheim Ducks,0,"16,356",NaN,NaN,0
+2011-03-06,Nashville Predators,2,Calgary Flames,3,"19,289",NaN,NaN,0
+2011-03-06,Washington Capitals,3,Florida Panthers,2,"15,685",NaN,OT,0
+2011-03-06,Buffalo Sabres,3,Minnesota Wild,2,"18,091",NaN,OT,0
+2011-03-06,New Jersey Devils,3,New York Islanders,2,"15,893",NaN,SO,0
+2011-03-06,Philadelphia Flyers,0,New York Rangers,7,"18,200",NaN,NaN,0
+2011-03-07,Dallas Stars,4,Los Angeles Kings,3,"18,118",NaN,OT,0
+2011-03-07,Columbus Blue Jackets,4,St. Louis Blues,5,"19,150",NaN,SO,0
+2011-03-07,Washington Capitals,2,Tampa Bay Lightning,1,"16,835",NaN,SO,0
+2011-03-08,Chicago Blackhawks,2,Florida Panthers,3,"16,132",NaN,NaN,0
+2011-03-08,Colorado Avalanche,2,Minnesota Wild,5,"18,441",NaN,NaN,0
+2011-03-08,Boston Bruins,1,Montreal Canadiens,4,"21,273",NaN,NaN,0
+2011-03-08,Ottawa Senators,2,New Jersey Devils,1,"15,978",NaN,NaN,0
+2011-03-08,Toronto Maple Leafs,3,New York Islanders,4,"9,217",NaN,OT,0
+2011-03-08,Edmonton Oilers,1,Philadelphia Flyers,4,"19,730",NaN,NaN,0
+2011-03-08,Vancouver Canucks,4,Phoenix Coyotes,3,"12,843",NaN,OT,0
+2011-03-08,Buffalo Sabres,1,Pittsburgh Penguins,3,"18,314",NaN,NaN,0
+2011-03-08,Nashville Predators,2,San Jose Sharks,3,"17,562",NaN,OT,0
+2011-03-09,New York Rangers,2,Anaheim Ducks,5,"14,251",NaN,NaN,0
+2011-03-09,Atlanta Thrashers,3,Carolina Hurricanes,2,"16,126",NaN,OT,0
+2011-03-09,St. Louis Blues,4,Columbus Blue Jackets,3,"11,508",NaN,OT,0
+2011-03-09,Calgary Flames,4,Dallas Stars,3,"14,476",NaN,SO,0
+2011-03-09,Los Angeles Kings,2,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2011-03-09,Chicago Blackhawks,3,Tampa Bay Lightning,4,"19,912",NaN,SO,0
+2011-03-09,Edmonton Oilers,0,Washington Capitals,5,"18,398",NaN,NaN,0
+2011-03-10,Buffalo Sabres,4,Boston Bruins,3,"17,565",NaN,OT,0
+2011-03-10,Ottawa Senators,2,Florida Panthers,1,"12,310",NaN,NaN,0
+2011-03-10,Minnesota Wild,0,Nashville Predators,4,"15,343",NaN,NaN,0
+2011-03-10,Calgary Flames,0,Phoenix Coyotes,3,"13,003",NaN,NaN,0
+2011-03-10,Vancouver Canucks,5,San Jose Sharks,4,"17,562",NaN,SO,0
+2011-03-10,Montreal Canadiens,1,St. Louis Blues,4,"19,150",NaN,NaN,0
+2011-03-10,Philadelphia Flyers,3,Toronto Maple Leafs,2,"19,475",NaN,NaN,0
+2011-03-11,New Jersey Devils,3,Atlanta Thrashers,2,"16,073",NaN,OT,0
+2011-03-11,Los Angeles Kings,4,Columbus Blue Jackets,2,"15,605",NaN,NaN,0
+2011-03-11,Anaheim Ducks,6,Colorado Avalanche,2,"16,244",NaN,NaN,0
+2011-03-11,Minnesota Wild,0,Dallas Stars,4,"14,545",NaN,NaN,0
+2011-03-11,Edmonton Oilers,1,Detroit Red Wings,2,"20,066",NaN,OT,0
+2011-03-11,Boston Bruins,2,New York Islanders,4,"12,119",NaN,NaN,0
+2011-03-11,Ottawa Senators,2,Tampa Bay Lightning,1,"18,777",NaN,NaN,0
+2011-03-11,Carolina Hurricanes,1,Washington Capitals,2,"18,398",NaN,NaN,0
+2011-03-12,Columbus Blue Jackets,3,Carolina Hurricanes,2,"18,680",NaN,NaN,0
+2011-03-12,Vancouver Canucks,4,Calgary Flames,3,"19,289",NaN,NaN,0
+2011-03-12,Tampa Bay Lightning,3,Florida Panthers,4,"16,607",NaN,OT,0
+2011-03-12,New York Islanders,2,New Jersey Devils,3,"17,625",NaN,OT,0
+2011-03-12,Colorado Avalanche,2,Nashville Predators,4,"17,113",NaN,NaN,0
+2011-03-12,Atlanta Thrashers,5,Philadelphia Flyers,4,"19,892",NaN,OT,0
+2011-03-12,Montreal Canadiens,3,Pittsburgh Penguins,0,"18,310",NaN,NaN,0
+2011-03-12,New York Rangers,3,San Jose Sharks,2,"17,562",NaN,SO,0
+2011-03-12,Detroit Red Wings,5,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-03-12,Buffalo Sabres,3,Toronto Maple Leafs,4,"19,347",NaN,NaN,0
+2011-03-13,Phoenix Coyotes,5,Anaheim Ducks,2,"14,326",NaN,NaN,0
+2011-03-13,Ottawa Senators,4,Buffalo Sabres,6,"18,690",NaN,NaN,0
+2011-03-13,Los Angeles Kings,3,Dallas Stars,2,"15,627",NaN,NaN,0
+2011-03-13,Edmonton Oilers,1,Pittsburgh Penguins,5,"18,197",NaN,NaN,0
+2011-03-13,Chicago Blackhawks,3,Washington Capitals,4,"18,398",NaN,OT,0
+2011-03-14,San Jose Sharks,3,Chicago Blackhawks,6,"22,094",NaN,NaN,0
+2011-03-14,Tampa Bay Lightning,6,Toronto Maple Leafs,2,"19,410",NaN,NaN,0
+2011-03-14,Minnesota Wild,2,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2011-03-15,Carolina Hurricanes,1,Buffalo Sabres,0,"18,690",NaN,NaN,0
+2011-03-15,Boston Bruins,3,Columbus Blue Jackets,2,"12,282",NaN,SO,0
+2011-03-15,Phoenix Coyotes,4,Calgary Flames,3,"19,289",NaN,NaN,0
+2011-03-15,San Jose Sharks,6,Dallas Stars,3,"16,724",NaN,NaN,0
+2011-03-15,Philadelphia Flyers,3,Florida Panthers,2,"17,377",NaN,NaN,0
+2011-03-15,Washington Capitals,4,Montreal Canadiens,2,"21,273",NaN,NaN,0
+2011-03-15,Atlanta Thrashers,2,New Jersey Devils,4,"16,188",NaN,NaN,0
+2011-03-15,Los Angeles Kings,4,Nashville Predators,2,"15,761",NaN,NaN,0
+2011-03-15,New York Islanders,3,New York Rangers,6,"18,200",NaN,NaN,0
+2011-03-15,Pittsburgh Penguins,5,Ottawa Senators,1,"19,249",NaN,NaN,0
+2011-03-16,St. Louis Blues,1,Anaheim Ducks,2,"12,604",NaN,NaN,0
+2011-03-16,Toronto Maple Leafs,3,Carolina Hurricanes,1,"15,220",NaN,NaN,0
+2011-03-16,Washington Capitals,2,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2011-03-16,Colorado Avalanche,2,Vancouver Canucks,4,"18,860",NaN,NaN,0
+2011-03-17,Philadelphia Flyers,3,Atlanta Thrashers,4,"16,502",NaN,SO,0
+2011-03-17,Detroit Red Wings,2,Columbus Blue Jackets,0,"14,444",NaN,NaN,0
+2011-03-17,Colorado Avalanche,2,Calgary Flames,5,"19,289",NaN,NaN,0
+2011-03-17,Chicago Blackhawks,0,Dallas Stars,5,"14,830",NaN,NaN,0
+2011-03-17,Phoenix Coyotes,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-03-17,Toronto Maple Leafs,0,Florida Panthers,4,"16,970",NaN,NaN,0
+2011-03-17,St. Louis Blues,4,Los Angeles Kings,0,"18,118",NaN,NaN,0
+2011-03-17,Tampa Bay Lightning,2,Montreal Canadiens,3,"21,273",NaN,SO,0
+2011-03-17,Boston Bruins,3,Nashville Predators,4,"16,839",NaN,OT,0
+2011-03-17,New Jersey Devils,1,Ottawa Senators,3,"17,758",NaN,NaN,0
+2011-03-17,Minnesota Wild,2,San Jose Sharks,3,"17,562",NaN,NaN,0
+2011-03-18,New York Islanders,2,Carolina Hurricanes,3,"17,686",NaN,OT,0
+2011-03-18,Washington Capitals,3,New Jersey Devils,0,"17,625",NaN,NaN,0
+2011-03-18,Montreal Canadiens,3,New York Rangers,6,"18,200",NaN,NaN,0
+2011-03-18,Phoenix Coyotes,3,Vancouver Canucks,1,"18,860",NaN,NaN,0
+2011-03-19,Atlanta Thrashers,2,Buffalo Sabres,8,"18,690",NaN,NaN,0
+2011-03-19,Philadelphia Flyers,3,Dallas Stars,2,"17,652",NaN,SO,0
+2011-03-19,Colorado Avalanche,3,Edmonton Oilers,2,"16,839",NaN,SO,0
+2011-03-19,New York Islanders,4,Florida Panthers,3,"16,502",NaN,SO,0
+2011-03-19,Anaheim Ducks,2,Los Angeles Kings,1,"18,118",NaN,OT,0
+2011-03-19,Columbus Blue Jackets,5,Minnesota Wild,4,"18,305",NaN,OT,0
+2011-03-19,Detroit Red Wings,1,Nashville Predators,3,"17,113",NaN,NaN,0
+2011-03-19,Tampa Bay Lightning,2,Ottawa Senators,3,"18,813",NaN,OT,0
+2011-03-19,St. Louis Blues,3,San Jose Sharks,5,"17,562",NaN,NaN,0
+2011-03-19,Boston Bruins,2,Toronto Maple Leafs,5,"19,512",NaN,NaN,0
+2011-03-20,Calgary Flames,4,Anaheim Ducks,5,"15,177",NaN,OT,0
+2011-03-20,Nashville Predators,4,Buffalo Sabres,3,"18,690",NaN,OT,0
+2011-03-20,New Jersey Devils,3,Columbus Blue Jackets,0,"13,043",NaN,NaN,0
+2011-03-20,Montreal Canadiens,8,Minnesota Wild,1,"18,595",NaN,NaN,0
+2011-03-20,Chicago Blackhawks,2,Phoenix Coyotes,1,"17,328",NaN,NaN,0
+2011-03-20,New York Rangers,5,Pittsburgh Penguins,2,"18,278",NaN,NaN,0
+2011-03-21,Pittsburgh Penguins,5,Detroit Red Wings,4,"20,066",NaN,SO,0
+2011-03-21,Calgary Flames,1,Los Angeles Kings,2,"18,118",NaN,SO,0
+2011-03-22,New Jersey Devils,1,Boston Bruins,4,"17,565",NaN,NaN,0
+2011-03-22,Ottawa Senators,3,Carolina Hurricanes,4,"16,189",NaN,NaN,0
+2011-03-22,Columbus Blue Jackets,4,Colorado Avalanche,5,"12,301",NaN,SO,0
+2011-03-22,Toronto Maple Leafs,3,Minnesota Wild,0,"18,761",NaN,NaN,0
+2011-03-22,Buffalo Sabres,2,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2011-03-22,Edmonton Oilers,1,Nashville Predators,3,"15,745",NaN,NaN,0
+2011-03-22,Florida Panthers,0,New York Rangers,1,"18,200",NaN,NaN,0
+2011-03-22,Washington Capitals,5,Philadelphia Flyers,4,"19,893",NaN,SO,0
+2011-03-22,St. Louis Blues,1,Phoenix Coyotes,2,"10,977",NaN,NaN,0
+2011-03-22,New York Islanders,5,Tampa Bay Lightning,2,"17,400",NaN,NaN,0
+2011-03-23,Florida Panthers,0,Chicago Blackhawks,4,"21,713",NaN,NaN,0
+2011-03-23,Anaheim Ducks,4,Dallas Stars,3,"16,021",NaN,OT,0
+2011-03-23,Vancouver Canucks,2,Detroit Red Wings,1,"20,066",NaN,NaN,0
+2011-03-23,Calgary Flames,3,San Jose Sharks,6,"17,562",NaN,NaN,0
+2011-03-24,Montreal Canadiens,0,Boston Bruins,7,"17,565",NaN,NaN,0
+2011-03-24,Toronto Maple Leafs,4,Colorado Avalanche,3,"14,364",NaN,NaN,0
+2011-03-24,San Jose Sharks,3,Los Angeles Kings,4,"18,118",NaN,SO,0
+2011-03-24,Anaheim Ducks,4,Nashville Predators,5,"17,113",NaN,NaN,0
+2011-03-24,Atlanta Thrashers,2,New York Islanders,1,"11,874",NaN,NaN,0
+2011-03-24,Ottawa Senators,2,New York Rangers,1,"18,200",NaN,SO,0
+2011-03-24,Pittsburgh Penguins,2,Philadelphia Flyers,1,"19,902",NaN,SO,0
+2011-03-24,Columbus Blue Jackets,0,Phoenix Coyotes,3,"11,172",NaN,NaN,0
+2011-03-24,Edmonton Oilers,0,St. Louis Blues,4,"19,150",NaN,NaN,0
+2011-03-25,Vancouver Canucks,3,Atlanta Thrashers,1,"16,237",NaN,NaN,0
+2011-03-25,Florida Panthers,2,Buffalo Sabres,4,"18,690",NaN,NaN,0
+2011-03-25,Washington Capitals,0,Ottawa Senators,2,"18,329",NaN,NaN,0
+2011-03-25,New Jersey Devils,0,Pittsburgh Penguins,1,"18,329",NaN,SO,0
+2011-03-25,Carolina Hurricanes,4,Tampa Bay Lightning,3,"16,656",NaN,NaN,0
+2011-03-26,New York Rangers,1,Boston Bruins,0,"17,565",NaN,NaN,0
+2011-03-26,New Jersey Devils,0,Buffalo Sabres,2,"18,690",NaN,NaN,0
+2011-03-26,Tampa Bay Lightning,4,Carolina Hurricanes,2,"17,264",NaN,NaN,0
+2011-03-26,Anaheim Ducks,2,Chicago Blackhawks,1,"22,115",NaN,NaN,0
+2011-03-26,Toronto Maple Leafs,2,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2011-03-26,Calgary Flames,5,Edmonton Oilers,4,"16,839",NaN,SO,0
+2011-03-26,Colorado Avalanche,1,Los Angeles Kings,4,"18,118",NaN,NaN,0
+2011-03-26,St. Louis Blues,6,Minnesota Wild,3,"18,112",NaN,NaN,0
+2011-03-26,Washington Capitals,2,Montreal Canadiens,0,"21,273",NaN,NaN,0
+2011-03-26,Dallas Stars,2,Nashville Predators,4,"16,892",NaN,NaN,0
+2011-03-26,Philadelphia Flyers,4,New York Islanders,1,"15,458",NaN,NaN,0
+2011-03-26,San Jose Sharks,4,Phoenix Coyotes,1,"16,394",NaN,NaN,0
+2011-03-27,Ottawa Senators,4,Atlanta Thrashers,5,"16,392",NaN,SO,0
+2011-03-27,Vancouver Canucks,4,Columbus Blue Jackets,1,"14,469",NaN,NaN,0
+2011-03-27,Boston Bruins,2,Philadelphia Flyers,1,"19,927",NaN,NaN,0
+2011-03-27,Florida Panthers,1,Pittsburgh Penguins,2,"18,270",NaN,SO,0
+2011-03-28,Colorado Avalanche,4,Anaheim Ducks,5,"14,336",NaN,NaN,0
+2011-03-28,Chicago Blackhawks,3,Detroit Red Wings,2,"20,066",NaN,OT,0
+2011-03-29,Chicago Blackhawks,0,Boston Bruins,3,"17,565",NaN,NaN,0
+2011-03-29,Florida Panthers,2,Columbus Blue Jackets,3,"11,670",NaN,SO,0
+2011-03-29,Los Angeles Kings,2,Edmonton Oilers,0,"16,839",NaN,NaN,0
+2011-03-29,Atlanta Thrashers,1,Montreal Canadiens,3,"21,273",NaN,NaN,0
+2011-03-29,Vancouver Canucks,3,Nashville Predators,1,"15,960",NaN,NaN,0
+2011-03-29,Dallas Stars,1,Phoenix Coyotes,2,"12,541",NaN,SO,0
+2011-03-29,Philadelphia Flyers,5,Pittsburgh Penguins,2,"18,335",NaN,NaN,0
+2011-03-29,Minnesota Wild,3,St. Louis Blues,2,"19,150",NaN,SO,0
+2011-03-29,Ottawa Senators,2,Tampa Bay Lightning,5,"16,626",NaN,NaN,0
+2011-03-29,Buffalo Sabres,3,Toronto Maple Leafs,4,"19,483",NaN,NaN,0
+2011-03-29,Carolina Hurricanes,3,Washington Capitals,2,"18,398",NaN,SO,0
+2011-03-30,New York Rangers,0,Buffalo Sabres,1,"18,690",NaN,NaN,0
+2011-03-30,Montreal Canadiens,2,Carolina Hurricanes,6,"18,701",NaN,NaN,0
+2011-03-30,Anaheim Ducks,4,Calgary Flames,2,"19,289",NaN,NaN,0
+2011-03-30,St. Louis Blues,10,Detroit Red Wings,3,"20,066",NaN,NaN,0
+2011-03-30,New York Islanders,2,New Jersey Devils,3,"16,252",NaN,NaN,0
+2011-03-31,Toronto Maple Leafs,4,Boston Bruins,3,"17,565",NaN,SO,0
+2011-03-31,Nashville Predators,3,Colorado Avalanche,2,"13,239",NaN,NaN,0
+2011-03-31,Ottawa Senators,4,Florida Panthers,1,"15,672",NaN,NaN,0
+2011-03-31,Edmonton Oilers,2,Minnesota Wild,4,"18,120",NaN,NaN,0
+2011-03-31,New York Rangers,2,New York Islanders,6,"16,250",NaN,NaN,0
+2011-03-31,Atlanta Thrashers,1,Philadelphia Flyers,0,"19,879",NaN,NaN,0
+2011-03-31,Dallas Stars,0,San Jose Sharks,6,"17,562",NaN,NaN,0
+2011-03-31,Pittsburgh Penguins,1,Tampa Bay Lightning,2,"20,126",NaN,NaN,0
+2011-03-31,Los Angeles Kings,1,Vancouver Canucks,3,"18,860",NaN,NaN,0
+2011-03-31,Columbus Blue Jackets,3,Washington Capitals,4,"18,398",NaN,OT,0
+2011-04-01,Chicago Blackhawks,4,Columbus Blue Jackets,3,"16,217",NaN,SO,0
+2011-04-01,Philadelphia Flyers,2,New Jersey Devils,4,"17,625",NaN,NaN,0
+2011-04-01,Colorado Avalanche,4,Phoenix Coyotes,3,"15,739",NaN,SO,0
+2011-04-01,Calgary Flames,3,St. Louis Blues,2,"19,150",NaN,NaN,0
+2011-04-02,Atlanta Thrashers,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2011-04-02,Pittsburgh Penguins,4,Florida Panthers,2,"18,178",NaN,NaN,0
+2011-04-02,Dallas Stars,1,Los Angeles Kings,3,"18,118",NaN,NaN,0
+2011-04-02,Tampa Bay Lightning,3,Minnesota Wild,1,"18,591",NaN,NaN,0
+2011-04-02,Montreal Canadiens,3,New Jersey Devils,1,"17,625",NaN,NaN,0
+2011-04-02,Detroit Red Wings,4,Nashville Predators,3,"17,113",NaN,OT,0
+2011-04-02,Carolina Hurricanes,4,New York Islanders,2,"16,250",NaN,NaN,0
+2011-04-02,Toronto Maple Leafs,4,Ottawa Senators,2,"19,243",NaN,NaN,0
+2011-04-02,Anaheim Ducks,2,San Jose Sharks,4,"17,562",NaN,NaN,0
+2011-04-02,Edmonton Oilers,4,Vancouver Canucks,1,"18,860",NaN,NaN,0
+2011-04-02,Buffalo Sabres,4,Washington Capitals,5,"18,398",NaN,OT,0
+2011-04-03,Dallas Stars,4,Anaheim Ducks,3,"16,424",NaN,NaN,0
+2011-04-03,Buffalo Sabres,2,Carolina Hurricanes,1,"18,740",NaN,OT,0
+2011-04-03,St. Louis Blues,6,Columbus Blue Jackets,1,"13,538",NaN,NaN,0
+2011-04-03,Tampa Bay Lightning,2,Chicago Blackhawks,0,"21,587",NaN,NaN,0
+2011-04-03,Calgary Flames,2,Colorado Avalanche,1,"13,896",NaN,NaN,0
+2011-04-03,Minnesota Wild,2,Detroit Red Wings,4,"20,066",NaN,NaN,0
+2011-04-03,New York Rangers,3,Philadelphia Flyers,2,"19,788",NaN,SO,0
+2011-04-04,Boston Bruins,3,New York Rangers,5,"18,200",NaN,NaN,0
+2011-04-04,Los Angeles Kings,1,San Jose Sharks,6,"17,562",NaN,NaN,0
+2011-04-05,Tampa Bay Lightning,2,Buffalo Sabres,4,"18,690",NaN,NaN,0
+2011-04-05,Columbus Blue Jackets,0,Dallas Stars,3,"16,012",NaN,NaN,0
+2011-04-05,Vancouver Canucks,0,Edmonton Oilers,2,"16,839",NaN,NaN,0
+2011-04-05,Chicago Blackhawks,1,Montreal Canadiens,2,"21,273",NaN,OT,0
+2011-04-05,Atlanta Thrashers,3,Nashville Predators,6,"16,756",NaN,NaN,0
+2011-04-05,Philadelphia Flyers,2,Ottawa Senators,5,"18,397",NaN,NaN,0
+2011-04-05,New Jersey Devils,2,Pittsburgh Penguins,4,"18,331",NaN,NaN,0
+2011-04-05,Colorado Avalanche,1,St. Louis Blues,3,"19,150",NaN,NaN,0
+2011-04-05,Washington Capitals,3,Toronto Maple Leafs,2,"19,509",NaN,SO,0
+2011-04-06,San Jose Sharks,2,Anaheim Ducks,6,"15,649",NaN,NaN,0
+2011-04-06,New York Islanders,2,Boston Bruins,3,"17,565",NaN,NaN,0
+2011-04-06,Detroit Red Wings,0,Carolina Hurricanes,3,"17,602",NaN,NaN,0
+2011-04-06,Edmonton Oilers,1,Calgary Flames,6,"19,289",NaN,NaN,0
+2011-04-06,St. Louis Blues,3,Chicago Blackhawks,4,"21,435",NaN,OT,0
+2011-04-06,Phoenix Coyotes,2,Los Angeles Kings,3,"18,118",NaN,SO,0
+2011-04-06,Toronto Maple Leafs,2,New Jersey Devils,4,"14,207",NaN,NaN,0
+2011-04-06,Florida Panthers,2,Washington Capitals,5,"18,398",NaN,NaN,0
+2011-04-07,Colorado Avalanche,2,Dallas Stars,4,"15,105",NaN,NaN,0
+2011-04-07,Atlanta Thrashers,3,New York Rangers,0,"18,200",NaN,NaN,0
+2011-04-07,Montreal Canadiens,2,Ottawa Senators,3,"19,809",NaN,OT,0
+2011-04-07,Minnesota Wild,0,Vancouver Canucks,5,"18,860",NaN,NaN,0
+2011-04-08,Los Angeles Kings,1,Anaheim Ducks,2,"17,587",NaN,NaN,0
+2011-04-08,Carolina Hurricanes,6,Atlanta Thrashers,1,"14,652",NaN,NaN,0
+2011-04-08,Philadelphia Flyers,3,Buffalo Sabres,4,"18,690",NaN,OT,0
+2011-04-08,Dallas Stars,3,Colorado Avalanche,2,"14,037",NaN,NaN,0
+2011-04-08,Chicago Blackhawks,4,Detroit Red Wings,2,"20,066",NaN,NaN,0
+2011-04-08,Minnesota Wild,3,Edmonton Oilers,1,"16,839",NaN,NaN,0
+2011-04-08,Columbus Blue Jackets,1,Nashville Predators,4,"17,113",NaN,NaN,0
+2011-04-08,Pittsburgh Penguins,4,New York Islanders,3,"16,250",NaN,SO,0
+2011-04-08,San Jose Sharks,3,Phoenix Coyotes,4,"17,125",NaN,NaN,0
+2011-04-08,Florida Panthers,2,Tampa Bay Lightning,4,"20,444",NaN,NaN,0
+2011-04-09,Ottawa Senators,1,Boston Bruins,3,"17,565",NaN,NaN,0
+2011-04-09,Tampa Bay Lightning,6,Carolina Hurricanes,2,"17,805",NaN,NaN,0
+2011-04-09,Buffalo Sabres,5,Columbus Blue Jackets,4,"18,717",NaN,NaN,0
+2011-04-09,Vancouver Canucks,3,Calgary Flames,2,"19,289",NaN,OT,0
+2011-04-09,Washington Capitals,0,Florida Panthers,1,"18,371",NaN,NaN,0
+2011-04-09,Anaheim Ducks,3,Los Angeles Kings,1,"18,203",NaN,NaN,0
+2011-04-09,New Jersey Devils,2,New York Rangers,5,"18,200",NaN,NaN,0
+2011-04-09,New York Islanders,4,Philadelphia Flyers,7,"19,909",NaN,NaN,0
+2011-04-09,Phoenix Coyotes,1,San Jose Sharks,3,"17,562",NaN,NaN,0
+2011-04-09,Nashville Predators,0,St. Louis Blues,2,"19,150",NaN,NaN,0
+2011-04-09,Montreal Canadiens,4,Toronto Maple Leafs,1,"19,676",NaN,NaN,0
+2011-04-10,Pittsburgh Penguins,5,Atlanta Thrashers,2,"16,085",NaN,NaN,0
+2011-04-10,Detroit Red Wings,4,Chicago Blackhawks,3,"22,046",NaN,NaN,0
+2011-04-10,Edmonton Oilers,3,Colorado Avalanche,4,"17,566",NaN,OT,0
+2011-04-10,Dallas Stars,3,Minnesota Wild,5,"18,504",NaN,NaN,0
+2011-04-10,Boston Bruins,2,New Jersey Devils,3,"17,625",NaN,NaN,0
